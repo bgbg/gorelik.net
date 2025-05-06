@@ -1,11 +1,11 @@
 ---
-layout: post
 title: "When a Model Fales, Make a Modelade"
 date: 2023-09-16
 categories: 
-  - "blog"
-  - "direction-matters"
-coverImage: "/assets/images/2023/09/screenshot-2023-09-16-at-19.49.59.png"
+ - "blog"
+ - "direction-matters"
+cover_image: "/assets/img/2023/09/screenshot-2023-09-16-at-19.49.59.png"
+layout: "post"
 ---
 
 Or, How to Extract Value from Failed Projects
@@ -20,7 +20,7 @@ After working our modeling magic, we ended up with a predictive model that was "
 
 ## Statistically Significant but Practically Useless
 
-The graph indeed looks promising: the correlation coefficient was over 0.95, and the p-value (I can't believe I'm resorting to this!) was 0.00000001, which is considered "excellent." 
+The graph indeed looks promising: the correlation coefficient was over 0.95, and the p-value (I can't believe I'm resorting to this!) was 0.00000001, which is considered "excellent." 
 
 However, there's the rub: echoing an old Russian proverb, "you can't spread the p-value on your bread", or to quote a less old Hebrew saying, "you can't pay with a correlation coefficient at the grocery store." Statistical tests demonstrate the existence of a connection between your model and reality. Yet, this connection isn't sufficient for making informed decisions due to the excessively high spread in our case.
 
@@ -28,7 +28,7 @@ For our model to be of practical use to my client's clients, the typical deviati
 
 ## … or is it?
 
-An old Yiddish adage offers wisdom: \[yeah, I don't have anything relevant, but I'm sure there is one\]. Consider our situation: we've spent considerable time and effort building a model. Does the model's prediction bear any relation to reality? Yes. Are the deviations too high? Again, yes. What does this mean? It indicates that many instances we're trying to model don't behave as anticipated based on our data. Herein lies an opportunity.
+An old Yiddish adage offers wisdom: [yeah, I don't have anything relevant, but I'm sure there is one]. Consider our situation: we've spent considerable time and effort building a model. Does the model's prediction bear any relation to reality? Yes. Are the deviations too high? Again, yes. What does this mean? It indicates that many instances we're trying to model don't behave as anticipated based on our data. Herein lies an opportunity.
 
 In this project, we're attempting to forecast a key business metric. If an entity's metrics are notably worse than expected, this identifies a significant opportunity for improvement—a low-hanging fruit. Consequently, my client or my client's clients could approach the entity and offer assistance.
 
@@ -36,6 +36,6 @@ However, there's another side to this. What hasn't been mentioned is that the "o
 
 ## A happy ending?
 
-The typical "war story" of a freelance consultant generally concludes with the client accepting the consultant's insights, raking in substantial profits, and treating the consultant to a swanky race car. Let's pretend that this is what happened, despite the reality: my client listened to my take and decided to invest their resources in procuring more high-quality data. 
+The typical "war story" of a freelance consultant generally concludes with the client accepting the consultant's insights, raking in substantial profits, and treating the consultant to a swanky race car. Let's pretend that this is what happened, despite the reality: my client listened to my take and decided to invest their resources in procuring more high-quality data. 
 
 Of course, if you ever need help with your modeling, feel free to reach out to me. And if a model doesn't turn out as productive as you'd hoped, we can always attempt to make a rewarding 'modelade' from it. I'm always reachable at boris@gorelik.net.

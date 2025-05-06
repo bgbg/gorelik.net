@@ -1,14 +1,14 @@
 ---
-layout: post
 title: "The value of a dedicated data science approach in HR"
 date: 2024-10-20
 categories: 
-  - "blog"
+ - "blog"
 tags: 
-  - "business"
-  - "hr"
-  - "leadership"
-  - "technology"
+ - "business"
+ - "hr"
+ - "leadership"
+ - "technology"
+layout: "post"
 ---
 
 This document outlines why HR departments in large organizations benefit from a dedicated data science approach, highlighting impacts beyond recruitment. **In short, my thesis is as follows:** as organizations scale, so does the complexity of understanding their internal dynamics. Data tools become essential to analyzing large organizations, as they enable HR to identify patterns and insights that can drive strategic improvements across key areas.
@@ -33,7 +33,7 @@ Social network analysis (SNA) provides valuable insights into the informal netwo
 
 In a recent project for the head of talent and development at a top multinational consulting firm, I analyzed collaboration patterns among managers across regional offices. This analysis identified interaction gaps within the management community, resulting in a de facto split in the team. Addressing this issue led to a measurable increase in manager collaboration over several months, and we also identified key influencers who could further drive change.
 
-![](images/AD_4nXexocsPYf2wgscicDzIQOvUaQSkSz83r6X5BdUyVzUlXLqLm5TcV5sDMhLFAzUgr_kipQ2rKqCG5D1VGm1j-EKkpFIfeqLngt7hr2fd2CFlvsbGIFqHgiZElS72Y8wO5dkJgJKOMRpDgEZRRJ7hcoAoJnvG?key=-AsVLu8YUBcNA9dMr7Svvw)
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXexocsPYf2wgscicDzIQOvUaQSkSz83r6X5BdUyVzUlXLqLm5TcV5sDMhLFAzUgr_kipQ2rKqCG5D1VGm1j-EKkpFIfeqLngt7hr2fd2CFlvsbGIFqHgiZElS72Y8wO5dkJgJKOMRpDgEZRRJ7hcoAoJnvG?key=-AsVLu8YUBcNA9dMr7Svvw)
 
 ## Strengthening company culture
 

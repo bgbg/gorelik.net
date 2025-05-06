@@ -1,15 +1,15 @@
 ---
-layout: post
 title: "Prompt engineers, the sexiest job of the third decade of the 21st century (?), or Don't study prompt engineering as a career move, you'll waste your time"
 date: 2023-04-13
 categories: 
-  - "blog"
-  - "career-advice"
+ - "blog"
+ - "career-advice"
 tags: 
-  - "career"
-  - "gpt"
-  - "llm"
-  - "prompt-engineering"
+ - "career"
+ - "gpt"
+ - "llm"
+ - "prompt-engineering"
+layout: "post"
 ---
 
 Do you recall when data scientists were the talk of the town? Dubbed the sexiest job of the 21st century, they boasted a unique blend of knowledge and skills. I still remember the excitement I felt when I realized that the work I did had a name, and the warm feeling I got when I saw those cool Venn diagrams showing just how awesome data scientists were. Well, it's time for data scientists to step aside and make way for the new heroes in town: the Prompt Engineers!
@@ -20,8 +20,8 @@ Let's take a step back in time: we started with assembly languages, and then a l
 
 Fast forward to today. What do prompt engineers do? They essentially translate their domain knowledge, language understanding, and AI algorithm expertise into computer output (sounds like "ForTran," right?). Prompt engineering is, in essence, a super-high-level programming language. Over time, I believe we'll see dedicated tools and established standards emerge. But for now, it's a wild, untamed frontier.
 
-In 2017, I wrote a blog post titled "[Don’t study data science as a career move; you’ll waste your time!](https://gorelik.net/2017/05/29/dont-study-data-science/)". Until today, this is the most read post in my blog. Now, it's time for a new warning: "Don’t study prompt engineering as a career move; you’ll waste your time!"
+In 2017, I wrote a blog post titled "[Don’t study data science as a career move; you’ll waste your time!](https://gorelik.net/2017/05/29/dont-study-data-science/)". Until today, this is the most read post in my blog. Now, it's time for a new warning: "Don’t study prompt engineering as a career move; you’ll waste your time!" 
 
 Meanwhile, here's a nice Venn diagram for you :-)
 
-![](/assets/images/2023/04/image.png?w=1024)
+![](/assets/img/2023/04/image.png)

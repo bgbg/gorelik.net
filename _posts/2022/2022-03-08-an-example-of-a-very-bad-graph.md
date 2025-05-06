@@ -1,15 +1,15 @@
 ---
-layout: post
 title: "An example of a very bad graph"
 date: 2022-03-08
 categories: 
-  - "blog"
+ - "blog"
 tags: 
-  - "bad-practice"
-  - "data-visualisation"
-  - "data-visualization"
-  - "dataviz"
-  - "rant"
+ - "bad-practice"
+ - "data-visualisation"
+ - "data-visualization"
+ - "dataviz"
+ - "rant"
+layout: "post"
 ---
 
 # An example of a very bad graph
@@ -20,7 +20,7 @@ These two graphs are so bad. It looks as if the authors had a target to squeeze 
 
 Let's take a look at the problems.
 
-![](/assets/images/2022/03/null.png)
+![](/assets/img/2022/03/null.png)
 
 - Double Y axes. Don't! Double axes are bad in 99% of cases ([exceptions do exist](https://gorelik.net/2018/02/05/in-defense-of-double-scale-and-double-y-axes/), but they are rare).
 - Two subgraphs that are meant to work together have different category orders and different Y-axis scales. These differences make the comparison much harder.
@@ -35,4 +35,4 @@ I will keep the category order the same between the two subgraphs. Doing so will
 
 The result should look like this sketch.
 
-![](/assets/images/2022/03/null-1.png)
+![](/assets/img/2022/03/null-1.png)

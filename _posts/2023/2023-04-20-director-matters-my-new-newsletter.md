@@ -1,16 +1,16 @@
 ---
-layout: post
 title: "Director Matters. My new newsletter"
 date: 2023-04-20
 categories: 
-  - "blog"
+ - "blog"
+layout: "post"
 ---
 
 So, I started a substack newsletter called "Direction Matters" (I hope you like the word play).
 
-![](/assets/images/2023/04/image-1.png?w=1024)
+![](/assets/img/2023/04/image-1.png)
 
-https://directionmatters.substack.com  
+https://directionmatters.substack.com<br>
 
 It doesn't matter how hard you push if you're pushing in the wrong direction.
 

@@ -1,34 +1,31 @@
 ---
-layout: post
 title: "Before and after: Alternatives to a radar chart (spider chart)"
 date: 2020-11-10
 categories: 
-  - "blog"
+ - "blog"
 tags: 
-  - "bar-plot"
-  - "before-after"
-  - "data-visualisation"
-  - "data-visualization"
-  - "radar-chart"
-  - "spider-chart"
+ - "bar-plot"
+ - "before-after"
+ - "data-visualisation"
+ - "data-visualization"
+ - "radar-chart"
+ - "spider-chart"
+layout: "post"
 ---
 
-A radar chart (sometimes called "spider charts") look cool but are, in fact,  
-pretty lame. So much so that when the data visualization author Stephen Few mentioned them in his book [Show me the numbers](https://www.amazon.com/Show-Me-Numbers-Designing-Enlighten/), he did so in a chapter called "Silly graphs that are best forsaken."
+A radar chart (sometimes called "spider charts") look cool but are, in fact,<br>pretty lame. So much so that when the data visualization author Stephen Few mentioned them in his book [Show me the numbers](https://www.amazon.com/Show-Me-Numbers-Designing-Enlighten/), he did so in a chapter called "Silly graphs that are best forsaken."
 
 Here, I will demonstrate some of its problems, and will suggest an alternative
 
 ## Before: The problems of a radar (spyder) plot
 
-![](/assets/images/2020/11/image-1.png?w=578)
+![](/assets/img/2020/11/image-1.png)
 
-Above is my reconstruction of the original plot that I saw in a Facebook discussion. The graph looks pretty cool, I have to admit, but it is full of problems.  
-What are the problems of a spyder plot or a radar plot?  
-Let's start with readability. Can you quickly tell the value of "Substance abuse" for the red series? Not that easy.
+Above is my reconstruction of the original plot that I saw in a Facebook discussion. The graph looks pretty cool, I have to admit, but it is full of problems.<br>What are the problems of a spyder plot or a radar plot?<br>Let's start with readability. Can you quickly tell the value of "Substance abuse" for the red series? Not that easy.
 
-But a more significant problem emerges when one realizes that in most cases, the order of the categories is arbitrary and that different sorting options may result in entirely different visual pictures.  
+But a more significant problem emerges when one realizes that in most cases, the order of the categories is arbitrary and that different sorting options may result in entirely different visual pictures.<br>
 
-![](/assets/images/2020/11/image-2.png?w=1024)
+![](/assets/img/2020/11/image-2.png)
 
 ## After: conclusion-based graph design
 
@@ -40,11 +37,11 @@ Let's say that we conclude that there is no correlation between the two series o
 
 Instead of a radar chart, I suggest creating two aligned, horizontal graph plots. This way, we may sort one subplot according to the values, and then, correlation (or lack of thereof) will be evident.
 
-![](/assets/images/2020/11/image-3.png?w=712)
+![](/assets/img/2020/11/image-3.png)
 
 But what if we noticed something interesting about the differences between A and B groups? If this is true, let's show precisely this: the differences.
 
-![](/assets/images/2020/11/image-5.png?w=870)
+![](/assets/img/2020/11/image-5.png)
 
 Notice how the bars in this version are sorted according to the difference. Sorting a bar chart is the easiest way to make it readable.
 

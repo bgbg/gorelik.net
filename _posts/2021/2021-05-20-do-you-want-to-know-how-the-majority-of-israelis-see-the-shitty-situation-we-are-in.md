@@ -1,17 +1,17 @@
 ---
-layout: post
 title: "Do you want to know how the majority of Israelis see the shitty situation we are in?"
 date: 2021-05-20
 categories: 
-  - "blog"
+ - "blog"
 tags: 
-  - "israel"
-  - "israeli-arab-conflict"
-  - "palestine"
-  - "politics"
-  - "video"
+ - "israel"
+ - "israeli-arab-conflict"
+ - "palestine"
+ - "politics"
+ - "video"
+layout: "post"
 ---
 
 To all my friends outside Israel. Do you want to know how the majority of Israelis see the shitty situation we are in? This short video does a good job summarizing it.
 
-https://www.facebook.com/100462013796/videos/537389057252051?\_\_cft\_\_\[0\]=AZUvYpfaSRjJg\_dVRoxwC7U7jmh-t2meeDW48n-IiYtS8d-PgX5o4WGqeConOtdTyC2DY\_BagXlldPPzIE4PUgaoh1T\_pSh\_JCOIvo7BK1NbDifQEGvD07HxuO9pFuEtZeXFpCNSWfBiiZCtxcBbeG8l
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fkeshet.mako%2Fvideos%2F537389057252051%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>

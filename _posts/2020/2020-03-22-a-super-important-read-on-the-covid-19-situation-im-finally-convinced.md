@@ -1,12 +1,12 @@
 ---
-layout: post
 title: "A super-important read on the COVID-19 situation. I&#039;m finally convinced"
 date: 2020-03-22
 categories: 
-  - "blog"
+ - "blog"
 tags: 
-  - "convinced"
-  - "covid-19"
+ - "convinced"
+ - "covid-19"
+layout: "post"
 ---
 
 Until now I was very sceptical about the COVID-19 measures taken by many the governments around the world, especially the Israeli one. Today, finally, I read a post that addressed the three issues I was pointing to:
@@ -16,20 +16,12 @@ Until now I was very sceptical about the COVID-19 measures taken by many the gov
 3. It wouldn’t even solve the problem, because we would be just postponing the epidemic: later on, once we release the social distancing measures, people will still get infected in the millions and die.
 4. **My biggest concern**: Either a lot of people die soon and we don’t hurt the economy today, or we hurt the economy today, just to postpone the deaths.
 
-![](/assets/images/2020/03/screen-shot-2020-03-22-at-15.45.07.png?w=1024)
+![](/assets/img/2020/03/screen-shot-2020-03-22-at-15.45.07.png?w=1024)
 
 There's no point rephrasing here the original post, [just go and read it](https://medium.com/@tomaspueyo/coronavirus-the-hammer-and-the-dance-be9337092b56). I'm convinced. Thank you, Tomas Pueyo
 
-<figure>
-
-[![](/assets/images/2020/03/image-13.png?w=1024)](https://medium.com/@tomaspueyo/coronavirus-the-hammer-and-the-dance-be9337092b56)
-
-<figcaption>
+[![](/assets/img/2020/03/image-13.png?w=1024)](https://medium.com/@tomaspueyo/coronavirus-the-hammer-and-the-dance-be9337092b56)
 
 Go and read. The image is clickable
-
-</figcaption>
-
-</figure>
 
 https://medium.com/@tomaspueyo/coronavirus-the-hammer-and-the-dance-be9337092b56

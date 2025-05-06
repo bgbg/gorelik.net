@@ -1,14 +1,15 @@
 ---
-layout: post
 title: "Hands-on Data Visualization in Python"
 date: 2020-10-21
 categories: 
-  - "blog"
+ - "blog"
 tags: 
-  - "announcement"
-  - "data-visualization"
+ - "announcement"
+ - "data-visualization"
+layout: "post"
+excerpt: "הקליקו כאן לקבלת פרטים והרשמה!"
 ---
 
-[![](/assets/images/2020/10/image-5.png?w=933)](https://he.gorelik.net/workshop/)
+[![](/assets/img/2020/10/image-5.png)](https://he.gorelik.net/workshop/)
 
 [הקליקו כאן לקבלת פרטים והרשמה!](https://he.gorelik.net/workshop/)

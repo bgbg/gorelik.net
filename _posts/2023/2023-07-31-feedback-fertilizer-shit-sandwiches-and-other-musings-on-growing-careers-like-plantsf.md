@@ -1,9 +1,9 @@
 ---
-layout: post
 title: "Feedback Fertilizer, Shit Sandwiches, and Other Musings on Growing Careers Like PlantsF"
 date: 2023-07-31
 categories: 
-  - "blog"
+ - "blog"
+layout: "post"
 ---
 
 [Copied from Substack newsletter](https://directionmatters.substack.com/p/feedback-fertilizer-shit-sandwiches?sd=pf)
@@ -30,18 +30,10 @@ Fact check No. 1: The sandwich, as a concept, was savored by Hillel, a Talmudic 
 
 Fact check No. 2: Sabich (\[saˈbiχ\]), a pita bread sandwich filled with fried eggplants, hard-boiled eggs, chopped salad, parsley, amba, and tahini sauce, is the best street food dish globally. That's it. Full stop. Period. The debate ends here.
 
-<figure>
-
-[![](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fafb118a6-f081-4229-90d5-001b42f4588e_2582x1130.png)
-
-<figcaption>
+![](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fafb118a6-f081-4229-90d5-001b42f4588e_2582x1130.png)
 
 [Sabich](https://en.wikipedia.org/wiki/File:Sabich.jpg). By the Wikipedia user Gilabrand under the Creative Commons Attribution-Share Alike 3.0 Unported license
 
-</figcaption>
-
-</figure>
-
-Fact check No. 3: The 'shit sandwich' is a feedback strategy conceived by corporate America that basically involves sandwiching negative feedback between two layers of positive feedback. In theory, this approach aims to deliver bad news in a way that doesn't hurt someone's feelings. In practice, however, I've yet to meet someone who reacted positively to this method. Instead, I've heard numerous stories of people being called for a pre-dismissal hearing (a "performance review," as they call it) without realizing it because the "bad news" was sugar-coated with fake positivity. 
+Fact check No. 3: The 'shit sandwich' is a feedback strategy conceived by corporate America that basically involves sandwiching negative feedback between two layers of positive feedback. In theory, this approach aims to deliver bad news in a way that doesn't hurt someone's feelings. In practice, however, I've yet to meet someone who reacted positively to this method. Instead, I've heard numerous stories of people being called for a pre-dismissal hearing (a "performance review," as they call it) without realizing it because the "bad news" was sugar-coated with fake positivity.
 
 I suspect the real motive behind the 'shit sandwich' is to make the delivery of feedback more comfortable for the giver rather than the receiver. Giving harsh feedback is challenging, but the person on the receiving end deserves the dignity of hearing your honest opinion. Make the effort - they're worth it.

@@ -1,10 +1,10 @@
 ---
-layout: post
 title: "Resilience and innovation: Israel’s path forwardR"
 date: 2024-07-24
 categories: 
-  - "blog"
-coverImage: "/assets/images/2024/07/photo-1500990702037-7620ccb6a60a.webp"
+ - "blog"
+cover_image: "/assets/img/2024/07/photo-1500990702037-7620ccb6a60a.webp"
+layout: "post"
 ---
 
 This post shares my recent experiences witnessing the resilience and innovation of Israelis. From mobilizing workers and students to volunteer efforts and professional development, we continually advance under challenging conditions.
@@ -23,4 +23,4 @@ Everything I have seen reinforces the belief that Israel faces a bright future. 
 
 https://worldhappiness.report/
 
-https://en.wikipedia.org/wiki/Global\_Innovation\_Index
+https://en.wikipedia.org/wiki/Global_Innovation_Index

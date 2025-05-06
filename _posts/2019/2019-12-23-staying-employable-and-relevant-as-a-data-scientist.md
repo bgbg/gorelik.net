@@ -1,22 +1,22 @@
 ---
-layout: post
 title: "Staying employable and relevant as a data scientist"
 date: 2019-12-23
 categories: 
-  - "blog"
-  - "career-advice"
+ - "blog"
+ - "career-advice"
 tags: 
-  - "creativity"
-  - "data-science"
-  - "data-science-careers"
-  - "development"
-  - "employability"
-coverImage: "/assets/images/2019/12/featured_empty_road.png"
+ - "creativity"
+ - "data-science"
+ - "data-science-careers"
+ - "development"
+ - "employability"
+cover_image: "/assets/img/2019/12/featured_empty_road.png"
+layout: "post"
 ---
 
 One common wisdom is that creative jobs are immune to becoming irrelevant. This is what Brian Solis, the author of "[Lifescale](https://amzn.to/2nncAz2)" says on this matter
 
-[![](/assets/images/2019/12/image-9.png?w=691)](https://amzn.to/2nncAz2)
+[![](/assets/img/2019/12/image-9.png?w=691){:class="alignright"}{:width="200"}](https://amzn.to/2nncAz2)
 
 _On the positive side, historically, with every technological advancement, new jobs are created. Incredible opportunity opens up for individuals to learn new skills and create in new ways. It is your mindset, the new in-demand skills you learn, and your creativity that will assure you a bright future in the age of automation. This is not just my opinion. A thoughtful article in Harvard Business Review by Joseph Pistrui was titled, “The Future of Human Work Is Imagination, Creativity, and Strategy.” He cites research by McKinsey \[...\]. In their research, they discovered that the more technical the work, the more replaceable it is by technology. However, work that requires imagination, creative thinking, analysis, and strategic thinking is not only more difficult to automate; it is those capabilities that are needed to guide and govern the machines._
 

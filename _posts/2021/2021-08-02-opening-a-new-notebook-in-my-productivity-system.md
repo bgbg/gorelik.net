@@ -1,16 +1,16 @@
 ---
-layout: post
 title: "Opening a new notebook in my productivity system"
 date: 2021-08-02
 categories: 
-  - "blog"
-  - "productivity-procrastination"
+ - "blog"
+ - "productivity-procrastination"
 tags: 
-  - "procrastination"
-  - "productivity"
+ - "procrastination"
+ - "productivity"
+layout: "post"
 ---
 
-![](/assets/images/2021/08/notebook.jpeg?w=1024)
+![](/assets/img/2021/08/notebook.jpeg)
 
 Those who know me, know that I always care with me a cheep and thin notebook which I use as an extension to my mind. Today, I opened a new notebook, and this is a good opportunity to share some links about my productivity system.
 
