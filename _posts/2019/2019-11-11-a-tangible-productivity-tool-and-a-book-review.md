@@ -31,11 +31,11 @@ I'm a long user of a productivity method that I adopted from [Mark Forster](htt
 
 Initially, I used my whiteboard for this purpose, but something wasn't right about it.
 
-![](/assets/img/2019/11/pk_01_whiteboard.png)
+![]({{ '/assets/img/2019/11/pk_01_whiteboard.png' | relative_url }})
 
 Having my Kanban on my home office whiteboard had two significant drawbacks. First, the whiteboard isn't with me all the time. And what is the point of putting your tasks on board if you can't see it? Secondly, listing everything on a whiteboard has some privacy issues. After some thoughts, I decided to migrate the Kanban to my notebook.
 
-![](/assets/img/2019/11/pk_02_notebook.png)
+![]({{ '/assets/img/2019/11/pk_02_notebook.png' | relative_url }})
 
 In this notebook, I have two spreads. The first spread is used for the backlog, and "this week" taks. The second spread has the "today," "doing," "wait," and "done" columns. The fact that the notebook is smaller than the whiteboard turned out to be a useful feature. This physical limitation limits the number of tasks I put on my "today" and "doing" lists. 
 

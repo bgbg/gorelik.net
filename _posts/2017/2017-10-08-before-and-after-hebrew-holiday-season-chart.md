@@ -13,7 +13,7 @@ layout: "post"
 
 Sometimes, when I see a graph, I think "I could draw a better version." From time to time, I even consider writing a blog post with the "before" and "after" versions of the plot. Last time I had this desire was when I read the repost of my own [post about the crazy month of Hebrew holidays](http://gorelik.net/2017/09/27/16-days-work-month-the-joys-of-the-hebrew-calendar-2/). I created this graph three years ago. Since then, I have learned A LOT. So I thought it would be a good opportunity to apply my over-criticism to my own work. This is the "before" version:
 
-![Graph: Tishrei is mostly a non-working month.](/assets/img/2016/10/tishrei_workign_weeks.png){:width="480" :class="alignnone"}
+![Graph: Tishrei is mostly a non-working month.]({{ '/assets/img/2016/10/tishrei_workign_weeks.png' | relative_url }}){:width="480" :class="alignnone"}
 
 There are quite a few points worth fixing in that plot. Let's review those problems:
 
@@ -49,7 +49,7 @@ OK, now that we have identified the problems, let's fix them
 
 This is the result:
 
-![tishrei_working_days_after.png](/assets/img/2017/10/tishrei_working_days_after.png){:width="586" :class="alignnone"}
+![tishrei_working_days_after.png]({{ '/assets/img/2017/10/tishrei_working_days_after.png' | relative_url }}){:width="586" :class="alignnone"}
 
 I like it very much. I'm sure though, that if I revisit it in a year or two, I will find more ways to make it even better.
 

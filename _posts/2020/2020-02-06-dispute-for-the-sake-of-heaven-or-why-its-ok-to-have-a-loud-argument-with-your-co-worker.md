@@ -21,7 +21,7 @@ One day, I had an intense argument with a colleague at my [previous place of wo
 
 I'm a data scientist and algorithm developer. I like doing data science and developing algorithms. Sometimes, to be better at my job, I need to show my work to my colleagues. In a "regular" company, I would ask my colleagues to step into my office and play with my models. Automattic isn't a "regular" company. At Automattic, people from more than sixty countries from in every possible time zone. So, I wanted to start a server that will be visible by everyone in the company (and only by them), that will have access to the relevant data, and that will be able to run any software I install on it.
 
-![Two bees fighting](/assets/img/2020/02/argument-e1501103388503.jpg){:class="alignright"}
+![Two bees fighting]({{ '/assets/img/2020/02/argument-e1501103388503.jpg' | relative_url }}){:class="alignright"}
 
 X is a system administrator. He likes administrating the systems that serve more than 2000,000,000 unique visitors in the US alone. To be good at his job, X needs to make sure no bad things happen to the systems. That's why when X saw my request for the new setup (made on a company-visible blog page), his response was, more or less, "Please tell me why do you think you need this, and why can't you manage with what you already have." 
 

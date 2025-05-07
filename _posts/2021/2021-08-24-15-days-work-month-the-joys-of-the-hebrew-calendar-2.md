@@ -15,11 +15,11 @@ Tishrei is the seventh month of the Hebrew calendar that starts with Rosh-HaShan
 
 I have counted the number of business days during this 31-day period (one day before the New Year plus the entire month of Tishrei) between for a perios of several years.
 
-![](/assets/img/2021/08/image-1.png)
+![]({{ '/assets/img/2021/08/image-1.png' | relative_url }})
 
 Overall, this period consists of between 14 to 17 working days in a single month (31 days, mind you). **This year, we only have 14 working days during the Tishrei holiday period.** This is how the working/not-working time during this month looks like:
 
-![](/assets/img/2021/08/image-3.png)
+![]({{ '/assets/img/2021/08/image-3.png' | relative_url }})
 
 Now, having some vacation is nice, but this month is absolutely crazy. There is not a single full working week during this month. It is very similar to the constantly interrupt work day, but at a different scale.
 

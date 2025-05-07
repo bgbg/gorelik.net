@@ -11,7 +11,7 @@ layout: "post"
 
 "Climbing Invisible Ladders and Falling into Deep Holes: A Discourse in Five Parts" is a witty, engaging, and profoundly insightful exploration of corporate dynamics and career progression.”
 
-![](/assets/img/2023/06/image.png?w=1024)
+![]({{ '/assets/img/2023/06/image.png?w=1024' | relative_url }})
 
 # Climbing Invisible Ladders and Falling Deep Holes: A Discourse in Five Parts
 

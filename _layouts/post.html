@@ -14,7 +14,7 @@
                 </header>
 
                 {% if page.cover_image %}
-                <img src="{{page.cover_image}}" class="cover-image">
+                <img src="{{ page.cover_image | relative_url }}" class="cover-image">
                 {% endif %}
 
                 <div class="article-content">

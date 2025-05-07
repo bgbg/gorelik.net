@@ -8,7 +8,7 @@ layout: "page"
 
 כי להבין טוב יותר עם מי אני מדבר, אשמח אם תענו לכמה שאלות קצרות.
 
-![](/assets/img/2020/10/pexels-photo-3760607.jpeg)
+![]({{ '/assets/img/2020/10/pexels-photo-3760607.jpeg' | relative_url }})
 
 Photo by Andrea Piacquadio on [Pexels.com](https://www.pexels.com/photo/pensive-ethnic-man-listening-to-answer-in-paper-cup-phone-3760607/)
 

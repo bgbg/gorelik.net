@@ -24,7 +24,7 @@ Next comes the fun part, I get to play with my cards by arranging them on the we
 
 After I'm done, I copy each post-it note into my calendar. Thanks to the integration with [Todoist](https://doist.com/) (an excellent productivity tool), all these tasks end up in my todo list, where I can further work with them.
 
-![](/assets/img/2020/07/image.png)
+![]({{ '/assets/img/2020/07/image.png' | relative_url }})
 
 To sum up:
 

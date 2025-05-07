@@ -12,7 +12,7 @@ In data visualization, much like in any form of communication, it's vital to kee
 
 During a recent practical data visualization workshop I led, we tackled creating a graph that illustrated the income inequality in Israel in comparison to OECD countries. In the "before" version of the graph, displayed below on the left, there's a noticeable redundancy between the title and the Y-axis label. Both essentially echoed each other, added no real value, and worst of all, were obscure to anyone not versed in the jargon of the "Gini Index".
 
-![](/assets/img/2024/02/image.png)
+![]({{ '/assets/img/2024/02/image.png' | relative_url }})
 
 Our strategy for improvement was straightforward but effective: we swapped the title for the overarching conclusion. This modification was the kickoff for a cascade of enhancements. Yet, we hit a snag with the Gini Index itself—our focal point. Our solution? We underscored the fact that this index is a measure of inequality, clarified its scale (“Higher  more unequal”), and kept the term for those already in the know.
 

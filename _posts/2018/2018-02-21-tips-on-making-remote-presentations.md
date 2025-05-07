@@ -18,7 +18,7 @@ layout: "post"
 Today, I made a presentation to the faculty of the [Chisinau ](http://www.math.md/en/)
 [Institute of Mathematics and Computer Science](http://www.math.md/en/). The audience gathered in a conference room in Chisinau, and I was in my home office in Israel.
 
-![Me presenting in front of the computer](/assets/img/2018/02/presenting_over_skype.png){:width="1280" :class="alignnone"}
+![Me presenting in front of the computer]({{ '/assets/img/2018/02/presenting_over_skype.png' | relative_url }}){:width="1280" :class="alignnone"}
 
 Following is a list of useful tips for this kind of presentations.
 
@@ -33,6 +33,6 @@ Following is a list of useful tips for this kind of presentations.
 
      Stand up! Usually, we stand up when we present in front of live audience. For some reason, when presenting remotely, people tend to sit. A sitting person is less dynamic and looks less engaging. I have a standing desk which allows me to stand up and to raise the camera to my face level. If you can't raise the camera, stay sitting. You don't want your audience staring at your groin.
 
-![Auditorium in Chisinau showing me on their screen](/assets/img/2018/02/me_from_chisinau.jpg){:width="4096" :class="alignnone"}
+![Auditorium in Chisinau showing me on their screen]({{ '/assets/img/2018/02/me_from_chisinau.jpg' | relative_url }}){:width="4096" :class="alignnone"}
 
  

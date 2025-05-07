@@ -14,7 +14,7 @@ layout: "post"
 
 I wrote about data giraffes [two weeks ago](https://gorelik.net/2020/03/18/an-interesting-solution-to-data-giraffes/). Usually, "data giraffes" are a problem and we need to work hard in order to solve it. Sometimes, they are a useful feature. Take a look at this NYT front page that shows the number of new unemployment applications in the United States over the time
 
-![](/assets/img/2020/03/nytimes-567x1024.png)
+![]({{ '/assets/img/2020/03/nytimes-567x1024.png' | relative_url }})
 
 And this is the [pseudochartchart](https://gorelik.net/2019/09/09/pseudochart-its-like-a-pseudocode-but-for-charts/) version of the same data
 

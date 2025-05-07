@@ -7,4 +7,4 @@ layout: "post"
 excerpt: ""
 ---
 
-![](/assets/img/2020/06/multilanguage.jpg)
+![]({{ '/assets/img/2020/06/multilanguage.jpg' | relative_url }})

@@ -18,11 +18,11 @@ Remote work means that we use text as our primary communication tool. Moreover, 
 
 To my embarrassment, I discovered that I made a typo in the report title, and not just a typo: I misspelled the company name :-(. A couple of minutes after asking for a review, two of my coworkers pinged me on Slack and told me about the typo. One message was, "There is a typo in the title." Short, simple, and concise.
 
-![](/assets/img/2019/10/image-10.png)
+![]({{ '/assets/img/2019/10/image-10.png' | relative_url }})
 
 The second message was much longer.
 
-![](/assets/img/2019/10/image-12.png)
+![]({{ '/assets/img/2019/10/image-12.png' | relative_url }})
 
 Do you want to guess what the difference between the two coworkers is? <br> .<br> .<br> .<br> .<br> .<br> Here's the answer<br> .<br> .<br> .<br> .<br> The author of the first (short) message grew up and lives in Germany. The author of the second message is American.  Germany, United States, and Israel (where I am from) have very different cultural codes.  Being an Israeli, I tend to communicate in a more direct and less "sweetened" way. For me, the American communication style sounds a little bit "artificial," even though I don't doubt the sincerity of this particular American coworker.  I think that the opposite situation is even more problematic. It happened several times: I made a remark that, in my opinion, was neutral and well-intended, and later I heard comments about how I sounded too aggressive. Interestingly, all the commenters were Americans.
 

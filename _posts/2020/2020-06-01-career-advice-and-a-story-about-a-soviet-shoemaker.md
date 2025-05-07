@@ -13,7 +13,7 @@ layout: "post"
 
 When I was in elementary school (back in the USSR of the mid 80's), I had a friend whose father was a shoemaker. Due to the crazy stupid way the Soviet economy worked, a Soviet shoemaker was much richer than a physician or an engineer. But this is not the story. The story is that one day this friend's father had a chat with me about selecting a profession. This man's point was that for as long as people have feet and need shoes on their feet, a shoemaker would be required and well-earning occupation. Guess what? People still have feet, and still, ware shoes, but I don't see too many successful shoemakers anymore.
 
-![](/assets/img/2020/06/sapozhnik.jpg?w=392)
+![]({{ '/assets/img/2020/06/sapozhnik.jpg?w=392' | relative_url }})
 
 Common wisdom says, "It is very hard to predict, especially the future." And I will add "even more especially, about the job market.". Nevertheless, people need to decide what to do with their lives, how to live, and what career paths to pursue. Some of them ask me, and I'm glad to answer. If you have any career-related questions, don't be shy! Write to [boris@gorelik.net](mailto:boris@gorelik.net), and I'll see what wisdom I will be able to share with you.
 

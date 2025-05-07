@@ -23,11 +23,11 @@ I already wrote about my [interest in data visualization in Right-To-Left (RTL) 
 
 Both Jordan and PA use the same (Jordanian) school program. In both cases, I was surprised to discover that they almost never use Latin or Greek letters in their math notation. Not only that, the entire direction of the the mathematical notation is from right to left. Here's an illustrative example from the Palestinian book.
 
-![Screenshot: Arabic text, Arabic math notation and a graph](/assets/img/2019/05/screen-shot-2019-05-19-at-16.18.53.png)
+![Screenshot: Arabic text, Arabic math notation and a graph]({{ '/assets/img/2019/05/screen-shot-2019-05-19-at-16.18.53.png' | relative_url }})
 
 And here is an example from Jordan
 
-![](/assets/img/2019/05/screen-shot-2019-05-19-at-16.32.12.png)
+![]({{ '/assets/img/2019/05/screen-shot-2019-05-19-at-16.32.12.png' | relative_url }})
 
 What do we see here?
 
@@ -42,9 +42,9 @@ What about mathematics textbooks in Hebrew?
 
 Unfortunately, I don't have a copy of a Hebrew language book in calculus, so I will use fifth grade math book
 
-![](/assets/img/2019/05/image.png)
+![]({{ '/assets/img/2019/05/image.png' | relative_url }})
 
-![](/assets/img/2019/05/image-1.png)
+![]({{ '/assets/img/2019/05/image-1.png' | relative_url }})
 
 Despite the fact that the Hebrew text flows from right to left, we (the Israelis) write our math notations from left to right. I have never saw any exceptions of this rule. 
 

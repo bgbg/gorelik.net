@@ -13,7 +13,7 @@ layout: "post"
 excerpt: "In January 2020, I started a new experiment."
 ---
 
-![](/assets/img/2020/02/whatsapp-image-2020-02-10-at-21.53.04.jpeg){:class="alignright"}{:width="77"}
+![]({{ '/assets/img/2020/02/whatsapp-image-2020-02-10-at-21.53.04.jpeg' | relative_url }}){:class="alignright"}{:width="77"}
 
 In January 2020, I started a new experiment. [I quit what was a dream job and became a freelancer](https://gorelik.net/2020/01/13/how-i-got-a-dream-job-in-a-distributed-company-and-why-i-am-leaving-it/). Today, the experiment is over. This post serves as omphaloskepsis  a  short reflection on what went well and what could have worked better.
 
@@ -21,7 +21,7 @@ In January 2020, I started a new experiment. [I quit what was a dream job and b
 
 To sum up, I declare this experiment successful. I had a chance to work with several very interesting companies. I got exposed to business models of which I wasn't aware. Most importantly, I met new intelligent and ambitious people. I also had a chance to feel by myself how it feels to be self-employed, to see the behind-the-scenes of several freelancers and entrepreneurs. I learned to appreciate the audacity and the courage of people who don't rely on monthly paychecks and take much more responsibility for their lives than the vast majority of the "salarymen."
 
-![](/assets/img/2020/02/whatsapp-image-2020-02-10-at-21.53.03.jpeg){:class="alignright"}{:width="150"}
+![]({{ '/assets/img/2020/02/whatsapp-image-2020-02-10-at-21.53.03.jpeg' | relative_url }}){:class="alignright"}{:width="150"}
 
 Let's talk about money. Was it worth it in terms of \$\$\$\$\$ (or ₪₪₪₪₪₪)? Objectively speaking, my financial situation remained approximately unchanged. Towards the end of the experiment, I found myself overbooked, which means that, in theory, I could have increased my income substantially. But this is only in theory. In practice, I decided to end the freelance experiment and "settle down".
 

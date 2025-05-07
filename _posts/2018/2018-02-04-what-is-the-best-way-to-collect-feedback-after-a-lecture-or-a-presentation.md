@@ -49,6 +49,6 @@ That's it.
 
 When I teach using the [Data Carpentry](http://www.datacarpentry.org/) methods, each of my learners already has two post-it notes that they use to signal whether they are done with an assignment (green) or are stuck with it (red). In these cases, I ask them to use these notes to fill in their responses - one post-it note for the positive feedback, and another one for the criticism. It always works like a charm.
 
-![A pile of green and red post-it notes with feedback on them](/assets/img/2018/02/feedback.jpg){:width="4128" :class="alignnone"}
+![A pile of green and red post-it notes with feedback on them]({{ '/assets/img/2018/02/feedback.jpg' | relative_url }}){:width="4128" :class="alignnone"}
 
  

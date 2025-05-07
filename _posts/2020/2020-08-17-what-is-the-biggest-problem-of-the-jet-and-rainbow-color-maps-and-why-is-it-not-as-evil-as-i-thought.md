@@ -17,19 +17,19 @@ layout: "post"
 
 There was a consensus among the data visualization purists that the rainbow color map, and it's close cousin Jet are bad. Really bad. These colormaps used to be popular at the beginning of the computational data visualization era. However, their popularity decreased in the last five years or so. The sentiment isn't as bad as it used to be a couple of years ago, but still.
 
-![](/assets/img/2020/08/image.png?w=1024)
+![]({{ '/assets/img/2020/08/image.png?w=1024' | relative_url }})
 
 A screenshot from circa 2016. Today we are less fanatic than that
 
 What is the biggest problem of the rainbow colormap? The most apparent problem with this particular colormap is that it not perceptually uniform. By "perceptually uniform," I mean that equal changes in the value that we encode using a colormap should correspond to same changes in the color perception. This is not the case with the rainbow or the Jet colormaps. They have distinct bright and dark stripes within the number range, making them the wrong choice to encode numerical data. The situation is even worse for people with impaired color vision.
 
-![](/assets/img/2020/08/image-1.png?w=1024)
+![]({{ '/assets/img/2020/08/image-1.png?w=1024' | relative_url }})
 
 Can you be less perceptually uniform?
 
 The solution to this problem was proposed in the form of better colormaps. The first one that I know of is [Parula by Matlab](https://www.mathworks.com/help/matlab/ref/parula.html), and it's opensource alternative Viridis that is available in matplotlib and many other plotting libraries. (Watch [this video about viridis](https://www.youtube.com/watch?v=xAoljeRJ3lU) to get a good introduction to color perception and color maps).
 
-![](/assets/img/2020/08/image-2.png?w=1024)
+![]({{ '/assets/img/2020/08/image-2.png?w=1024' | relative_url }})
 
 Viridis, the new rainbow
 
@@ -37,7 +37,7 @@ Everything was nice and good, and I was trashing the rainbow colormap whenever I
 
 In the [long and interesting blog post that describes Turbo](https://ai.googleblog.com/2019/08/turbo-improved-rainbow-colormap-for.html), Anton Mikhailov, a software engineer in Google, describes several relevant applications of a "good rainbow" scheme.
 
-![](/assets/img/2020/08/image-3.png?w=1000)
+![]({{ '/assets/img/2020/08/image-3.png?w=1000' | relative_url }})
 
 According to Anton, "Because of rapid color and lightness changes, Jet accentuates detail in the background that is less apparent with Viridis and even Inferno. Depending on the data, some detail may be lost entirely to the naked eye. The background in the following images is barely distinguishable with Inferno (which is already punchier than Viridis), but clear with Turbo."
 
@@ -47,6 +47,6 @@ The biggest problem with that is mentioned concerning the original rainbow schem
 
 Moreover, in many cases, the interesting details appear in the extreme values of the data range, not in the middle. In thes cases, a properly applied rainbow-like color scheme becomes a valid choice.
 
-![](/assets/img/2020/08/image-4.png?w=1024)
+![]({{ '/assets/img/2020/08/image-4.png?w=1024' | relative_url }})
 
 The bottom line is that one should not refrain from using rainbow(-like) color maps in their visualizations anymore, provided that they use a modern implementation. Luckily, it's even available in matplotlib

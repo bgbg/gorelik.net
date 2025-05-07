@@ -10,6 +10,6 @@ layout: "post"
 excerpt: "הקליקו כאן לקבלת פרטים והרשמה!"
 ---
 
-[![](/assets/img/2020/10/image-5.png)](https://he.gorelik.net/workshop/)
+[![]({{ '/assets/img/2020/10/image-5.png)](https://he.gorelik.net/workshop/' | relative_url }})
 
 [הקליקו כאן לקבלת פרטים והרשמה!](https://he.gorelik.net/workshop/)

@@ -13,7 +13,7 @@ layout: "post"
 
 <br>This week, I mark an [important milestone in my professional life](https://gorelik.net/2021/05/02/a-new-phase-in-my-professional-life/). It is an excellent opportunity to start a new productivity notebook and tell you about the latest evolution of [the best productivity system I know](https://gorelik.net/tag/productivity/).
 
-![](/assets/img/2021/05/notebooks1.jpg)
+![]({{ '/assets/img/2021/05/notebooks1.jpg' | relative_url }})
 
 To sum up, I use a custom variant of [Mark Forster's Final Version ](http://archive.constantcontact.com/fs004/1100358239599/archive/1109511856508.html)productivity system that uses a plain notebook to track, prioritize, and eliminate tasks. Using a physical notebook, as opposed to an electronic tool, is a massive boost in productivity, as it forces you to process your priorities in an unplugged mode, without any distractions.
 
@@ -23,6 +23,6 @@ I now have two notebooks. The first one is a small (80 pages) soft notebook that
 
 The second, larger notebook is used for note keeping, drafts and sketches. The fact that the notebook is vertically bound allows me seemingly switching from Hebrew (that is written from right to left) and English. When a sketch of a draft isn't relevant anymore, I tear the draft pages away; and I use a small binder to keep the note pages together for future reference.
 
-![](/assets/img/2021/05/notebooks2.jpg)
+![]({{ '/assets/img/2021/05/notebooks2.jpg' | relative_url }})
 
 Overall, I like this combo very much and it fits my workflow well.

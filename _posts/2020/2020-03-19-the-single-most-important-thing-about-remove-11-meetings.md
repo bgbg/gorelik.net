@@ -17,4 +17,4 @@ The effectiveness of distributed work doesn't surprise me, after all, I have bee
 
 I have been working in distributed teams for about six years. If you need advice on how to make the transition easier for your organization, I'll be glad to give one (or two).
 
-![](/assets/img/2020/03/me_in_cancun.jpg)
+![]({{ '/assets/img/2020/03/me_in_cancun.jpg' | relative_url }})

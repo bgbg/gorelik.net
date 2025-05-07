@@ -16,7 +16,7 @@ I apologize for my harsh language, but recently I was exposed to a bunch of grap
 
 Here's the gem:
 
-![](/assets/img/2020/10/image.png?w=1024)
+![]({{ '/assets/img/2020/10/image.png?w=1024' | relative_url }})
 
 I deliberately don't share the link to this site. I don't want let Google think it's valuable in any way.
 
@@ -30,26 +30,26 @@ Let's start from my guess that they cherry-picked the stats with "positive" chan
 
 Take a look at this graph.
 
-![](/assets/img/2020/10/image-1.png?w=879)
+![]({{ '/assets/img/2020/10/image-1.png?w=879' | relative_url }})
 
 The only time we use shapes like that is when we want to convey information about uncertainty. To do that, the X-axis represents the thing we are measuring, and the Y-axis represents our certainty about the current value. When we compare to uncertain measurements, we may judge the difference between these measurements by the distance between the curve peaks, and the width of the curve represents the uncertainty.
 
 Here's a good example from \[[this link](https://vwo.com/why-us/technology/bayesian-statistics/)\]:
 
-![](/assets/img/2020/10/image-2.png?w=1024)
+![]({{ '/assets/img/2020/10/image-2.png?w=1024' | relative_url }})
 
 Can you see how the metric of interest is on the X-axis? The width of each bell curve represents the uncertainty and the difference between any pair of cases is the difference on the **horizontal (X) axis**, not the vertical one.
 
 Instead, what do the IB authors did? They obviously like sleek looking shapes but know nothing about how to use them. They could have used two bars and let the viewer compare their heights. But nooooo! Bars are not c3wl! Bars are boring! Instead, they took probability density curves (that's how they are technically called) and made them pretend to be bars.
 
 
-![](/assets/img/2020/10/after.png?w=129)
+![]({{ '/assets/img/2020/10/after.png?w=129' | relative_url }})
 
 Bars. Is this THAT hard?
 
 I can hear some of you saying, "Stop being so purist! What's wrong with comparing the heights of bell curves?" I'll tell you what's wrong! Data visualization is a language. As with any language, it has some rules and traditions. If you hear me saying, "me go home," you will understand me without any problem. However, you will silently judge me for my poor use of the English language. I know that, and since English is my third language, I use all the help to make as few mistakes as possible. The same is correct with data visualization. Please respect its rules and traditions, even if (and especially if) are not fluent in it.
 
-![](/assets/img/2020/10/image-3.png?w=1024)
+![]({{ '/assets/img/2020/10/image-3.png?w=1024' | relative_url }})
 
 I never write more than two sentences in English without Grammarly
 
