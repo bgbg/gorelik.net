@@ -9,6 +9,6 @@ tags:
 layout: "post"
 ---
 
-![]({{ '/assets/img/2020/03/image-12.png' | relative_url }})
+![]({{ site.url }}{{ site.baseurl }}'/assets/img/2020/03/image-12.png' )
 
 Graph code: [here](https://gist.github.com/bgbg/ae80e1e9a83a9d220cd4ff59b3e682ab).

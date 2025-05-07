@@ -13,7 +13,7 @@ layout: "post"
 
 I stumbled upon a great graph that tells a complex story compellingly.
 
-![]({{ '/assets/img/2021/07/image.png?w=598' | relative_url }})
+![]({{ site.url }}{{ site.baseurl }}'/assets/img/2021/07/image.png?w=598' )
 
 Comparison of two COVID-19 waves in the UK, taken from [here](https://www.linkedin.com/posts/yevtarler_datascience-datavisualization-dataanalytics-activity-6817686875751383040-Hq-j).
 

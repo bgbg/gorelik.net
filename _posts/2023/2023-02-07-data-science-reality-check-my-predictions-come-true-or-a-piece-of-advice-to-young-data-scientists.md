@@ -10,13 +10,13 @@ layout: "post"
 
 Read this if you're a data scientist or consider becoming one.
 
-![]({{ '/assets/img/2023/02/image-2.png' | relative_url }}){:class="alignright"}
+![]({{ site.url }}{{ site.baseurl }}'/assets/img/2023/02/image-2.png' ){:class="alignright"}
 
 Almost six years ago, when Data Scientist was named the "sexiest job of the 21st century", [I wrote a blog post telling young professionals not to learn data science as a career move](https://gorelik.net/2017/05/29/dont-study-data-science/). My claim was that the data science field fill gets commoditized, and if you don't possess deep (I mean DEEP) knowledge of either algorithms or the business you are working at, you will end up a mediocre coder.
 
 Look what happened. Data science has indeed become commoditized in many fields. Many data-intence businesses work just fine without data scientists. Even I, a very experienced data scientist, got laid off because I couldn't bring the company value that would justify my salary. People like Matthew Yglesias from https://www.slowboring.com suggest that data scientists learn how to roll a burrito or mine lithium.
 
-![]({{ '/assets/img/2023/02/image-3.png' | relative_url }})
+![]({{ site.url }}{{ site.baseurl }}'/assets/img/2023/02/image-3.png' )
 
 Why did this happen? Well, I was right. Data science **has** become a commodity. Each self-respecting platform offers AI tools (I hate the term AI, by the way) such as keyword extraction, insights, predictions, anomaly detection, recommendations, and many more. Tableau, PowerBI, and even Google Sheets or Excel offer tools that were once only available through custom data and code fiddling. The Data-Science-As-A-Service niche is full of products such as https://www.pecan.ai and https://www.anodot.com. And we haven't even started talking about the new word of the day: the GPT.
 

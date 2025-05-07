@@ -15,11 +15,11 @@ Take the two examples below.
 
 One example (taken from [here](https://www.data-to-viz.com/graph/chord.html)) shows worldwide migration patterns in a clear and useful way. You can take a look at the graph and make real conclusions.
 
-![]({{ '/assets/img/2020/06/image.png' | relative_url }})
+![]({{ site.url }}{{ site.baseurl }}'/assets/img/2020/06/image.png' )
 
 The other example (taken from [here](https://fashiontomenandwomens.fashion.blog/2020/03/22/patent-portfolio-mapping-data-visualization/)) is mostly a useless illustration. 
 
-![]({{ '/assets/img/2020/06/image-1.png' | relative_url }})
+![]({{ site.url }}{{ site.baseurl }}'/assets/img/2020/06/image-1.png' )
 
 The only "conclusion" that a viewer can make out of this graph is "everything is connected with everything." 
 

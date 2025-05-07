@@ -15,13 +15,13 @@ I have counted the number of business days during this 31-day period (one day be
 
  
 
-![tishrei_working_days]({{ '/assets/img/2016/10/tishrei_working_days1.png' | relative_url }}){:width="591" :class="alignnone"}
+![tishrei_working_days]({{ site.url }}{{ site.baseurl }}'/assets/img/2016/10/tishrei_working_days1.png' ){:width="591" :class="alignnone"}
 
  
 
 Overall, this period consists of between 15 to 17 non-working days in a single month (31 days, mind you). This is how the working/not-working time during this month looks like this:
 
-![tishrei_workign_weeks.png]({{ '/assets/img/2016/10/tishrei_workign_weeks.png' | relative_url }}){:width="480" :class="alignnone"}
+![tishrei_workign_weeks.png]({{ site.url }}{{ site.baseurl }}'/assets/img/2016/10/tishrei_workign_weeks.png' ){:width="480" :class="alignnone"}
 
  
 

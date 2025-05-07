@@ -8,7 +8,7 @@ layout: "post"
 
 So, I started a substack newsletter called "Direction Matters" (I hope you like the word play).
 
-![]({{ '/assets/img/2023/04/image-1.png' | relative_url }})
+![]({{ site.url }}{{ site.baseurl }}'/assets/img/2023/04/image-1.png' )
 
 https://directionmatters.substack.com<br>
 

@@ -11,4 +11,4 @@ Innumeracy is the "inability to deal comfortably with the fundamental notions of
 
 https://tombreur.wordpress.com/2018/10/21/innumeracy/
 
-[![]({{ '/assets/img/2020/12/image.png)](https://tombreur.wordpress.com/2018/10/21/innumeracy/' | relative_url }})
+[![]({{ site.url }}{{ site.baseurl }}'/assets/img/2020/12/image.png)](https://tombreur.wordpress.com/2018/10/21/innumeracy/' )

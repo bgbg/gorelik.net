@@ -15,6 +15,6 @@ layout: "post"
 
 [NDR](https://ndrconf.ai/) is a family of machine learning/data science conferences. Their  next conference will be held online on May, 28 and the agenda looks great.
 
-![]({{ '/assets/img/2020/04/image-4.png' | relative_url }})
+![]({{ site.url }}{{ site.baseurl }}'/assets/img/2020/04/image-4.png' )
 
 Now, I'm not super objective here, because I'm presenting at NDR July event. But look at the topics, what an impressive selection!

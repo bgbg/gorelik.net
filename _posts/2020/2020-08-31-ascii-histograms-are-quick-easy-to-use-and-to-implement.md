@@ -16,4 +16,4 @@ From time to time, we need to look at a distribution of a group of values. Histo
 
 Recently, I updated the python function that I use to create ASCII histograms. The updated function [[link](https://gist.github.com/bgbg/608d9ef4fd75032731651257fe67fc81)] uses more modern formatting and includes several signal-to-noise improvements. One can also use it with custom output functions, such as `logging.info`.
 
-![]({{ '/assets/img/2020/08/image-12.png' | relative_url }})
+![]({{ site.url }}{{ site.baseurl }}'/assets/img/2020/08/image-12.png' )

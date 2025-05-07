@@ -11,4 +11,4 @@ layout: "post"
 
 Which data scientists can refuse more computing power? None. My collection of computing devices has a new addition  a Soviet arithmometer Felix M.
 
-![]({{ '/assets/img/2020/02/ari3.jpg' | relative_url }})
+![]({{ site.url }}{{ site.baseurl }}'/assets/img/2020/02/ari3.jpg' )

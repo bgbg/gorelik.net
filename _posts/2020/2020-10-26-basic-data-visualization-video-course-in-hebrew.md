@@ -21,4 +21,4 @@ I got paid for this job. However, when I divide the money that I received for th
 https://he.gorelik.net/course/
 </div>
 
-![]({{ '/assets/img/2020/10/studio.png' | relative_url }})
+![]({{ site.url }}{{ site.baseurl }}'/assets/img/2020/10/studio.png' )

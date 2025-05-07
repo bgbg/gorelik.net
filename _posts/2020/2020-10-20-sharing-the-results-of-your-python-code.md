@@ -13,7 +13,7 @@ layout: "post"
 
 If you work, but nobody knows about your results or cares about them, have you done any work at all?
 
-![]({{ '/assets/img/2020/10/pexels-photo-38136.jpeg' | relative_url }})
+![]({{ site.url }}{{ site.baseurl }}'/assets/img/2020/10/pexels-photo-38136.jpeg' )
 
 A proverbial tree in the proverbial forest. Photo by veeterzy on [Pexels.com](https://www.pexels.com/photo/nature-forest-trees-park-38136/)
 

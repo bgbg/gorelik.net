@@ -25,6 +25,6 @@ Last week, Robert published another paper with a pretty confident title ("Eviden
 > <cite>Kosara. “Evidence for Area as the Primary Visual Cue in Pie Charts.” OSF, 17 Oct.  Web.</cite>
 
 
-![]({{ '/assets/img/2019/10/Kosara-VISShort-2019.png' | relative_url }})
+![]({{ site.url }}{{ site.baseurl }}'/assets/img/2019/10/Kosara-VISShort-2019.png' )
 
 The previous Kosara's studies had strong practical implications, the most important being that pie charts are not evil provided they are done correctly. However, I'm not sure what I can take from this one. As far as I understand the data, the answer to the questions in the beginning of this post are still unclear. Maybe, the "real answer" to these questions is "a combination of thereof".

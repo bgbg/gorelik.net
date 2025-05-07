@@ -14,4 +14,4 @@ layout: "post"
 
 After about two years of study, I feel ready to add Arabic to LinkedIn's language list
 
-![]({{ '/assets/img/2020/11/image.png' | relative_url }})
+![]({{ site.url }}{{ site.baseurl }}'/assets/img/2020/11/image.png' )

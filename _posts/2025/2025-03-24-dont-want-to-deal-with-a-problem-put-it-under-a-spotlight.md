@@ -15,11 +15,11 @@ Two weeks ago, I published a research paper [Ethnic Divisions Within Unity: Insi
 - first paper I authored by myself
 - first paper in social studies (I'm a former pharmacist, remember)
 
-![]({{ '/assets/img/2025/03/image-1.png' | relative_url }}){:class="alignleft" style="width:182px;height:auto"}
+![]({{ site.url }}{{ site.baseurl }}'/assets/img/2025/03/image-1.png' ){:class="alignleft" style="width:182px;height:auto"}
 
 I have a confession to make. When I concluded the research phase, I stumbled upon an open question that I couldn't answer. I really wanted to publish what I already had, so instead of trying to deemphasize the problem or write far-fetched theories, I decided to put the problem under a spotlight and declare it loud and clear, emphasizing that this publication is a chance to deal with **publication bias** — a phenomenon that leads scientific journals to favor positive or significant findings while neglecting studies that yield negative or inconclusive results. 
 
-![]({{ '/assets/img/2025/03/image.png' | relative_url }})
+![]({{ site.url }}{{ site.baseurl }}'/assets/img/2025/03/image.png' )
 
 ## This is not the end
 

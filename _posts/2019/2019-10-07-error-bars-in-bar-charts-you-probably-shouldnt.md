@@ -47,11 +47,11 @@ More specifically to bar plots, error lines break the bar analogy and  are hard 
 
 The thing with bar charts is that they are meant to represent physical bars. A physical bar doesn't have soft edges and adding error lines simply breaks the visual analogy.
 
-Another problem is that the upper part of the error line is more visible to the eye than the lower one, the one that is seen inside the physical bar. See?![undefined]({{ '/assets/img/2019/10/screen-shot-2019-10-07-at-9.09.06.png' | relative_url }}){style="width:150px;"}
+Another problem is that the upper part of the error line is more visible to the eye than the lower one, the one that is seen inside the physical bar. See?![undefined]({{ site.url }}{{ site.baseurl }}'/assets/img/2019/10/screen-shot-2019-10-07-at-9.09.06.png' ){style="width:150px;"}
 
 But that's not all. The width of the error bars separates the error lines and makes the comparison even harder. Compare the readability of error lines in the two examples below
 
-![]({{ '/assets/img/2019/10/image-1.png){style="width:300px;"} ![](/assets/img/2019/10/image-2.png' | relative_url }}){style="width:300px;"}
+![]({{ site.url }}{{ site.baseurl }}'/assets/img/2019/10/image-1.png){style="width:300px;"} ![](/assets/img/2019/10/image-2.png' ){style="width:300px;"}
 
 The proximity of the error lines in the second example (take from [this site](https://andrewpwheeler.wordpress.com/2016/03/08/on-overlapping-error-bars-in-charts/)) makes the comparison easier.
 

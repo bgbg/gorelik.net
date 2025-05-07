@@ -14,4 +14,4 @@ I'm honored to take part in standardizing bidirectional language support in inte
 
 The Committee is led by [Gilad Almosnino](https://www.linkedin.com/in/g-alm/?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAACCrnQBdnurp7AAEyzKKwcsbb9aT9PgzzI). Below is Gilad's project announcement. 
 
-[![]({{ '/assets/img/2020/06/image-6.png){:width="574"}](https://www.linkedin.com/posts/g-alm_ux-activity-6680140809821581312-fsvT/' | relative_url }})
+[![]({{ site.url }}{{ site.baseurl }}'/assets/img/2020/06/image-6.png){:width="574"}](https://www.linkedin.com/posts/g-alm_ux-activity-6680140809821581312-fsvT/' )

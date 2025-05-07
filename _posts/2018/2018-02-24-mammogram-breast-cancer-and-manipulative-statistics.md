@@ -22,7 +22,7 @@ Prof. Gerd Gigerenzer gave this quiz to numerous students, physicians, and profe
 To understand my concern, let me first explain how we get the 9% figure.
 There are several ways to get to this result. One of them is as follows. Eighty out of 10,000 women have breast cancer. Of those women, 72 (90% of 80) will test positive during a mammogram. Of the remaining 9,920 healthy women, about 694 (7%) will also have a positive mammogram test. The total number of women with a positive test is  Of those 766 women, only 72 have breast cancer, which is about 9%. The following diagram will help you track the numbers.
 
-![Diagram that presents natural occurrence of breast cancer, and the statistics of mammogram tests]({{ '/assets/img/2018/02/mammogram_and_breast_cancer-e1519503231567.png' | relative_url }}){:width="960" :class="alignnone"}
+![Diagram that presents natural occurrence of breast cancer, and the statistics of mammogram tests]({{ site.url }}{{ site.baseurl }}'/assets/img/2018/02/mammogram_and_breast_cancer-e1519503231567.png' ){:width="960" :class="alignnone"}
 
 Nine percent is indeed a low number. If a woman gets ten mammogram tests in her lifetime, there is a 60+% chance that she will have at least one false positive test. This is not something that can be easily ignored.
 

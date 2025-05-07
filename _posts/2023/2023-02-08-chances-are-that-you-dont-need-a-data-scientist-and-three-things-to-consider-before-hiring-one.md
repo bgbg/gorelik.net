@@ -15,19 +15,19 @@ If you read this, I guess data science is not the core part of your business. If
 
 ## Data engineers 
 
-![]({{ '/assets/img/2023/02/image-6.png' | relative_url }}){:width="150"}{:class="alignright"}
+![]({{ site.url }}{{ site.baseurl }}'/assets/img/2023/02/image-6.png' ){:width="150"}{:class="alignright"}
 
 Your data scientists can be as good as the data you provide them. You must collect the correct data, validate it, store it well, and be able to access it easily. I have hours of "war stories" about how each component of the last message went wrong, and the company burned tons of money because of that. Data piping is a serious challenge. So, before you hire a data scientist, ask yourself whether your data engineering needs are covered.
 
 ## Data analysts 
 
-![]({{ '/assets/img/2023/02/image-5.png' | relative_url }}){:class="alignright"}
+![]({{ site.url }}{{ site.baseurl }}'/assets/img/2023/02/image-5.png' ){:class="alignright"}
 
 Data Analysts mainly focus on the organization and interpretation of data. Unlike data scientists, Analysts don't build predictive models or create unique algorithms. However, they identify trends and insights and present their findings clearly and understandably. Not being required to build novel models and algorithms allow them to better connect with stakeholders' business needs and practical questions. A good data analyst will take the business problem, translate it into a data-based question, will know its potential value, and in many cases, will be able to answer it.
 
 ## Boxed Solutions
 
-![]({{ '/assets/img/2023/02/image-4.png' | relative_url }}){:class="alignright"}
+![]({{ site.url }}{{ site.baseurl }}'/assets/img/2023/02/image-4.png' ){:class="alignright"}
 
 Data Science as a Service is a term for boxed solutions that are constantly becoming more versatile, flexible, and affordable. I was a freelancer for a company that built its data-based product on an open-source implementation of a single optimization algorithm. They managed to run a successful company without a single data scientist for more than five years, and they started thinking of better solutions when they squeezed everything they could from their MRE. At this point, they had their data storage pipelines (data engineering), a better picture of their business (data analysts), and paying customers to finance the development of new algorithms.
 

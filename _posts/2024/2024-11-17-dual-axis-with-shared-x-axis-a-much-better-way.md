@@ -16,7 +16,7 @@ layout: "post"
 
 I recently came across a financial update with a plot that looks like the one below: a bar plot of revenue with a line plot of growth rate. The growth rate is on a secondary y-axis, and the x-axis is shared between the two plots. This type of plots are very common in financial reports, and they are often used to show the relationship between two variables that have different scales. However, they are also often criticized for being misleading, as the two variables are not directly comparable. In this post, I will show a better way to visualize this type of data. But first, what's wrong with the plot below?
 
-![]({{ '/assets/img/2024/11/image.png' | relative_url }})
+![]({{ site.url }}{{ site.baseurl }}'/assets/img/2024/11/image.png' )
 
 
  The secondary y-axis is not aligned with the primary y-axis. This makes it difficult to compare the two variables.
@@ -35,7 +35,7 @@ Let's split the graph into two subplots, one for each variable, and share the x-
 
 ## Attempt 1: a bar plot and a line plot
 
-![]({{ '/assets/img/2024/11/image-1.png' | relative_url }})
+![]({{ site.url }}{{ site.baseurl }}'/assets/img/2024/11/image-1.png' )
 
 Nice, the two plots are aligned, it's easy to know what's happening in the revenue and the growth rate. Note, how I emphasized the zero line in the "growth rate" subplot.
 
@@ -43,7 +43,7 @@ However, showing the evolution of the revenue using bars is not ideal: the bars 
 
 ## Attempt 2: two line plots
 
-![]({{ '/assets/img/2024/11/image-2.png' | relative_url }})
+![]({{ site.url }}{{ site.baseurl }}'/assets/img/2024/11/image-2.png' )
 
 The advantage of the line plot is that it allows zooming in on the data, which is not possible (FORBIDDEN) with a bar plot. However, the colored area that the bars provided gave us the information about the total revenue over the time (recall that total revenue is the area under the curve). Now, this information is lost.
 
@@ -51,7 +51,7 @@ Let's try to add this information back to the plot.
 
 ## Attempt 3: line plot with shadowed area
 
-![]({{ '/assets/img/2024/11/image-3.png' | relative_url }})
+![]({{ site.url }}{{ site.baseurl }}'/assets/img/2024/11/image-3.png' )
 
 This is the best of both worlds: we have the continuous line plot that gives a proper visualization, and we have the shadowed area that gives us the information about the total revenue over time. The two subplots are aligned, and the relationship between the two variables is clear. The reader can easily see that the revenue is increasing while the growth rate is fluctuating.
 

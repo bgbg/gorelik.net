@@ -12,7 +12,7 @@ tags:
 layout: "post"
 ---
 
-![]({{ '/assets/img/2021/03/27_charles.jpeg?w=1024' | relative_url }})
+![]({{ site.url }}{{ site.baseurl }}'/assets/img/2021/03/27_charles.jpeg?w=1024' )
 
 I invited Dr. Charles Earl for this episode of my podcast "Job Interview" to talk about racial discrimination at the workplace and fairness in machine learning.
 
