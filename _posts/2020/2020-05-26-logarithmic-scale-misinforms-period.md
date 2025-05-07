@@ -11,7 +11,7 @@ tags:
 layout: "post"
 ---
 
-![]({{ site.url }}{{ site.baseurl }}'/assets/img/2020/05/image-1.png?w=1024' )
+![]({{ site.baseurl }}/assets/img/2020/05/image-1.png?w=1024)
 
 Being a data scientist and a self-proclaimed data visualization expert, I like using log scale graphs when I find them appropriate. However, as a speaker and a communicator, I refrain from using them in presentations as much as possible. From my experience as a data visualization lecturer, I noticed that even "technical" struggle grasping the concept of log scale graphs.
 
@@ -21,7 +21,7 @@ A recent study ([link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=35885
 
 It is a bummer though that data visualization in that paper sucks so much.
 
-![]({{ site.url }}{{ site.baseurl }}'/assets/img/2020/05/image-2.png?w=1024' )
+![]({{ site.baseurl }}/assets/img/2020/05/image-2.png?w=1024)
 
 Don't publish graphs like this. Especially not in data visualization papers.
 

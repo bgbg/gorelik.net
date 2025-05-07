@@ -13,7 +13,7 @@ layout: "post"
 
 Today, Israel marks Holocaust Day. Many words have been written about the Holocaust, and I want to write about missing graves.<br>If you visit a Jewish cemetery, you might see a lot of gravestones with additional memorial plates.
 
-![]({{ site.url }}{{ site.baseurl }}'/assets/img/2020/04/image-3.png' )
+![]({{ site.baseurl }}/assets/img/2020/04/image-3.png)
 
 I took this picture in the [Chișinău (Kishinev) Jewish cemetery](https://gorelik.net/2019/03/04/chisinau-jewish-cemetery/). Burial of the deceased is considered the final act of kindness a person can perform to the dead. Erecting a "reminder and a name" (Yad-va-Shem), i.e a gravestone, is an intrinsic part of the burial. The Hebrew term for this act of kindness is "Chesed shel emet" - the truthful kindness. Many people died during the Holocaust without a grave, without a gravestone, and without any sign of kindness around them. That is why, when the Holocaust survivors started passing away after the war, their relatives decided to perform this final act of kindness by adding names of those who did not have the fortune to have their own grave.
 

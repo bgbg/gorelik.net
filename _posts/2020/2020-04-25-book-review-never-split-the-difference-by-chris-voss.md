@@ -16,7 +16,7 @@ TL;DR: Dull on the surface but has a lot of good points
 
 I read [Never Split the Difference](https://info.blackswanltd.com/never-split-the-difference) following a friend's recommendation. While reading the book, I kept feeling a constant sense of disappointment and mental eye-rolling. The author, Chris Voss, is a former FBI negotiator. The book is full of FBI war stories and pieces of advice that, on the top of it, sound either trivial or well known. HOWEVER, when the book was over, I sat summarizing my Kindle notes. Forty-five minutes later, I found myself staring at six pages of handwritten text of notes and takeaways. Which, surely, is a good sign.
 
-![]({{ site.url }}{{ site.baseurl }}'/assets/img/2020/04/br_notes-1.jpg' ){:width="512"}
+![]({{ site.baseurl }}/assets/img/2020/04/br_notes-1.jpg){:width="512"}
 
 What I didn't like: too many "war stories" from the author's past as an FBI negotiator; their connection to the business world sometimes seems too far-fetched.
 

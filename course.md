@@ -16,7 +16,7 @@ Many people know how important data visualization is. However, mastering a visua
 
 Once you start studying these concepts, you will understand why two graphs can lead to opposite conclusions despite being based on the same data; or why it was possible to reduce the error rate in diagnosing a heart condition by almost 50% by changing a color scheme.
 
-![Two graphs. Same data. Different conclusions]({{ site.url }}{{ site.baseurl }}'/assets/img/2017/06/screen-shot-2017-06-18-at-21-19-34.png' ) Two graphs. Same data. Different conclusions.
+![Two graphs. Same data. Different conclusions]({{ site.baseurl }}/assets/img/2017/06/screen-shot-2017-06-18-at-21-19-34.png) Two graphs. Same data. Different conclusions.
 
 Join this course to learn the science behind many real-life examples. I have designed this course to be tool-neutral. It doesn't matter if your tool of choice is Python, R, or Excel — you will find the information interesting and applicable.
 

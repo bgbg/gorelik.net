@@ -14,7 +14,7 @@ layout: "post"
 
 Besides being a freelancer data scientist and visualization expert, I teach. One of the toughest concepts to teach and to visualize is odds ratio. Today, I stumbled upon a [very interesting post](https://www.henrylau.co.uk/2020/05/10/visualising-odds-ratios/) that deals exactly with that
 
-![]({{ site.url }}{{ site.baseurl }}'/assets/img/2020/05/image.png' )
+![]({{ site.baseurl }}/assets/img/2020/05/image.png)
 
 ![](https://i2.wp.com/raw.githubusercontent.com/henryjameslau/henryjameslau.github.io/master/_media/annotation.png?quality=80&ssl=1&strip=info&w=1600)
 

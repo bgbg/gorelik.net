@@ -15,7 +15,7 @@ layout: "post"
 
 So many people, including me, write about how fields such as copywriting, drawing, or data science change from being accessible to a niche of highly professional individuals to a mere commodity. I claim it's a good thing, not only for humankind but for the individual professional. Since I know nothing about drawing, I'll talk about data science.
 
-![]({{ site.url }}{{ site.baseurl }}'/assets/img/2023/02/image-7.png' ){:class="alignleft"}
+![]({{ site.baseurl }}/assets/img/2023/02/image-7.png){:class="alignleft"}
 
 I started working as a data scientist a long time ago, even before the term data science was coined. Back then, my data science job included:
 
@@ -37,7 +37,7 @@ Back then, exactly when the term data scientist was coined, I used to say "data 
 
 These days, we are facing a new era in knowledge commoditization. This commoditization makes our skills obsolete but also makes us more efficient in tasks that we were slow at and lets us develop new skills.
 
-![]({{ site.url }}{{ site.baseurl }}'/assets/images/2023/02/image-9.png?w=898' )
+![]({{ site.baseurl }}/assets/images/2023/02/image-9.png?w=898)
 
 In 2017, Gartner predicted that more than 40% of data science tasks would be obsolete by 2020. Today, in 2023, I can safely say that they were right. I can also say that today, despite the recent layouts, there are much more busy data scientists than there were in 2017 or 2020.
 

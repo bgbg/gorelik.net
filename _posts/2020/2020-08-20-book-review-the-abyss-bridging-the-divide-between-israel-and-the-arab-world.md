@@ -26,6 +26,6 @@ On the other hand, The Abyss is an interesting storybook full of behind the scen
 
 Should you read the book? If you are an Israeli and don't feel like learning the behind the scenes stories, you may skip it. Otherwise, I do recommend reading this book. I don't know how accurate is Avidar's description of the Arab world, but his analysis of the Israeli behavior and attitude is very accurate. If you ever cough yourself wondering "What the fuck do the Israelis think?", this book might shed some light for you. That is why I write this review in English, despite my tendency to review Hebrew books in my Hebrew blog.
 
-![]({{ site.url }}{{ site.baseurl }}'/assets/img/2020/08/image-7.png' )
+![]({{ site.baseurl }}/assets/img/2020/08/image-7.png)
 
 Fun fact. I finished reading this book on August the 13th. I closed the book, opened Twitter, and saw my feed FULL with news about the upcoming normalization treaty between Israel and UAE. 

@@ -4,7 +4,7 @@ date: 2020-09-24
 layout: "page"
 ---
 
-![]({{ site.url }}{{ site.baseurl }}'/assets/img/2020/02/boris_gorelik_black_face.jpeg?w=576' )
+![]({{ site.baseurl }}/assets/img/2020/02/boris_gorelik_black_face.jpeg?w=576)
 
 Solving data problems since 2000. Teaching and mentoring since 2013
 

@@ -12,7 +12,7 @@ layout: "post"
 
 TL;DR Own your wins, own your failures, stay calm and make decisions. Read it. 5/5
 
-![]({{ site.url }}{{ site.baseurl }}'/assets/img/2022/08/extreme.jpg?w=331' )
+![]({{ site.baseurl }}/assets/img/2022/08/extreme.jpg?w=331)
 
 "[Extreme ownership](https://www.amazon.com/Extreme-Ownership-U-S-Navy-SEALs/dp/1250067057)" is a book about leadership in business written by two ex-SEAL fighters. This book is full of war stories, as in actual stories from a real war. I read this book by the recommendation (an instruction, really) of the serial entrepreneur Danny Lieberman. After three years in the Israeli Border Police and after a cumulative year-and-a-half in active IDF reserve over almost twenty years, I learned to dislike war stories strongly. Had Danny not told me, "you have to read this book," I would have ditched it after the first couple of pages. The war stories are self-bragging, and the business case studies are oversimplified and always have a happy ending. Moreover, the connection between a war story and a business case is sometimes very artificial.
 

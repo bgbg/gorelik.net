@@ -26,10 +26,10 @@ Two days ago, I spoke at NDR, a machine learning/AI conference in Iași, Romania
 
 That is why even (and especially) if you are afraid of public speaking, you should jump into the cold water and do it. Find a call for presentations and submit a proposal TODAY.
 
- ![]({{ site.url }}{{ site.baseurl }}'/assets/img/2019/06/61685520_352868922083822_3754615557819727872_o.jpg' )
- ![]({{ site.url }}{{ site.baseurl }}'/assets/img/2019/06/61820794_352902385413809_4740164536248565760_o.jpg' )
- ![]({{ site.url }}{{ site.baseurl }}'/assets/img/2019/06/61668361_352902442080470_3356045856926072832_o.jpg' )
- ![]({{ site.url }}{{ site.baseurl }}'/assets/img/2019/06/61750049_352902355413812_6239805006766145536_o.jpg' )
+ ![]({{ site.baseurl }}/assets/img/2019/06/61685520_352868922083822_3754615557819727872_o.jpg)
+ ![]({{ site.baseurl }}/assets/img/2019/06/61820794_352902385413809_4740164536248565760_o.jpg)
+ ![]({{ site.baseurl }}/assets/img/2019/06/61668361_352902442080470_3356045856926072832_o.jpg)
+ ![]({{ site.baseurl }}/assets/img/2019/06/61750049_352902355413812_6239805006766145536_o.jpg)
 
 
 And if you are afraid of that awkward silence when you ask "are there any questions" and nobody reacts, you should read my post "[Any Questions? How to fight the awkward silence at the end of the presentation](https://gorelik.net/2018/09/20/any-questions-how-to-fight-the-awkward-silence-at-the-and-of-a-presentation/)".

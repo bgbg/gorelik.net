@@ -10,7 +10,7 @@ rtl: true
 
 ניתן להירשם לפודקאסט [בספוטיפיי](https://open.spotify.com/show/3OdAqLobBlbxcIPL9UDDpD), לצפות בו ב־[יוטיוב](http://youtube.com/@hashavua) ובכל [יישומוני ההסכתים האחרים](https://podcasters.spotify.com/pod/show/hashavua/).
 
-[![]({{ site.url }}{{ site.baseurl }}'/assets/img/2024/05/image.png?w=990)](https://podcasters.spotify.com/pod/show/hashavua/episodes/ep-e22tinl' )
+[![]({{ site.baseurl }}/assets/img/2024/05/image.png?w=990)](https://podcasters.spotify.com/pod/show/hashavua/episodes/ep-e22tinl)
 
 ### יום העצמאות בחברה הערבית בישראל
 
@@ -19,7 +19,7 @@ rtl: true
 
 [להאזנה: לחצו כאן](https://podcasters.spotify.com/pod/show/hashavua/episodes/ep-e22tinl)
 
-[![]({{ site.url }}{{ site.baseurl }}'/assets/img/2024/05/image-1.png?w=1016)](https://podcasters.spotify.com/pod/show/hashavua/episodes/ep-e1dr2r6' )
+[![]({{ site.baseurl }}/assets/img/2024/05/image-1.png?w=1016)](https://podcasters.spotify.com/pod/show/hashavua/episodes/ep-e1dr2r6)
 
 ### מדינת ישראל בעיניי החברה הערבית
 
@@ -27,7 +27,7 @@ rtl: true
 
 [להאזנה: לחצו כאן](https://podcasters.spotify.com/pod/show/hashavua/episodes/ep-e1dr2r6)
 
-[![]({{ site.url }}{{ site.baseurl }}'/assets/img/2024/05/image-3.png?w=996)](https://podcasters.spotify.com/pod/show/hashavua/episodes/ep-eusgtd' )
+[![]({{ site.baseurl }}/assets/img/2024/05/image-3.png?w=996)](https://podcasters.spotify.com/pod/show/hashavua/episodes/ep-eusgtd)
 
 ### בעיית הפליטים. פרק א׳
 
@@ -36,7 +36,7 @@ rtl: true
 
 [להאזנה: לחצו כאן](https://podcasters.spotify.com/pod/show/hashavua/episodes/ep-eusgtd)
 
-[![]({{ site.url }}{{ site.baseurl }}'/assets/img/2024/05/image-4.png?w=992)](https://podcasters.spotify.com/pod/show/hashavua/episodes/ep-eush8k' )
+[![]({{ site.baseurl }}/assets/img/2024/05/image-4.png?w=992)](https://podcasters.spotify.com/pod/show/hashavua/episodes/ep-eush8k)
 
 ### בעיית הפליטים. פרק ב׳
 
@@ -44,7 +44,7 @@ rtl: true
 
 [להאזנה: לחצו כאן](https://podcasters.spotify.com/pod/show/hashavua/episodes/ep-eush8k)
 
-![]({{ site.url }}{{ site.baseurl }}'/assets/img/2024/05/image-5.png?w=420' )
+![]({{ site.baseurl }}/assets/img/2024/05/image-5.png?w=420)
 
 ### עתיד בעיית הפליטים
 
@@ -52,7 +52,7 @@ rtl: true
 
 [להאזנה: לחצו כאן](https://podcasters.spotify.com/pod/show/hashavua/episodes/ep-e1chsmg)
 
-[![]({{ site.url }}{{ site.baseurl }}'/assets/img/2024/05/image-6.png?w=998)](https://podcasters.spotify.com/pod/show/hashavua/episodes/ep-e2d7ts1' )
+[![]({{ site.baseurl }}/assets/img/2024/05/image-6.png?w=998)](https://podcasters.spotify.com/pod/show/hashavua/episodes/ep-e2d7ts1)
 
 ### סצנת התרבות הערבית בישראל
 
@@ -62,7 +62,7 @@ rtl: true
 
 [להאזנה: לחצו כאן](https://podcasters.spotify.com/pod/show/hashavua/episodes/ep-e2d7ts1)
 
-[![]({{ site.url }}{{ site.baseurl }}'/assets/img/2024/05/image-7.png?w=998)](https://podcasters.spotify.com/pod/show/hashavua/episodes/1948-1967-e2dh2g8' )
+[![]({{ site.baseurl }}/assets/img/2024/05/image-7.png?w=998)](https://podcasters.spotify.com/pod/show/hashavua/episodes/1948-1967-e2dh2g8)
 
 ### יחסי עזה־מצרים בין 1948 ל־1967
 
@@ -72,7 +72,7 @@ rtl: true
 
 [להאזנה: לחצו כאן](https://podcasters.spotify.com/pod/show/hashavua/episodes/1948-1967-e2dh2g8)
 
-[![]({{ site.url }}{{ site.baseurl }}'/assets/img/2024/05/image-9.png?w=1024)](https://podcasters.spotify.com/pod/show/hashavua/episodes/ep-e2jf8gt/a-ab8ieo7' )
+[![]({{ site.baseurl }}/assets/img/2024/05/image-9.png?w=1024)](https://podcasters.spotify.com/pod/show/hashavua/episodes/ep-e2jf8gt/a-ab8ieo7)
 
 ### מהגרי פנים
 
@@ -82,7 +82,7 @@ rtl: true
 
 [להאזנה: לחצו כאן](https://podcasters.spotify.com/pod/show/hashavua/episodes/ep-e2jf8gt/a-ab8ieo7)
 
-![]({{ site.url }}{{ site.baseurl }}'/assets/img/2024/05/image-10.png?w=1024' )
+![]({{ site.baseurl }}/assets/img/2024/05/image-10.png?w=1024)
 
 ### מנגל ביום העצמאות?
 

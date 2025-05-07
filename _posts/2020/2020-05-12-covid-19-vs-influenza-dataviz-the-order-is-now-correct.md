@@ -12,15 +12,15 @@ layout: "post"
 
 May
 
-![]({{ site.url }}{{ site.baseurl }}'/assets/img/2020/05/covid-vs-flu-may.png' )
+![]({{ site.baseurl }}/assets/img/2020/05/covid-vs-flu-may.png)
 
 [March](https://gorelik.net/2020/03/18/covid-19-vs-influenza-dataviz-an-update/)
 
-![]({{ site.url }}{{ site.baseurl }}'/assets/img/2020/03/image-12.png' )
+![]({{ site.baseurl }}/assets/img/2020/03/image-12.png)
 
 [February](https://gorelik.net/2020/02/27/corona-virus-vs-flu-visualized/)
 
-![]({{ site.url }}{{ site.baseurl }}'/assets/img/2020/02/corona-1.png' )
+![]({{ site.baseurl }}/assets/img/2020/02/corona-1.png)
 
 Note about the numbers. While the COVID-19 casualties are based on more-or-less accurate live reports, the flu information is an estimate based on yearly average numbers.
 

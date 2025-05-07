@@ -10,7 +10,7 @@ tags:
 layout: "post"
 ---
 
-![]({{ site.url }}{{ site.baseurl }}'/assets/img/2021/08/notebook.jpeg' )
+![]({{ site.baseurl }}/assets/img/2021/08/notebook.jpeg)
 
 Those who know me, know that I always care with me a cheep and thin notebook which I use as an extension to my mind. Today, I opened a new notebook, and this is a good opportunity to share some links about my productivity system.
 

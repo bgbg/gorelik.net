@@ -18,11 +18,11 @@ First, let's start with the mental model that I had in my head: inheritance.
 
 Let's say you have a base class that defines a function `f`
 
-![]({{ site.url }}{{ site.baseurl }}'/assets/img/2020/02/image.png' )
+![]({{ site.baseurl }}/assets/img/2020/02/image.png)
 
 Now, you inherit from that class and rewrite `f`
 
-![]({{ site.url }}{{ site.baseurl }}'/assets/img/2020/02/image-1.png' )
+![]({{ site.baseurl }}/assets/img/2020/02/image-1.png)
 
 What happens? The fact that you defined `f` in `ClassB` means that, to a rough approximation, the old definition of `f` from `ClassA` does not exist in all the `ClassB` objects.
 

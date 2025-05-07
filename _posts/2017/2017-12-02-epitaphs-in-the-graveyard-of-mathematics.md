@@ -17,4 +17,4 @@ The excellent Ben Odrin wrote a hilarious post with fictitious tombstones of fam
 
 I decided to jump on that bandwagon
 
-![not real Paul Errdos tombstone. ]({{ site.url }}{{ site.baseurl }}'/assets/img/2017/12/paul_erdosh.png' ){:width="605" :class="alignnone"}
+![not real Paul Errdos tombstone. ]({{ site.baseurl }}/assets/img/2017/12/paul_erdosh.png){:width="605" :class="alignnone"}

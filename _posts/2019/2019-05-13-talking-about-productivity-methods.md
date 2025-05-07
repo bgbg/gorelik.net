@@ -21,7 +21,7 @@ This week, the majority of Automattic Data Division meets in person in Vienna. D
 
 Presenting this method was a fun and enjoyable experience for me. I decided to try doing this again, in a more formal and structured way. If you know of a productivity-oriented meetups that might be interested in hearing me, let me know.
 
-![]({{ site.url }}{{ site.baseurl }}'/assets/img/2019/05/productivity.jpg' )
+![]({{ site.baseurl }}/assets/img/2019/05/productivity.jpg)
 
 ### Some post-talk notes
 

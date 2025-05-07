@@ -43,4 +43,4 @@ You have:
 
 Magic!
 
-![Illustration: the famous XKCD ]({{ site.url }}{{ site.baseurl }}'/assets/img/2018/02/python.png' ){:width="264" :class="aligncenter"}
+![Illustration: the famous XKCD ]({{ site.baseurl }}/assets/img/2018/02/python.png){:width="264" :class="aligncenter"}

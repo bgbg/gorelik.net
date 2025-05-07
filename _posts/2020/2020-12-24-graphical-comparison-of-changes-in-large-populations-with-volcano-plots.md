@@ -18,13 +18,13 @@ Volcano plots are very technical and specialized and, most probably, are not a g
 
 Moreover, if you are lucky enough to have well-behaved data, the plots look very cool
 
-![Visualization of RNA-Seq results with Volcano Plot]({{ site.url }}{{ site.baseurl }}'/assets/img/2020/12/volcanoplot.png' )
+![Visualization of RNA-Seq results with Volcano Plot]({{ site.baseurl }}/assets/img/2020/12/volcanoplot.png)
 
 From [here](https://training.galaxyproject.org/training-material/topics/transcriptomics/tutorials/rna-seq-viz-with-volcanoplot/tutorial.html)
 
 Of course, in real life, the data is messy. Add bad visualization practices to the mess and you get a marvel like this one
 
-![]({{ site.url }}{{ site.baseurl }}'/assets/img/2020/12/image-8.png?w=1024' )
+![]({{ site.baseurl }}/assets/img/2020/12/image-8.png?w=1024)
 
 From [here](https://science.sciencemag.org/content/early/2020/12/09/science.abb5920)
 

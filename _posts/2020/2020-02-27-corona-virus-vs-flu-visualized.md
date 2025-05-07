@@ -15,6 +15,6 @@ layout: "post"
 excerpt: ""
 ---
 
-![]({{ site.url }}{{ site.baseurl }}'/assets/img/2020/02/corona-1.png' )
+![]({{ site.baseurl }}/assets/img/2020/02/corona-1.png)
 
 Graph code: [here](https://gist.github.com/bgbg/ae80e1e9a83a9d220cd4ff59b3e682ab).

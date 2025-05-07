@@ -16,7 +16,7 @@ Many years ago, I tried to build something that today would have been called "Go
 
 I recalled about that project of mine when I took a look at the Google Trends data for, a once popular buzz-phrases, "data mining" and pattern recognition.  *Sic transit gloria mundi*.
 
-![Screenshot of Google Trends data for (in decreasing order): "Machine Learning" , "Data Science", "Data Mining", "Pattern Recognition"]({{ site.url }}{{ site.baseurl }}'/assets/img/2017/12/trends1.png' ){:width="2244" :class="alignnone"}
+![Screenshot of Google Trends data for (in decreasing order): "Machine Learning" , "Data Science", "Data Mining", "Pattern Recognition"]({{ site.baseurl }}/assets/img/2017/12/trends1.png){:width="2244" :class="alignnone"}
 
 It's not surprising that "Data Science" was the less popular term in  As I already [mentioned](http://gorelik.net/2017/05/29/dont-study-data-science/), "Data Science" is a relatively new term. What does surprise me is the fact that in the past, "Machine Learning" was so less popular that "Data Mining". Even more surprising is the fact that Google Trends ranks "Machine Learning" almost twice as high, as "Data Science". I was expecting to see the opposite.
 

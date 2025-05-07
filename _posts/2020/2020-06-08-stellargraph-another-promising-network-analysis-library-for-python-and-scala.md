@@ -19,4 +19,4 @@ I didn't use it yet, but I certainly plan to.
 
 [https://www.stellargraph.io](https://www.stellargraph.io/)
 
-[![]({{ site.url }}{{ site.baseurl }}'/assets/img/2020/06/image-2.png)](https://www.stellargraph.io/' )
+[![]({{ site.baseurl }}/assets/img/2020/06/image-2.png)](https://www.stellargraph.io/)

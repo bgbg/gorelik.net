@@ -20,7 +20,7 @@ These two graphs are so bad. It looks as if the authors had a target to squeeze 
 
 Let's take a look at the problems.
 
-![]({{ site.url }}{{ site.baseurl }}'/assets/img/2022/03/null.png' )
+![]({{ site.baseurl }}/assets/img/2022/03/null.png)
 
 - Double Y axes. Don't! Double axes are bad in 99% of cases ([exceptions do exist](https://gorelik.net/2018/02/05/in-defense-of-double-scale-and-double-y-axes/), but they are rare).
 - Two subgraphs that are meant to work together have different category orders and different Y-axis scales. These differences make the comparison much harder.
@@ -35,4 +35,4 @@ I will keep the category order the same between the two subgraphs. Doing so will
 
 The result should look like this sketch.
 
-![]({{ site.url }}{{ site.baseurl }}'/assets/img/2022/03/null-1.png' )
+![]({{ site.baseurl }}/assets/img/2022/03/null-1.png)

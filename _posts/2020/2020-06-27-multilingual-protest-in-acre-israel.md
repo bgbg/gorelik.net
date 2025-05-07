@@ -7,4 +7,4 @@ layout: "post"
 excerpt: ""
 ---
 
-![]({{ site.url }}{{ site.baseurl }}'/assets/img/2020/06/multilanguage.jpg' )
+![]({{ site.baseurl }}/assets/img/2020/06/multilanguage.jpg)

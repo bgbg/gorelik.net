@@ -4,7 +4,7 @@ date: 2020-08-12
 layout: "page"
 ---
 
-![]({{ site.url }}{{ site.baseurl }}'/assets/img/2018/03/me_teaching.png?w=434' )
+![]({{ site.baseurl }}/assets/img/2018/03/me_teaching.png?w=434)
 
 Solving data problems since 2001, teaching since 2015
 

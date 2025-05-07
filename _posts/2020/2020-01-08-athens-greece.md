@@ -12,4 +12,4 @@ layout: "post"
 excerpt: ""
 ---
 
-![]({{ site.url }}{{ site.baseurl }}'/assets/img/2020/01/wp-1578493557664.jpg' )
+![]({{ site.baseurl }}/assets/img/2020/01/wp-1578493557664.jpg)

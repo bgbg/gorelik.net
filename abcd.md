@@ -4,7 +4,7 @@ date: 2020-04-05
 layout: "page"
 ---
 
-![]({{ site.url }}{{ site.baseurl }}'/assets/img/2020/04/screen-shot-2020-04-05-at-15.24.40.png' ){:width="271"}
+![]({{ site.baseurl }}/assets/img/2020/04/screen-shot-2020-04-05-at-15.24.40.png){:width="271"}
 
 This is the deal: if 180 people will be willing to pay $5 each, before November 2020, I will write this book. Every early adopter will get a free electronic copy of this book once is done.
 

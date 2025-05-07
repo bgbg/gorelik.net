@@ -17,4 +17,4 @@ I am a huge fan of [Gerd Gigerenzer](https://en.wikipedia.org/wiki/Gerd_Gigerenz
 
 Today, I listened to the latest [episode of the Brainfluence podcast](https://www.rogerdooley.com/gleb-tsipursky-gut/) that hosted the psychologist Dr. Gleb Tsipursky who wrote an extensive book called "[Never Trust your Gut](https://disasteravoidanceexperts.com/nevergut/)" with a seemingly contradicting thesis. I added this book to my TOREAD list.
 
-![]({{ site.url }}{{ site.baseurl }}'/assets/img/2019/12/image-3.png' )
+![]({{ site.baseurl }}/assets/img/2019/12/image-3.png)
