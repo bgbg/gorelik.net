@@ -16,16 +16,18 @@
     <meta name="twitter:title" content="{{ page.title | escape }}">
     <meta name="twitter:description" content="{{ page.description }}">
 
-    {% if page.thumb_image %}
-    {% if page.thumb_image contains '://' %}
-    <meta property="og:image" content="{{ page.thumb_image }}">
-    <meta name="twitter:image" content="{{ page.thumb_image }}">
+    {% if page.cover_image %}
+    {% if page.cover_image contains '://' %}
+    <meta property="og:image" content="{{ cover.thumb_image }}">
+    <meta name="twitter:image" content="{{ cover.thumb_image }}">
     {% else %}
     <!-- TODO deleted stuff here -->
     {% endif %}
     {% else %}
     <!-- TODO deleted stuff here -->
     {% endif %}
+
+    <link rel="shortcut icon" type="image/webp" href="{{ '/assets/img/2015/12/cropped-cropped-orange1.webp' | relative_url }}">
 
     <link href="{{ 'feed.xml' | absolute_url }}" type="application/rss+xml" rel="alternate" title="{{ site.name }} Last 10 blog posts" />
 
