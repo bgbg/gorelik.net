@@ -1,0 +1,6 @@
+---
+name: "gambling"
+slug: "gambling"
+---
+
+

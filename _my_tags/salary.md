@@ -1,0 +1,6 @@
+---
+name: "salary"
+slug: "salary"
+---
+
+

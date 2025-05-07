@@ -1,0 +1,6 @@
+---
+name: "frustration"
+slug: "frustration"
+---
+
+

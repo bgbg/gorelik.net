@@ -1,0 +1,6 @@
+---
+name: "erdos"
+slug: "erdos"
+---
+
+

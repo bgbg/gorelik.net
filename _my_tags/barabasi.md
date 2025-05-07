@@ -1,0 +1,6 @@
+---
+name: "barabasi"
+slug: "barabasi"
+---
+
+

@@ -1,0 +1,6 @@
+---
+name: "skype"
+slug: "skype"
+---
+
+

@@ -17,5 +17,9 @@
       {% assign tag_name = site.my_tags | where: "slug", tag | map: "name" | first %}
       <a href="{{ 'tag/' | relative_url }}{{ tag }}" title="See all posts with tag '{{ tag_name }}'">{{ tag_name }}</a>
     {% endfor %}
+    {% for category in include.post.categories %}
+    {% assign cat_name = site.my_categories | where: "slug", category | map: "name" | first %}
+    <a href="{{ 'category/' | relative_url }}{{ category }}" title="See all posts with category '{{ cat_name }}'">{{ cat_name }}</a>
+    {% endfor %}
   </div>
 </div>

@@ -1,0 +1,6 @@
+---
+name: "photo"
+slug: "photo"
+---
+
+

@@ -1,0 +1,6 @@
+---
+name: "mathematics"
+slug: "mathematics"
+---
+
+

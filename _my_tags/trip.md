@@ -1,0 +1,6 @@
+---
+name: "trip"
+slug: "trip"
+---
+
+

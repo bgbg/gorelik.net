@@ -1,0 +1,6 @@
+---
+name: "chisinau"
+slug: "chisinau"
+---
+
+

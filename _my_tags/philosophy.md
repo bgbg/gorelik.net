@@ -1,0 +1,6 @@
+---
+name: "philosophy"
+slug: "philosophy"
+---
+
+

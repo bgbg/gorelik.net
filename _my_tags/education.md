@@ -1,0 +1,6 @@
+---
+name: "education"
+slug: "education"
+---
+
+

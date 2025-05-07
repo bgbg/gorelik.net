@@ -1,0 +1,6 @@
+---
+name: "stalin"
+slug: "stalin"
+---
+
+

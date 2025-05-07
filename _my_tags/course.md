@@ -1,0 +1,6 @@
+---
+name: "course"
+slug: "course"
+---
+
+

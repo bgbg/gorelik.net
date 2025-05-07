@@ -1,0 +1,6 @@
+---
+name: "politics"
+slug: "politics"
+---
+
+

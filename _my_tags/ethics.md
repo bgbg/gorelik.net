@@ -1,0 +1,6 @@
+---
+name: "ethics"
+slug: "ethics"
+---
+
+

@@ -1,0 +1,6 @@
+---
+name: "contradiction"
+slug: "contradiction"
+---
+
+

@@ -1,0 +1,6 @@
+---
+name: "infographics"
+slug: "infographics"
+---
+
+

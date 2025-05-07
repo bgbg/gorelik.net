@@ -1,0 +1,6 @@
+---
+name: "histogram"
+slug: "histogram"
+---
+
+

@@ -1,0 +1,4 @@
+---
+slug: workshop
+name: workshop
+---

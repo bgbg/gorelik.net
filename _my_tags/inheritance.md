@@ -1,0 +1,6 @@
+---
+name: "inheritance"
+slug: "inheritance"
+---
+
+

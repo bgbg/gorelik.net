@@ -1,0 +1,6 @@
+---
+name: "rant"
+slug: "rant"
+---
+
+

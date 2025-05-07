@@ -1,0 +1,6 @@
+---
+name: "psychology"
+slug: "psychology"
+---
+
+

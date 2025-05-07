@@ -1,0 +1,6 @@
+---
+name: "fatigue"
+slug: "fatigue"
+---
+
+

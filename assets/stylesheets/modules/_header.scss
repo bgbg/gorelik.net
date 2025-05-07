@@ -49,16 +49,14 @@
   text-align: center;
   margin: 15px 0 0;
   list-style: none;
+  padding: 0;
   .active {
     text-decoration: underline;
   }
   li {
     display: inline-block;
-    margin-left: 20px;
+    margin: 0 20px;
     vertical-align: middle;
-    &:first-child {
-      margin-left: 0;
-    }
     a {
       font-size: 18px;
       color: $header-link-color;

@@ -1,0 +1,6 @@
+---
+name: "resistance"
+slug: "resistance"
+---
+
+
