@@ -37,20 +37,20 @@
 
     {% if site.blog_theme == "light" %}
     <!-- TODO deleted stuff here -->
-    <link rel="stylesheet" type="text/css" title="light" id="light" href="{{/assets/stylesheets/light.css | relative_url}}">
-    <link rel="stylesheet" type="text/css" title="dark" id="dark" href="{{/assets/stylesheets/dark.css | relative_url}}" disabled="true">
+    <link rel="stylesheet" type="text/css" title="light" id="light" href="{{ '/assets/stylesheets/light.css' | relative_url }}">
+    <link rel="stylesheet" type="text/css" title="dark" id="dark" href="{{ '/assets/stylesheets/dark.css' | relative_url }}" disabled="true">
     {% else %}
     <!-- TODO deleted stuff here -->
-    <link rel="stylesheet" type="text/css" title="light" id="light" href="{{/assets/stylesheets/light.css | relative_url}}">
-    <link rel="stylesheet" type="text/css" title="dark" id="dark" href="{{/assets/stylesheets/dark.css | relative_url}}" disabled="false">
+    <link rel="stylesheet" type="text/css" title="light" id="light" href="{{ '/assets/stylesheets/light.css' | relative_url }}">
+    <link rel="stylesheet" type="text/css" title="dark" id="dark" href="{{ '/assets/stylesheets/dark.css' | relative_url }}" disabled="false">
     {% endif %}
 
     {% else %}
 
     {% if site.blog_theme == "light" %}
-    <link rel="stylesheet" type="text/css" href="{{/assets/stylesheets/light.css | relative_url}}">
+    <link rel="stylesheet" type="text/css" href="{{ '/assets/stylesheets/light.css' | relative_url }}">
     {% else %}
-    <link rel="stylesheet" type="text/css" href="{{/assets/stylesheets/dark.css | relative_url}}">
+    <link rel="stylesheet" type="text/css" href="{{ '/assets/stylesheets/dark.css' | relative_url }}">
     {% endif %}
 
     {% endif %}
