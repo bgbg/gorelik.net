@@ -8,20 +8,20 @@
   </script>
 {% endif %}
 
-<script src="{{ baseurl }}/assets/javascripts/vendor.js"></script>
+<script src="{{ '/assets/javascripts/vendor.js' | relative_url }}"></script>
 
 {% unless site.local_fonts %}
-  <script src="{{ baseurl }}/assets/javascripts/webfonts.js"></script>
+  <script src="{{ '/assets/javascripts/webfonts.js' | relative_url }}"></script>
 {% endunless %}
 
 {% if site.scrollappear_enabled %}
-<script src="{{ baseurl }}/assets/javascripts/scrollappear.js"></script>
+<script src="{{ '/assets/javascripts/scrollappear.js' | relative_url }}"></script>
 {% endif %}
 
-<script src="{{ baseurl }}/assets/javascripts/application.js"></script>
+<script src="{{ '/assets/javascripts/application.js' | relative_url }}"></script>
 
 {% if site.theme_toggle == true %}
-<script src="{{ baseurl }}/assets/javascripts/themetoggle.js"></script>
+<script src="{{ '/assets/javascripts/themetoggle.js' | relative_url }}"></script>
 {% endif %}
 
-<script src="{{ baseurl }}/assets/javascripts/search.js"></script>
+<script src="{{ '/assets/javascripts/search.js' | relative_url }}"></script>
