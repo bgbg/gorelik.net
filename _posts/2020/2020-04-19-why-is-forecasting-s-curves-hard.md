@@ -22,7 +22,7 @@ The matter of fact is that this phenomenon is not new at all. My first post-Univ
 **EDIT:** I came the conclusion that the most important takaway message of this demonstration is the necessity of reporting uncertainty with any forecast, and how small the value of a forecast is without uncertainty estimations. 
 
 
-https://player.vimeo.com/video/408599958?dnt=1&app_id=122963
+<https://player.vimeo.com/video/408599958?dnt=1&app_id=122963>
 
 
 ![](https://constancecrozier.files.wordpress.com/2020/04/smart_phones.png?quality=80&strip=info&w=1600)

@@ -18,7 +18,7 @@ Stephen Few is the author of (among others) "[Show Me The Numbers](http://www.pe
 
 Reading merciless critique by knowledgeable experts is an excellent way to develop that "inner voice" that questions all your decisions and makes sure you don't make too many mistakes. Despite the fear to be fried, I really that some day I'll be able to know what Stephen Few things of my work.
 
-[http://www.perceptualedge.com/blog/?p=2718](http://www.perceptualedge.com/blog/?p=2718)
+[<http://www.perceptualedge.com/blog/?p=2718>](http://www.perceptualedge.com/blog/?p=2718)
 
  
 

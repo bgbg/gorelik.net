@@ -19,7 +19,7 @@ layout: "post"
 
 I can't share Charles's optimism. In the past, statistics have been successfully used for several times to expose election frauds in Russia (see, for example, these two links, but there are much much more [[one](http://akarlin.com/2011/12/measuring-churovs-beard/)] [[two](http://akarlin.com/2011/12/measuring-churovs-beard/)]). People went to the streets, waving posters such as "We don't believe Churov [a Russian politician], we believe Gauss."
 
-[caption id="attachment_2045" align="alignnone" width="538"]![Demonstration in Russia. Poster: "We don't believe Churov. We believe Gauss"]({{ site.baseurl }}/assets/img/2018/02/churov-a-fraud.jpg){:width="538"}{:class="alignnone"} "We don't believe Churov. We believe Gauss". Taken from Anatoly Karlin's site http://akarlin.com/2011/12/measuring-churovs-beard/[/caption]
+[caption id="attachment_2045" align="alignnone" width="538"]![Demonstration in Russia. Poster: "We don't believe Churov. We believe Gauss"]({{ site.baseurl }}/assets/img/2018/02/churov-a-fraud.jpg){:width="538"}{:class="alignnone"} "We don't believe Churov. We believe Gauss". Taken from Anatoly Karlin's site <http://akarlin.com/2011/12/measuring-churovs-beard/[/caption]>
 
 Why, then, am I not optimistic? After all, even the great Terminator, one of my favorite Americans, Arnold Schwarzenegger fights gerrymandering.
 

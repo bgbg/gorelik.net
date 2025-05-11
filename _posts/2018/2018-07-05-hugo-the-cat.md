@@ -10,4 +10,4 @@ layout: "post"
 
 [gallery ids="2190,2189" type="rectangular" link="none"]
 
-https://youtu.be/ksBMhit2cmk
+<https://youtu.be/ksBMhit2cmk>

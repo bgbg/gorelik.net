@@ -21,6 +21,6 @@ My tutorial "Data visualization -- from default and suboptimal to efficient and 
 
 My talk "[Three most common mistakes in data visualization](https://www.euroscipy.org/2018/descriptions/Three%20most%20common%20mistakes%20in%20data%20visualization.html)" will be similar in nature to [the one I gave in Barcelona](http://gorelik.net/2018/03/21/three-most-common-mistakes-in-data-visualization-%e2%80%a8and-how-to-avoid-them-now-the-slides/) this March, but more condensed and enriched with information I learned since then.
 
-If you plan attending EuroSciPy and want to chat with me about data science, data visualization, or remote working, write a message to [boris@gorelik.net](mailto:boris@gorelik.net).
+If you plan attending EuroSciPy and want to chat with me about data science, data visualization, or remote working, write a message to [<boris@gorelik.net>](mailto:boris@gorelik.net).
 
 Full conference program is available [here](https://www.euroscipy.org/2018/program.html).

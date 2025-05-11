@@ -42,7 +42,7 @@ First of all, thank you for asking me. I'm genuinely flattered. I assume that yo
 * "[Staying employable as a data scientist](https://gorelik.net/2019/12/23/staying-employable-and-relevant-as-a-data-scientist/)"
 
 
-All my thoughts on the career path of a data scientist appear in this page [https://gorelik.net/category/career-advice/](https://gorelik.net/category/career-advice/)
+All my thoughts on the career path of a data scientist appear in this page [<https://gorelik.net/category/career-advice/>](https://gorelik.net/category/career-advice/)
 
 Now, specifically to your questions.
 
@@ -56,4 +56,4 @@ Also, my most significant knowledge gap is in maths. If you do go back to academ
 
 ## Do you have a question for me?
 
-If you have questions, feel free writing them here, in the comments section or writing to [boris@gorelik.net](mailto:boris@gorelik.net)
+If you have questions, feel free writing them here, in the comments section or writing to [<boris@gorelik.net>](mailto:boris@gorelik.net)

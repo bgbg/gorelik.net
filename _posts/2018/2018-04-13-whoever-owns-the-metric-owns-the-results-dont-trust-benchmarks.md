@@ -58,7 +58,7 @@ The following snippet uses numpy to perform the same computation as the first on
 
 [code lang="python"]
 def numpy_primes(n):
-    # http://stackoverflow.com/questions/2068372/fastest-way-to-list-all-primes-below-n-in-python/3035188#3035188
+    # <http://stackoverflow.com/questions/2068372/fastest-way-to-list-all-primes-below-n-in-python/3035188#3035188>
     """ Input n>=6, Returns a array of primes, 2 <= p <span id="mce_SELREST_start" style="overflow:hidden;line-height:0;"></span>< n """
     sieve = np.ones(n//3 + (n%6==2), dtype=np.bool)
     sieve[0] = False

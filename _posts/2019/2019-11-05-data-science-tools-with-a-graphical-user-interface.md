@@ -16,7 +16,7 @@ layout: "post"
 
 A Quora user asked about data science tools with a graphical user interface. Here's [my answer](https://qr.ae/TWP0wY). I should mention though that I don't usually use GUI for data science. Not that I think GUIs are bad, I simply couldn't find a tool that works well for me.
 
-Of the many tools that exist, I like the most [Orange](https://orange.biolab.si/) ([https://orange.biolab.si/](https://orange.biolab.si/)). Orange allows the user creating data pipelines for exploration, visualization, and production but also allows editing the “raw” python code. The combination of these features makes is a powerful and flexible tool.
+Of the many tools that exist, I like the most [Orange](https://orange.biolab.si/) ([<https://orange.biolab.si/>](https://orange.biolab.si/)). Orange allows the user creating data pipelines for exploration, visualization, and production but also allows editing the “raw” python code. The combination of these features makes is a powerful and flexible tool.
 
 ![](https://qph.fs.quoracdn.net/main-qimg-8c479b6cf90427f6da5dbbad84390960)
 

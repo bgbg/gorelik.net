@@ -30,4 +30,4 @@ Recently, I gave an [interview to the Techie Leadership](https://techieleadershi
 Overall, I enjoyed chatting with Andrei, and I hope you'll enjoy listening to the interview. If you have any comments, feel free sharing them here or on the [Techie Leadership size](https://techieleadership.com/the-difference-between-statistically-meaningful-and-practically-meaningful-with-boris-gorelik-009/)
 
 
-https://techieleadership.com/the-difference-between-statistically-meaningful-and-practically-meaningful-with-boris-gorelik-009/
+<https://techieleadership.com/the-difference-between-statistically-meaningful-and-practically-meaningful-with-boris-gorelik-009/>

@@ -57,4 +57,4 @@ Once you have your conclusion ready, you will notice that you don't need a techn
 
 So, remember, the Why and the What define the How
 
-Python code that was used to generate all this graphs is available on [gist](https://gist.github.com/bgbg/6c645a5fc48e61b1a917c9d1d66fa72f)
+Python code that was used to generate all this graphs is available on [gist](<https://gist.github.com/bgbg/6c645a5fc48e61b1a917c9d1d66fa72f)>

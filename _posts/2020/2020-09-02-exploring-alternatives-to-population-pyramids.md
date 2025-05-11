@@ -18,11 +18,11 @@ In some cases, the pyramid provides interesting insights into the entire populat
 
 ## The basic case
 
-Let's start with the basic case. If you have two-three hours of spare time, you can go to the site devoted to population pyramids -- https://www.populationpyramid.net. There, you will find population pyramids for every country in the world. The site provides present and past data, as well as future forecasts. To understand how insightful age pyramids can be, look at the graph that represents the entire world.
+Let's start with the basic case. If you have two-three hours of spare time, you can go to the site devoted to population pyramids -- <https://www.populationpyramid.net.> There, you will find population pyramids for every country in the world. The site provides present and past data, as well as future forecasts. To understand how insightful age pyramids can be, look at the graph that represents the entire world.
 
 ![]({{ site.baseurl }}/assets/img/2020/09/image-1.png){:width="216"}{:class="aligncenter"}
 
-(this and most other images in this post are from the site http://populationpyramid.net/)
+(this and most other images in this post are from the site <http://populationpyramid.net/)>
 
 You can clearly see that the world is mostly young, that the amount of people declines as the age progresses, and that there is a rough balance between men and women in the world, at least before the ages of 70+.
 

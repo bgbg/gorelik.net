@@ -20,7 +20,7 @@ I got paid for this job. However, when I divide the money that I received for th
 Since a government agency makes the course site, it's UI is complete shit. For example, the site doesn't support playlists, and the user is expected to search through the video clips by their titles. To fix that, I created a page that lists all the videos in the right order.
 
 
-https://he.gorelik.net/course/
+<https://he.gorelik.net/course/>
 
 
 ![]({{ site.baseurl }}/assets/img/2020/10/studio.png)

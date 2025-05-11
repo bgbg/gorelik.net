@@ -22,4 +22,4 @@ Hmmm, isn't this the very definition of procrastination? Isn't this sentence sim
 
  
 
-PS. After writing this post, I discovered that the paper author, Piers Steel, has a blog dedicated to "procrastination and science" [https://procrastinus.com/](https://procrastinus.com/). I will read that blog too. But not today
+PS. After writing this post, I discovered that the paper author, Piers Steel, has a blog dedicated to "procrastination and science" [<https://procrastinus.com/>](https://procrastinus.com/). I will read that blog too. But not today

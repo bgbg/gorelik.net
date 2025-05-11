@@ -27,4 +27,4 @@ Presenting this method was a fun and enjoyable experience for me. I decided to t
 
 It turns out that the method I’m using much closer to Mark Forster's "[Final Version](http://archive.constantcontact.com/fs004/1100358239599/archive/1109511856508.html)" than to his AutoFocus 
 
-During the years, Mark Forster created and tested many time management approaches. Scan through this page [http://markforster.squarespace.com/tm-systems](http://markforster.squarespace.com/tm-systems) to find something that might work for you to find something that might work for you.
+During the years, Mark Forster created and tested many time management approaches. Scan through this page [<http://markforster.squarespace.com/tm-systems>](http://markforster.squarespace.com/tm-systems) to find something that might work for you to find something that might work for you.

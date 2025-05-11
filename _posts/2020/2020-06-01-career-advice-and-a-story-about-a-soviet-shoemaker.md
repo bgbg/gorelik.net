@@ -15,7 +15,7 @@ When I was in elementary school (back in the USSR of the mid 80's), I had a frie
 
 ![]({{ site.baseurl }}/assets/img/2020/05/sapozhnik.jpg){:width="158"}{:class="alignright"}
 
-Common wisdom says, "It is very hard to predict, especially the future." And I will add "even more especially, about the job market.". Nevertheless, people need to decide what to do with their lives, how to live, and what career paths to pursue. Some of them ask me, and I'm glad to answer. If you have any career-related questions, don't be shy! Write to [boris@gorelik.net](mailto:boris@gorelik.net), and I'll see what wisdom I will be able to share with you.
+Common wisdom says, "It is very hard to predict, especially the future." And I will add "even more especially, about the job market.". Nevertheless, people need to decide what to do with their lives, how to live, and what career paths to pursue. Some of them ask me, and I'm glad to answer. If you have any career-related questions, don't be shy! Write to [<boris@gorelik.net>](mailto:boris@gorelik.net), and I'll see what wisdom I will be able to share with you.
 
 Anyhow, this is a letter that I got from another pharmacist looking for a data science career.
 
@@ -49,4 +49,4 @@ Right now, Israel sees a renaissance of bioinformatics companies, but I don't kn
 
 End of quote. One of The COVID-19 madness side effects is the massive influx of money into biotech companies. Is this a short-term anecdote, or will it become a sustainable trend? I have no idea.
 
-Do you have any career-related questions to me? You don’t have to be a pharmacist to ask :-). Write to [boris@gorelik.net](mailto:boris@gorelik.net). I promise to respond, even if by sending a link to my blog posts. 
+Do you have any career-related questions to me? You don’t have to be a pharmacist to ask :-). Write to [<boris@gorelik.net>](mailto:boris@gorelik.net). I promise to respond, even if by sending a link to my blog posts. 

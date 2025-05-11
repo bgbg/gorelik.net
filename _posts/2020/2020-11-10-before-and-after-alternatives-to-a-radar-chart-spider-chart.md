@@ -50,4 +50,4 @@ But what if we noticed something interesting about the differences between A and
 
 Notice how the bars in this version are sorted according to the difference. Sorting a bar chart is the easiest way to make it readable.
 
-Python code that I used to create these graphs is available here https://gist.github.com/bgbg/db833db723998cd244b5049bfe01f5ac
+Python code that I used to create these graphs is available here <https://gist.github.com/bgbg/db833db723998cd244b5049bfe01f5ac>

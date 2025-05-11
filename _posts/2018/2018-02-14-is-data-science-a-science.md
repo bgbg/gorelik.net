@@ -28,6 +28,6 @@ I strongly recommend watching this lecture. It's one hour long, so if you don't 
 
  
 
-https://www.youtube.com/watch?v=OX1EK5IBSdw
+<https://www.youtube.com/watch?v=OX1EK5IBSdw>
 
  

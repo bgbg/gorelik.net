@@ -14,7 +14,7 @@ layout: "post"
 I've stumbled upon an exciting project --[ text visualization browser](https://textvis.lnu.se/). It's a web page that allows one to search for different text visualization techniques using keywords and publication time. 
 
 ![]({{ site.baseurl }}/assets/img/2020/10/image-6.png)
-*Text visualization browser https://textvis.lnu.se*
+*Text visualization browser <https://textvis.lnu.se>*
 
 The ability to limit the search to various years gives a nice historical perspective on this interesting topic
 

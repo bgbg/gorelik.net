@@ -20,7 +20,7 @@ In my constant strive for improving what I do, I joined the Data Carpentry instr
 
 Software Carpentry (and it's sibling project [Data Carpentry](http://www.datacarpentry.org/)) aims to teach researchers the computing skills they need to get more done in less time and with less pain. "Carpentry" instructors are volunteers who receive a pretty extensive training and who are committed to evidence-based teaching techniques. The instructor training had a powerful impact on how I approach teaching. If teaching is something that you do or plan to do, invest three hours of your life watching this video in which Greg Wilson, "Carpentries" founder, talks about evidence-based teaching and his "Carpentries" project.
 
-https://www.youtube.com/watch?v=kmVKGxPlTvc
+<https://www.youtube.com/watch?v=kmVKGxPlTvc>
 
 I also recommend reading these papers, which provide a brief overview of some evidence-based results in teaching:
 

@@ -16,7 +16,7 @@ Data scientists build models using data. Real-life data captures real-life injus
 
  
 
-https://videopress.com/embed/jckHrKeF?hd=0&autoPlay=0&permalink=0&loop=0
+<https://videopress.com/embed/jckHrKeF?hd=0&autoPlay=0&permalink=0&loop=0>
 
 > Charles Earl on identifying and overcoming bias in machine learning.
 

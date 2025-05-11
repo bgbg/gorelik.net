@@ -9,7 +9,7 @@ cover_image: "/assets/img/2019/11/screen-shot-2019-11-10-at-8.33.09.png"
 layout: "post"
 ---
 
-I stumbled upon a [very detailed and useful summary of a recent conference on empirical methods in natural language processing](https://medium.com/@mgalkin/knowledge-graphs-nlp-emnlp-2019-part-i-e4e69fd7957c). I have to say, Michael Galkin, the author of this review, did an excellent job. His blog, [https://medium.com/@mgalkin](https://medium.com/@mgalkin), is worth following.
+I stumbled upon a [very detailed and useful summary of a recent conference on empirical methods in natural language processing](https://medium.com/@mgalkin/knowledge-graphs-nlp-emnlp-2019-part-i-e4e69fd7957c). I have to say, Michael Galkin, the author of this review, did an excellent job. His blog, [<https://medium.com/@mgalkin>](https://medium.com/@mgalkin), is worth following.
 
 
-https://medium.com/@mgalkin/knowledge-graphs-nlp-emnlp-2019-part-i-e4e69fd7957c
+<https://medium.com/@mgalkin/knowledge-graphs-nlp-emnlp-2019-part-i-e4e69fd7957c>

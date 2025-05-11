@@ -18,7 +18,7 @@ There's an interesting mini-drama going on in the data visualization world. The 
 
 This response triggered some backlash. Randal Olson (a prominent data scientists and a [blogger](http://www.randalolson.com/blog/), for example, called his response "petty":
 
-https://twitter.com/randal_olson/status/898244310600228865
+<https://twitter.com/randal_olson/status/898244310600228865>
 
 I have to respectfully disagree with Randy. Don't get me wrong. Stephens Few's response style is indeed harsh. However, I have to agree with him. Many (although not all) data visualization cases that I saw on DataIsBeatiful look like data visualization for the sake of data visualization. They are, basically, collections of lines and colors that demonstrate cool features of plotting libraries but do not provide any insight or tell any (data-based) story. From time to time, we see pieces of "data art," in which the data plays a secondary role, and have nothing to do with "data visualization" where the data is the "king." I don't consider myself an artistic person, but I don't appreciate the "art" part of most of the data art pieces I see.
 

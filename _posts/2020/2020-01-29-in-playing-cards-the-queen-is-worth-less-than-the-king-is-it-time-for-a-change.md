@@ -14,7 +14,7 @@ layout: "post"
 Queeng is an ambitious project to change the way we play cards.
 
 
-https://youtu.be/WUZMnlGP_wo
+<https://youtu.be/WUZMnlGP_wo>
 
 
 You may consider supporting this project [here](https://www.indiegogo.com/projects/queeng-playing-cards#/).

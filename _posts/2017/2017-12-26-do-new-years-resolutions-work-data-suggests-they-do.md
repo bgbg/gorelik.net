@@ -7,4 +7,4 @@ cover_image: "/assets/img/2017/12/scrabble-resolutions.jpg"
 layout: "post"
 ---
 
-My latest post on https://data.blog. I enjoyed preparing it, and like its results very much. Happy New Year, everyone.
+My latest post on <https://data.blog.> I enjoyed preparing it, and like its results very much. Happy New Year, everyone.

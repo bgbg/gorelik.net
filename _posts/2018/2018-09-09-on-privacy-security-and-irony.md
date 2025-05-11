@@ -14,7 +14,7 @@ About a week ago, I met [Justin Mayer](https://justinmayer.com) and had a really
 
  
 
-https://www.youtube.com/watch?v=2rrP_aW-jNA
+<https://www.youtube.com/watch?v=2rrP_aW-jNA>
 
 How ironic. The talk, by the way, is very interesting.
 

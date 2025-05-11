@@ -14,4 +14,4 @@ My guest talk at Automattic.
 > 
 > [Boris Gorelik on the biggest missed opportunity in data visualization — Data for Breakfast](http://data.blog/2020/09/17/boris-gorelik-on-the-biggest-missed-opportunity-in-data-visualization/)
 
-https://video.wordpress.com/embed/unSMD0ZA?preloadContent=metadata&hd=1
+<https://video.wordpress.com/embed/unSMD0ZA?preloadContent=metadata&hd=1>

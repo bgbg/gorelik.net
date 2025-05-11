@@ -14,4 +14,4 @@ So, the data visualization workshop is fully booked. The organizers told me to e
 
 It's a good opportunity to attend the workshop for free, to learn a lot of useful information, and to meet a lot of smart people.
 
-It's a win-win situation. Contact me now at boris@gorelik.net
+It's a win-win situation. Contact me now at <boris@gorelik.net>

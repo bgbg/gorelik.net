@@ -25,7 +25,7 @@ I teach data visualization in Israeli colleges. Whenever a student asks me RTL-r
 
 Nick's post made me wonder about data visualization do's and don'ts in RTL environments. Should Hebrew charts differ from Arabic or Farsi? What are the accepted practices?
 
-If you speak Arabic or Farsi, I need your help. If you don't speak, share this post with someone who does. I want to collect as many examples of data visualization in RTL languages. Links to research articles are more than welcome. You can leave your comments here or send them to boris@gorelik.net.
+If you speak Arabic or Farsi, I need your help. If you don't speak, share this post with someone who does. I want to collect as many examples of data visualization in RTL languages. Links to research articles are more than welcome. You can leave your comments here or send them to <boris@gorelik.net>.
 
 Thank you.
 

@@ -26,4 +26,4 @@ There's no point rephrasing here the original post,[ just go and read it](https:
 *Go and read. The image is clickable*
 
 
-https://medium.com/@tomaspueyo/coronavirus-the-hammer-and-the-dance-be9337092b56
+<https://medium.com/@tomaspueyo/coronavirus-the-hammer-and-the-dance-be9337092b56>
