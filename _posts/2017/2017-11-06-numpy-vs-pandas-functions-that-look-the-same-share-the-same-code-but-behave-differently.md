@@ -13,7 +13,7 @@ cover_image: "/assets/img/2017/11/screen-shot-2017-11-06-at-15-14-42.png"
 layout: "post"
 ---
 
-I can't imagine how my professional life would have looked like without [pandas](https://pandas.pydata.org/), THE data analysis library for Python. Pandas shares much of its functionality and syntax with [numpy](http://www.numpy.org/), a fundamental package for scientific computing with Python. The reason for that is that, under the hood, pandas uses numpy. This similarity is very convenient as it allows passing numpy arrays to many pandas functions and vice versa. However, sometimes it sabs you in the back. Here is a nice example that I discovered after hours (OK, minutes) of debugging.
+I can't imagine how my professional life would have looked like without [pandas](https://pandas.pydata.org/), THE data analysis library for Python. Pandas shares much of its functionality and syntax with [numpy](http://www.numpy.org/), a fundamental package for scientific computing with Python. The reason for that is that, under the hood, pandas uses numpy. This similarity is very convenient as it allows passing numpy arrays to many pandas functions and vice versa. However, sometimes it sabs you in the back. Here is a nice example that I discovered after hours (OK, minutes) of debugging.
 
 Let's create a numpy vector with a single element in it:
 
@@ -51,7 +51,7 @@ Now I start getting it. Compare this
     ....
     ddof : int, optional
     Means Delta Degrees of Freedom. The divisor used in calculations
-    is ``N  ddof``, where ``N`` represents the number of elements.
+    is ``N - ddof``, where ``N`` represents the number of elements.
     <span style="color:#ff0000;"><strong>By default `ddof` is zero</strong></span>.
 
 
@@ -81,12 +81,12 @@ To sum up:
 >   dtype: bool
 
 
- 
+ 
 
 Beware.
 
- 
+ 
 
- 
+ 
 
- 
+ 

@@ -31,6 +31,7 @@ Data Analysts mainly focus on the organization and interpretation of data. Unlik
 
 Data Science as a Service is a term for boxed solutions that are constantly becoming more versatile, flexible, and affordable. I was a freelancer for a company that built its data-based product on an open-source implementation of a single optimization algorithm. They managed to run a successful company without a single data scientist for more than five years, and they started thinking of better solutions when they squeezed everything they could from their MRE. At this point, they had their data storage pipelines (data engineering), a better picture of their business (data analysts), and paying customers to finance the development of new algorithms.
 
-How to work with data scientists?<br>I'll write separate posts on this topic, but the gist is: to make sure they know your business needs. Ensure you communicate your needs and problems to them and make sure they share their efforts with you. I have seen many failed data science projects in my life. Most failed due to a lack of alignment, communication, or both.
+How to work with data scientists?
+I'll write separate posts on this topic, but the gist is: to make sure they know your business needs. Ensure you communicate your needs and problems to them and make sure they share their efforts with you. I have seen many failed data science projects in my life. Most failed due to a lack of alignment, communication, or both.
 
 This was another career advice post. Read more of them [here](https://gorelik.net/category/career-advice/).

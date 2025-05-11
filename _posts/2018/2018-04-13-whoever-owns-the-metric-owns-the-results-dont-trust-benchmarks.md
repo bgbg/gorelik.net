@@ -13,7 +13,7 @@ layout: "post"
 
 Other factors being equal, what language would you choose for heavy numeric computations: Python or PHP? This is not a language war but a serious question. For me, the choice seems to be obvious: I would choose Python, and I'm not the only one. In [this survey](https://insights.stackoverflow.com/survey/2017#technologies-and-occupations), for example, 45% of data scientist use Python, compared to 24% who use PHP. The two sets of data scientists aren't mutually exclusive, but we do see the picture.
 
-This is why I was very surprised when a colleague of mine suggested switching to PHP due to a [three times faster performance in a benchmark](https://blog.famzah.net/2016/02/09/cpp-vs-python-vs-perl-vs-php-performance-benchmark-2016/). I was very surprised and intrigued. Especially, when I noticed that they used a heavy number crunching for the benchmark.
+This is why I was very surprised when a colleague of mine suggested switching to PHP due to a [three times faster performance in a benchmark](https://blog.famzah.net/2016/02/09/cpp-vs-python-vs-perl-vs-php-performance-benchmark-2016/). I was very surprised and intrigued. Especially, when I noticed that they used a heavy number crunching for the benchmark.
 
 In that benchmark, the authors compute prime numbers using the following Python code
 
@@ -21,7 +21,7 @@ In that benchmark, the authors compute prime numbers using the following Python 
 def get_primes7(n):
 	"""
 	standard optimized sieve algorithm to get a list of prime numbers
-	-- this is the function to compare your functions against! ---
+	--- this is the function to compare your functions against! ---
 	"""
 	if n < 2:
 		return []
@@ -39,7 +39,7 @@ def get_primes7(n):
 	m = 3
 	while m <= mroot:
 		if s[i]:
-			j = (m * m  3) // 2  # int div
+			j = (m * m - 3) // 2  # int div
 			s[j] = 0
 			while j =6, Returns a array of primes, 2 <= p <span id="mce_SELREST_start" style="overflow:hidden;line-height:0;"></span>< n """
     sieve = np.ones(n//3 + (n%6==2), dtype=np.bool)
@@ -52,9 +52,9 @@ def get_primes7(n):
     return np.r_[2,3,((3*np.nonzero(sieve)[0]+1)|1)]
 [/code]
 
-Did you notice the problem? The code above is a pure Python code. I can't think of a good reason to use pure python code for computationally-intensive, time-sensitive tasks. When you need to crunch numbers with Python, and when the computational time is even remotely important, you will most certainly use tools that were specifically optimized for such tasks. One of the most important such tools is [numpy](http://www.numpy.org/), in which the most important loops are implemented in C++ or in Fortran. Many other packages, such as Pandas, scipy, sklearn, and others rely on numpy or other form of speed optimization.
+Did you notice the problem? The code above is a pure Python code. I can't think of a good reason to use pure python code for computationally-intensive, time-sensitive tasks. When you need to crunch numbers with Python, and when the computational time is even remotely important, you will most certainly use tools that were specifically optimized for such tasks. One of the most important such tools is [numpy](http://www.numpy.org/), in which the most important loops are implemented in C++ or in Fortran. Many other packages, such as Pandas, scipy, sklearn, and others rely on numpy or other form of speed optimization.
 
-The following snippet uses numpy to perform the same computation as the first one.
+The following snippet uses numpy to perform the same computation as the first one.
 
 [code lang="python"]
 def numpy_primes(n):
@@ -72,9 +72,9 @@ def numpy_primes(n):
 
 On my computer, the timings to generate primes smaller than 10,000,000 is 1.97 seconds for the pure Python implementation, and 21.4 milliseconds for the Numpy version. The numpy version is 92 times faster!
 
-**What does that mean? **
+**What does that mean? **
 Whoever owns the metric owns the results. Never trust a benchmark result before you understand how the benchmark was performed, and before making sure the benchmark was performed under the conditions that are relevant to you and your problem.
 
- 
+ 
 
- 
+ 

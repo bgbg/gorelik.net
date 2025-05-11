@@ -8,8 +8,8 @@ tags:
  - "open-source"
  - "python"
  - "tictoc"
+cover_image: "/assets/img/2020/02/pexels-photo-2388570.jpeg"
 layout: "post"
-cover_image: /assets/img/2020/02/pexels-photo-2388570.webp
 ---
 
 Many years ago, I needed a way to measure execution times. I didn't like the existing solutions so I wrote my own class. As time passed by, I added small changes and improvements, and recently, I decided to publish the code on GitHub, [first as a gist](https://gorelik.net/2018/02/09/measuring-the-wall-time-in-python-programs/), and now as a full-featured [Github repository](https://github.com/bgbg/tictoc), and a [pip package](https://pypi.org/project/tictoc-borisgorelik/).
@@ -49,7 +49,7 @@ Following is an example of how to use TicToc:
     print(tt_cumulative)
 
 
-TicToc objects are created in a "running" state, i.e you don't have to start them using `tic`. To change this default behaviour, use
+TicToc objects are created in a "running" state, i.e you don't have to start them using `tic`. To change this default behaviour, use
 
     tt = TicToc(start=False)
     # do some stuff

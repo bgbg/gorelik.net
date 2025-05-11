@@ -6,8 +6,8 @@ categories:
 tags: 
  - "announcement"
  - "data-visualization"
+cover_image: "/assets/img/2020/10/image-5.png"
 layout: "post"
-excerpt: "הקליקו כאן לקבלת פרטים והרשמה!"
 ---
 
 [![]({{ site.baseurl }}/assets/img/2020/10/image-5.png)](https://he.gorelik.net/workshop/)

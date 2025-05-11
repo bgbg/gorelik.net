@@ -10,10 +10,12 @@ tags:
  - "data-visualization"
  - "radar-chart"
  - "spider-chart"
+cover_image: "/assets/img/2020/11/before_after_radar.png"
 layout: "post"
 ---
 
-A radar chart (sometimes called "spider charts") look cool but are, in fact,<br>pretty lame. So much so that when the data visualization author Stephen Few mentioned them in his book [Show me the numbers](https://www.amazon.com/Show-Me-Numbers-Designing-Enlighten/), he did so in a chapter called "Silly graphs that are best forsaken."
+A radar chart (sometimes called "spider charts") look cool but are, in fact,
+pretty lame. So much so that when the data visualization author Stephen Few mentioned them in his book [Show me the numbers](https://www.amazon.com/Show-Me-Numbers-Designing-Enlighten/), he did so in a chapter called "Silly graphs that are best forsaken."
 
 Here, I will demonstrate some of its problems, and will suggest an alternative
 
@@ -21,9 +23,12 @@ Here, I will demonstrate some of its problems, and will suggest an alternative
 
 ![]({{ site.baseurl }}/assets/img/2020/11/image-1.png)
 
-Above is my reconstruction of the original plot that I saw in a Facebook discussion. The graph looks pretty cool, I have to admit, but it is full of problems.<br>What are the problems of a spyder plot or a radar plot?<br>Let's start with readability. Can you quickly tell the value of "Substance abuse" for the red series? Not that easy.
+Above is my reconstruction of the original plot that I saw in a Facebook discussion. The graph looks pretty cool, I have to admit, but it is full of problems.
+What are the problems of a spyder plot or a radar plot?
+Let's start with readability. Can you quickly tell the value of "Substance abuse" for the red series? Not that easy.
 
-But a more significant problem emerges when one realizes that in most cases, the order of the categories is arbitrary and that different sorting options may result in entirely different visual pictures.<br>
+But a more significant problem emerges when one realizes that in most cases, the order of the categories is arbitrary and that different sorting options may result in entirely different visual pictures.
+
 
 ![]({{ site.baseurl }}/assets/img/2020/11/image-2.png)
 

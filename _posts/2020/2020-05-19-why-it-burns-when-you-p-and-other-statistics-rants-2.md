@@ -10,7 +10,8 @@ cover_image: "/assets/img/2019/01/screen-shot-2019-01-20-at-10.02.07.png"
 layout: "post"
 ---
 
-Do you sometimes Google for something only to find stuff written by yourself?<br>I teach a course called "data-based decision making." While googling for examples of statistics misuse, I stumbled upon an interesting blog post that I wrote about one and a half years ago.
+Do you sometimes Google for something only to find stuff written by yourself?
+I teach a course called "data-based decision making." While googling for examples of statistics misuse, I stumbled upon an interesting blog post that I wrote about one and a half years ago.
 
 The post is so good; I decided to post it again.
 
@@ -24,7 +25,7 @@ The post is so good; I decided to post it again.
 
 "[Everything wrong with statistics (and how to fix it)](https://www.youtube.com/watch?v=be2wuOaglFY)" is a one-hour video lecture by Dr. Kristin Lennox who talks about the same problems. I saw this video, and two more talks by Dr. Lennox on a flight I highly recommend all her videos on YouTube. 
 
-"[Do You Hate Statistics as Much as Everyone Else?](https://flowingdata.com/2008/12/15/do-you-hate-statistics-as-much-as-everyone-else/)" - A Natan Yau's (from flowingdata.com) attempt to get thoughtful comments from his knowledgeable readers. 
+"[Do You Hate Statistics as Much as Everyone Else?](https://flowingdata.com/2008/12/15/do-you-hate-statistics-as-much-as-everyone-else/)" -- A Natan Yau's (from flowingdata.com) attempt to get thoughtful comments from his knowledgeable readers. 
 
 This list will not be complete without the classics:
 

@@ -3,6 +3,7 @@ title: "My blog in Hebrew"
 date: 2019-09-09
 categories: 
  - "blog"
+cover_image: "/assets/img/2019/09/featured_hebrew.png"
 layout: "post"
 ---
 

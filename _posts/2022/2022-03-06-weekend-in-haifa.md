@@ -7,6 +7,7 @@ tags:
  - "haifa"
  - "israel"
  - "trip"
+cover_image: "/assets/img/2022/03/5.jpg"
 layout: "post"
 ---
 

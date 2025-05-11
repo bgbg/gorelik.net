@@ -12,9 +12,9 @@ cover_image: "/assets/img/2020/05/survivorship-bias.png"
 layout: "post"
 ---
 
-Did you know that J.K. Rowling, the author of Harry Potter, [submitted her books 13 times before it was accepted](https://gorelik.net/2019/09/16/book-review-the-formula-by-a-l-barabasi/)? Did you know that Thomas Edison tried again and again, even though his teachers thought he was "too stupid to learn anything?" Did you know that Lior Raz (Fauda's creator and lead actor) was an anonymous actor for more than ten years before he broke the barrier of anonymity? What do these all people have in common? They persisted, and they succeeded. BUT, and there is a big but.
+Did you know that J.K. Rowling, the author of Harry Potter, [submitted her books 13 times before it was accepted](https://gorelik.net/2019/09/16/book-review-the-formula-by-a-l-barabasi/)? Did you know that Thomas Edison tried again and again, even though his teachers thought he was "too stupid to learn anything?" Did you know that Lior Raz (Fauda's creator and lead actor) was an anonymous actor for more than ten years before he broke the barrier of anonymity? What do these all people have in common? They persisted, and they succeeded. BUT, and there is a big but.
 
-<div class="wp-block-image"><figure class="alignright is-resized"><img src="https://images.unsplash.com/photo-1518548183878-5e1fcea68bb9?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=1000&amp;q=80" alt="girl wearing pink framed sunglasses" width="250" height="167"></figure></div>
+![girl wearing pink framed sunglasses](https://images.unsplash.com/photo-1518548183878-5e1fcea68bb9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=80){:width="250"}{:class="alignright"}
 
 People keep telling us: follow your dream, and if you persist, it will come true. You will learn from your mistakes, improve, and adapt, and finally, will reach your goal. I call bullshit
 
@@ -22,9 +22,10 @@ Think of the Martingale betting strategy. In theory, it works. Why doesn't it wo
 
 ### Survivorship bias
 
-<div class="wp-block-image"><figure class="alignleft size-large is-resized"><img src="/assets/img/2020/05/survivorship-bias.png" class="wp-image-3261" width="256" height="191"><figcaption><a href="https://en.wikipedia.org/wiki/Survivorship_bias#In_the_military">Read the story, it's very educational</a></figcaption></figure></div>
+![]({{ site.baseurl }}/assets/img/2020/05/survivorship-bias.png){:width="256"}{:class="alignleft"}
+*[Read the story, it's very educational](https://en.wikipedia.org/wiki/Survivorship_bias#In_the_military)*
 
-But what about all those successful failers? What we see a typical example of [survivorship bias](https://en.wikipedia.org/wiki/Survivorship_bias), the logical error of concentrating on the people or things that made it past some selection process and overlooking those that did not, typically because of their lack of visibility. We know the names Rowling, Edison, Raz, and others not because of their multiple failures but DESPITE them. For every Rowling, Edison, and Raz, there are thousands of failed writers, engineers, and actors who ended up broke and caused sorrow to their families.
+But what about all those successful failers? What we see a typical example of [survivorship bias](https://en.wikipedia.org/wiki/Survivorship_bias), the logical error of concentrating on the people or things that made it past some selection process and overlooking those that did not, typically because of their lack of visibility. We know the names Rowling, Edison, Raz, and others not because of their multiple failures but DESPITE them. For every Rowling, Edison, and Raz, there are thousands of failed writers, engineers, and actors who ended up broke and caused sorrow to their families.
 
 ### So, should I quit?
 

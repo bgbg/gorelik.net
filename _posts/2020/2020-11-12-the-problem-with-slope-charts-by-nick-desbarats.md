@@ -7,6 +7,7 @@ tags:
  - "bar-plot"
  - "data-visualization"
  - "slopegraph"
+cover_image: "/assets/img/2020/11/image-7.png"
 layout: "post"
 ---
 

@@ -8,13 +8,14 @@ tags:
  - "data-visualization"
  - "data-visualization-beyond-the-tutorial"
  - "tutorial"
+cover_image: "/assets/img/2017/07/screen-shot-2017-07-07-at-11-03-47.png"
 layout: "post"
 ---
 
-The first lesson of the course [Data Visualization Beyond the Tutorial](https://gorelik.net/course/) is online! Go to the [lesson page](https://gorelik.net/course/data-visualization-what-why-and-how/) to watch the lesson video. There's also an assignment!
+The first lesson of the course [Data Visualization Beyond the Tutorial](https://gorelik.net/course/) is online! Go to the [lesson page](https://gorelik.net/course/data-visualization-what-why-and-how/) to watch the lesson video. There's also an assignment!
 
 Do you know a friend, a colleague, a classmate who needs to communicate numbers as part of their works? Let them know about this course. They will thank you :-)
 
- 
+ 
 
 https://youtu.be/N54OeCNTaLU

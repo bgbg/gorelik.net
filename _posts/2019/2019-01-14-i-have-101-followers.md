@@ -6,6 +6,7 @@ categories:
 tags: 
  - "blogging"
  - "followers"
+cover_image: "/assets/img/2019/01/screen-shot-2019-01-14-at-12.57.56.png"
 layout: "post"
 ---
 

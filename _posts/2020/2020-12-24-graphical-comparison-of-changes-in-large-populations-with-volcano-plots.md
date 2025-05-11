@@ -12,20 +12,18 @@ tags:
 layout: "post"
 ---
 
-I recently rediscovered a **volcano plot** &mdash; a scatter plot that aims to visualize changes in large populations.
+I recently rediscovered a **volcano plot** -- a scatter plot that aims to visualize changes in large populations.
 
-Volcano plots are very technical and specialized and, most probably, are not a good fit for explanatory data visualization. However, they can be useful during the exploration phase, and they come with a set of well-established metrics.
+Volcano plots are very technical and specialized and, most probably, are not a good fit for explanatory data visualization. However, they can be useful during the exploration phase, and they come with a set of well-established metrics. 
 
 Moreover, if you are lucky enough to have well-behaved data, the plots look very cool
 
-![Visualization of RNA-Seq results with Volcano Plot]({{ site.baseurl }}/assets/img/2020/12/volcanoplot.png)
-
-From [here](https://training.galaxyproject.org/training-material/topics/transcriptomics/tutorials/rna-seq-viz-with-volcanoplot/tutorial.html)
+![Visualization of RNA-Seq results with Volcano Plot](https://galaxyproject.github.io/training-material/topics/transcriptomics/images/rna-seq-viz-with-volcanoplot/volcanoplot.png)
+*From [here](https://training.galaxyproject.org/training-material/topics/transcriptomics/tutorials/rna-seq-viz-with-volcanoplot/tutorial.html)*
 
 Of course, in real life, the data is messy. Add bad visualization practices to the mess and you get a marvel like this one
 
-![]({{ site.baseurl }}/assets/img/2020/12/image-8.png?w=1024)
-
-From [here](https://science.sciencemag.org/content/early/2020/12/09/science.abb5920)
+![]({{ site.baseurl }}/assets/img/2020/12/image-8.png)
+*From [here](https://science.sciencemag.org/content/early/2020/12/09/science.abb5920)*
 
 The bottom line: if you have two populations to compare, consider volcano plots. But do remember dataviz good practices.

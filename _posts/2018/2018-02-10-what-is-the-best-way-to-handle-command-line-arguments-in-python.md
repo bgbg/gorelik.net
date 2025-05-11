@@ -9,7 +9,7 @@ tags:
 layout: "post"
 ---
 
-The best way to handle command line arguments with Python is `[defopt](http://evanunderscore/defopt: Effortless argument parser)`. It works like magic. You write a function, add a proper docstring using any standard format (I use [[numpy doc](https://github.com/numpy/numpy/blob/master/doc/HOWTO_DOCUMENT.rst.txt)]), and see the magic
+The best way to handle command line arguments with Python is `[defopt](http://evanunderscore/defopt: Effortless argument parser)`. It works like magic. You write a function, add a proper docstring using any standard format (I use [[numpy doc](https://github.com/numpy/numpy/blob/master/doc/HOWTO_DOCUMENT.rst.txt)]), and see the magic
 
 [code language="python"]
 
@@ -28,19 +28,19 @@ if __name__ == '__main__':
     defopt.run(main)
 [/code]
 
- 
+ 
 
 You have:
 
 
-     help string generation
+    * help string generation
 
-     data type conversion
+    * data type conversion
 
-     default arguments
+    * default arguments
 
-     zero boilerplate code
+    * zero boilerplate code
 
 Magic!
 
-![Illustration: the famous XKCD ]({{ site.baseurl }}/assets/img/2018/02/python.png){:width="264" :class="aligncenter"}
+![Illustration: the famous XKCD ]({{ site.baseurl }}/assets/img/2018/02/python.png){:width="264"}{:class="aligncenter"}

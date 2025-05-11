@@ -16,7 +16,7 @@ layout: "post"
 
 Nir Eyal is known for his book "Hooked" in which he teaches how to create addictive products. In his new book "[Indistractable](https://www.nirandfar.com/indistractable/)", Nir teaches how to live in the world full of addictive products. The book itself isn't bad. It provides interesting information and, more importantly, practical tips and action items. Nir covers topics such as digital distraction, productivity and procrastination. 
 
-<div class="wp-block-image"><figure class="alignright is-resized"><img src="/assets/img/2019/05/Indistractable-Control-Your-Attention-Choose-Your-Life-Nir-Eyal-3D-cover-700x1024.png" alt="Indistractable Control Your Attention Choose Your Life Nir Eyal 3D cover" width="178" height="261"></figure></div>
+![Indistractable Control Your Attention Choose Your Life Nir Eyal 3D cover]({{ site.baseurl }}/assets/img/2019/05/Indistractable-Control-Your-Attention-Choose-Your-Life-Nir-Eyal-3D-cover-700x1024.png){:width="178"}{:class="alignright"}
 
 I liked the fact that the author "gives permission" to spend time on Facebook, Instagram, Youtube etc, as long as it is what you planned to do. Paraphrasing Nir, distraction isn't distraction unless you know what it distracts you from. In other words, anything you do is a potential distraction unless you know what, why and when you are doing it. 
 
@@ -26,4 +26,4 @@ Until I got to the chapter that deals with raising children ("Part 6, how to rai
 
 Another nice touch is the fact that each chapter has a short summary that consists of three-four bullet points. Even nicer is the fact that Nir copied all the "Remember this" lists at the end of the book, which is very kind of him.
 
-The Bottom line. 4/ Read.
+The Bottom line. 4/- Read.

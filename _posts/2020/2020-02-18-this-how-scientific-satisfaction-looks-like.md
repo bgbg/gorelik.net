@@ -6,6 +6,7 @@ categories:
 tags: 
  - "research"
  - "science"
+cover_image: "/assets/img/2020/02/screen-shot-2020-02-18-at-10.04.08.png"
 layout: "post"
 ---
 

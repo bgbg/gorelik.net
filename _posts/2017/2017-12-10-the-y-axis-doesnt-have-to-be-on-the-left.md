@@ -13,7 +13,7 @@ layout: "post"
 
 Line charts are great to convey the evolution of a variable over the time. This is a typical chart. It has three key components, the X-axis that represents the time, the Y-axis that represents the tracked value, and the line itself.
 
-![A typical line chart. The Y-axis is on the left]({{ site.baseurl }}/assets/img/2017/11/line_chart_the_default_version1.png){:width="599" :class="alignnone"}
+![A typical line chart. The Y-axis is on the left]({{ site.baseurl }}/assets/img/2017/11/line_chart_the_default_version1.png){:width="599"}{:class="alignnone"}
 
 Usually, you will see the Y-axis at the left part of the graph. Unless you design for a Right-To-Left language environment, placing the Y-axis on the left makes perfect sense. However, left-side Y-axis isn't a hard rule.
 
@@ -21,11 +21,11 @@ In many cases, more importance is given to the most recent data point. For examp
 
 What happens if we move the axis to the right?
 
-![A slightly improved version. The Y-axis is on the right, adjacent to the most recent data point]({{ site.baseurl }}/assets/img/2017/11/line_chart_improved_version1.png){:width="612" :class="alignnone"}![]()
+![A slightly improved version. The Y-axis is on the right, adjacent to the most recent data point]({{ site.baseurl }}/assets/img/2017/11/line_chart_improved_version1.png){:width="612"}{:class="alignnone"}![]()
 
 Now, today's price of XYZ stock is visible more clearly. Let's make the most important values explicitly clear:
 
-![The final version. The Y-axis is on the right, adjacent to the most recent data point. The axis ticks correspont to actual data points]({{ site.baseurl }}/assets/img/2017/11/line_chart_even_better1.png){:width="614" :class="alignnone"}![]()
+![The final version. The Y-axis is on the right, adjacent to the most recent data point. The axis ticks correspont to actual data points]({{ site.baseurl }}/assets/img/2017/11/line_chart_even_better1.png){:width="614"}{:class="alignnone"}![]()
 
 There are two ways to obtain right-sided Y axis in matplotib. The first way uses a combination of
 
@@ -68,4 +68,4 @@ ax2.set_ylim(ylm)
 
 Next time when you create a "something" vs time graph, ask yourself whether the last available point has a special meaning to the viewer. If it does, consider moving the Y axis to the left part of your graph and see whether it becomes more readable.
 
-This post was triggered by a nice write-up by  [Plotting a Course: Line Charts](https://thenumberist.wordpress.com/2017/12/06/plotting-a-course-line-charts/) by a new blogger David (he didn't mention his last name) from https://thenumberist.wordpress.com/
+This post was triggered by a nice write-up by  [Plotting a Course: Line Charts](https://thenumberist.wordpress.com/2017/12/06/plotting-a-course-line-charts/) by a new blogger David (he didn't mention his last name) from https://thenumberist.wordpress.com/

@@ -20,9 +20,9 @@ layout: "post"
 
 In June 2019, I attended the NDR AI conference in Iași, Romania where I also gave a talk. Recently, the organizers uploaded the video recording to YouTube.
 
-<div class=" wp-block-embed-youtube wp-block-embed is-type-rich wp-embed-aspect-16-9 wp-has-aspect-ratio">
+
 https://www.youtube.com/watch?v=SJQP5txgwlI
-</div>
+
 
 That was a very interesting conference, tight with interesting talks.
 

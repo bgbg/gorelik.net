@@ -7,8 +7,8 @@ tags:
  - "covid"
  - "covid-19"
  - "crisis"
+cover_image: "/assets/img/2020/05/pexels-photo.jpeg"
 layout: "post"
-cover_image: /assets/img/2020/05/pexels-photo.jpeg
 ---
 
 At the beginning of the COVID-19 crisis, I tried to explain to my daughter (and to myself) the rationale behind the draconic measures the governments take to fight with the crisis. One rationalization that I found was an analogy of a person that falls into the water. In this situation, the person needs to act FAST to stabilize the situation. Only than, he or she can start planning their steps.

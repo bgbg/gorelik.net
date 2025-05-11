@@ -12,7 +12,7 @@ layout: "post"
 
 TL;DR: Dull on the surface but has a lot of good points
 
-<div class="wp-block-image"><figure class="alignright size-large is-resized"><a href="https://info.blackswanltd.com/never-split-the-difference"><img src="/assets/img/2020/04/br_never_split.png" alt="Never_Split_3D_Jacket_copy.png" class="wp-image-3194" width="150" height="212"></a></figure></div>
+[![Never_Split_3D_Jacket_copy.png]({{ site.baseurl }}/assets/img/2020/04/br_never_split.png){:width="150"}](https://info.blackswanltd.com/never-split-the-difference)
 
 I read [Never Split the Difference](https://info.blackswanltd.com/never-split-the-difference) following a friend's recommendation. While reading the book, I kept feeling a constant sense of disappointment and mental eye-rolling. The author, Chris Voss, is a former FBI negotiator. The book is full of FBI war stories and pieces of advice that, on the top of it, sound either trivial or well known. HOWEVER, when the book was over, I sat summarizing my Kindle notes. Forty-five minutes later, I found myself staring at six pages of handwritten text of notes and takeaways. Which, surely, is a good sign.
 

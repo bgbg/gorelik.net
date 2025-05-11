@@ -6,6 +6,7 @@ categories:
 tags: 
  - "corona"
  - "covid-19"
+cover_image: "/assets/img/2020/03/image-12.png"
 layout: "post"
 ---
 

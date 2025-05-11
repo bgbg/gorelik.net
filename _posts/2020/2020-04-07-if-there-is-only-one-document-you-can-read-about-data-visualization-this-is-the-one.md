@@ -9,6 +9,7 @@ tags:
  - "dataviz"
  - "documentation"
  - "guidelines"
+cover_image: "/assets/img/2020/04/image-2.png"
 layout: "post"
 ---
 

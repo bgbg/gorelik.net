@@ -9,10 +9,11 @@ tags:
  - "data-visualization"
  - "ndr"
  - "speaking"
+cover_image: "/assets/img/2020/07/ndr.png"
 layout: "post"
 ---
 
-I will be talking about data visualization at the next NDR conference on July  All the conferences organized by the NDR team are well organized and of a very high value. I hope to keep the level high.
+I will be talking about data visualization at the next NDR conference on July - All the conferences organized by the NDR team are well organized and of a very high value. I hope to keep the level high.
 
 ![]({{ site.baseurl }}/assets/img/2020/07/ndr.png)
 

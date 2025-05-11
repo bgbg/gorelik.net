@@ -7,6 +7,7 @@ tags:
  - "ad"
  - "career"
  - "python"
+cover_image: "/assets/img/2020/06/featured_image.011.jpeg"
 layout: "post"
 ---
 

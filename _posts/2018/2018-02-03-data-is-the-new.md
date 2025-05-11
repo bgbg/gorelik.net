@@ -6,12 +6,13 @@ categories:
 tags: 
  - "data-science"
  - "rant"
+cover_image: "/assets/img/2018/02/oil-monahans-texas-sunset-70362.jpeg"
 layout: "post"
 ---
 
-I stumbled upon a rant titled  [Data is not the new oil — Tech Insights](http://tech-insights.blog/2018/02/01/data-is-not-the-new-oil/)
+I stumbled upon a rant titled  [Data is not the new oil — Tech Insights](http://tech-insights.blog/2018/02/01/data-is-not-the-new-oil/)
 
-> You’ve heard it many times and so have I: “Data is the new oil” Well it isn’t. At least not yet. I don’t care how I get oil for my car or heating. I simply decide what to cook and where to drive when I want. I’m unconcerned which mechanism is used to refine oil […]
+> You’ve heard it many times and so have I: “Data is the new oil” Well it isn’t. At least not yet. I don’t care how I get oil for my car or heating. I simply decide what to cook and where to drive when I want. I’m unconcerned which mechanism is used to refine oil […]
 
 
 Funny, in my own rant "[data is not the new gold](https://gorelik.net/2017/06/18/data-is-not-the-new-gold/)", I claimed that "oil" was a better analogy for data than gold. Obviously, any "X is the new Y" sentences are problematic but it's still funny how we like them.

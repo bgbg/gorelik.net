@@ -24,20 +24,20 @@ Pew Research Center is a "is a nonpartisan American fact tank based in Washingto
 But this post does not deal with the Isreali society but with graphs and colors.
 
 
-Look at the first chart in that report. You may see a tidy pie chart with several colored segments. 
+Look at the first chart in that report. You may see a tidy pie chart with several colored segments. 
 
 
-<div class="wp-block-image"><figure class="aligncenter is-resized"><img src="/assets/img/2018/11/screen-shot-2018-11-26-at-10-49-51.png" alt="Pie chart: Religious composition of Israeli society. The chart uses several colored segments" class="wp-image-2333" width="300" height="387"></figure></div>
+![Pie chart: Religious composition of Israeli society. The chart uses several colored segments]({{ site.baseurl }}/assets/img/2018/11/screen-shot-2018-11-26-at-10-49-51.png){:width="300"}{:class="aligncenter"}
 
 Aha! Can't they use a single color without losing the details? Of course the can! A monochrome pie chart would contain the same information:
 
-<div class="wp-block-image"><figure class="aligncenter is-resized"><img src="/assets/img/2018/11/screen-shot-2018-11-26-at-10-49-512.png" alt="Pie chart: Religious composition of Israeli society. The chart uses monochrome segments" class="wp-image-2337" width="300" height="377"></figure></div>
+![Pie chart: Religious composition of Israeli society. The chart uses monochrome segments]({{ site.baseurl }}/assets/img/2018/11/screen-shot-2018-11-26-at-10-49-512.png){:width="300"}{:class="aligncenter"}
 
 In most of the cases, such a transformation would make a perfect sense. In most of the cases, but not in this report. This report is a multipage research document packed with many facts and analyses. The pie chart above is the first graph in that report that provides a broad overview of the Israeli society. The remaining of this report is dedicated to the relationships between and within the groups represented by the colorful segments in that pie chart. To help the reader navigating through this long report, its authors use a consistent color scheme that anchors every subsequent graph to the relevant sections of the original pie chart.
 
- ![]({{ site.baseurl }}/assets/img/2018/11/screen-shot-2018-11-26-at-11-06-30.png)
- ![]({{ site.baseurl }}/assets/img/2018/11/screen-shot-2018-11-26-at-11-07-44.png)
- ![]({{ site.baseurl }}/assets/img/2018/11/screen-shot-2018-11-26-at-11-06-53.png)
+* ![]({{ site.baseurl }}/assets/img/2018/11/screen-shot-2018-11-26-at-11-06-30.png)
+* ![]({{ site.baseurl }}/assets/img/2018/11/screen-shot-2018-11-26-at-11-07-44.png)
+* ![]({{ site.baseurl }}/assets/img/2018/11/screen-shot-2018-11-26-at-11-06-53.png)
 
 
-All these graphs and tables will be readable without the use of colors. Despite the fact that the colors here are redundant, this is a **useful redundancy**. By using the colors, the authors provided additional **information layers** that make the navigation within the document easier. I learned about the concept of useful redundancy from "[Trees, Maps, and Theorems](http://www.treesmapsandtheorems.com/)" by Jean-luc Dumout. If you can only read one book about data communication, it should be this book.
+All these graphs and tables will be readable without the use of colors. Despite the fact that the colors here are redundant, this is a **useful redundancy**. By using the colors, the authors provided additional **information layers** that make the navigation within the document easier. I learned about the concept of useful redundancy from "[Trees, Maps, and Theorems](http://www.treesmapsandtheorems.com/)" by Jean-luc Dumout. If you can only read one book about data communication, it should be this book.

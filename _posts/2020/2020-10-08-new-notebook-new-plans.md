@@ -8,7 +8,6 @@ tags:
  - "procrastination"
  - "productivity"
 layout: "post"
-excerpt: "This notebook is a part of my productivity system."
 ---
 
 ![]({{ site.baseurl }}/assets/img/2020/10/image-4.png)

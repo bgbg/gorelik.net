@@ -16,14 +16,14 @@ Pseudocode is an informal high-level description of the operating principle of a
 
 Similarly, I use sketches when I plan non-trivial charts, and when I discuss data visualization alternatives with colleagues or students.
 
-<div class="wp-block-jetpack-tiled-gallery aligncenter is-style-rectangular"><div class="tiled-gallery__gallery"><div class="tiled-gallery__row">
-<div class="tiled-gallery__col"><figure class="tiled-gallery__item"><img alt="" data-height="758" data-id="2562" data-link="https://gorelik.net/image-3/" data-url="https://gorelik.net/wp-content/uploads/2019/09/image.png" data-width="938" src="/assets/img/2019/09/image.png"></figure></div>
-<div class="tiled-gallery__col"><figure class="tiled-gallery__item"><img alt="" data-height="392" data-id="2563" data-link="https://gorelik.net/pseudograph1/" data-url="https://gorelik.net/wp-content/uploads/2019/09/pseudograph1.png" data-width="685" src="/assets/img/2019/09/pseudograph1.png"></figure></div>
-<div class="tiled-gallery__col"><figure class="tiled-gallery__item"><img alt="" data-height="864" data-id="2564" data-link="https://gorelik.net/pseudograph2/" data-url="https://gorelik.net/wp-content/uploads/2019/09/pseudograph2.jpg" data-width="1776" src="/assets/img/2019/09/pseudograph2.jpg"></figure></div>
-</div></div></div>
+![]({{ site.baseurl }}/assets/img/2019/09/image.png)
+
+![]({{ site.baseurl }}/assets/img/2019/09/pseudograph1.png)
+
+![]({{ site.baseurl }}/assets/img/2019/09/pseudograph2.jpg)
 
 One can use a sheet of paper, a whiteboard, or a drawing application. You may recognize this approach as a form of "[paper prototyping](https://en.wikipedia.org/wiki/Paper_prototyping)," but it deserves its own term. I suggest calling such a sketch a "pseudochart"*. Like a piece of pseudocode, the purpose of a pseudochart is to show the visualization approach to the data, not the final graph itself.
 
 * Initially, I wanted to use the term "pseudograph" but the network scientists already took it for themselves.
 
-** The first sentence of this post is a taken from the [Wikipedia](https://en.wikipedia.org/wiki/Pseudocode).
+** The first sentence of this post is a taken from the [Wikipedia](https://en.wikipedia.org/wiki/Pseudocode).

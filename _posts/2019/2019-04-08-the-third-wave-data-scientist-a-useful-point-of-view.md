@@ -19,4 +19,5 @@ The professional challenges that I have been facing during the past eighteen mon
 
 Dominik's additional contribution to the discussion is ditching the famous data science Venn Diagram in favor of another, "business-oriented" visual which I used as the "featured image" to this post. 
 
-\n\n<figure>\n\nA fragment from an 1850 painting by the Russian Armenian marine painter Ivan Aivazovsky named "The Ninth Wave." I wonder what the "ninth wave data scientist" will be.\n\n</figure>\n\n
+![Painting: sailors in a wavy sea]({{ site.baseurl }}/assets/img/2019/04/screen-shot-2019-04-08-at-13.33.02.png){:width="537"}
+*A fragment from an 1850 painting by the Russian Armenian marine painter Ivan Aivazovsky named "The Ninth Wave." I wonder what the "ninth wave data scientist" will be.*

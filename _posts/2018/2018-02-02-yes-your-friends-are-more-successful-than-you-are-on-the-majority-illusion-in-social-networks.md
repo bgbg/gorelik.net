@@ -6,18 +6,19 @@ categories:
 tags: 
  - "life"
  - "social-network-analysis"
+cover_image: "/assets/img/2018/02/kaleidoscope-dream-illusion-abstract-38602.jpeg"
 layout: "post"
 ---
 
 Recently, I re-read ["The Majority Illusion in Social Networks"](http://arxiv.org/pdf/1506.03022v1.pdf) (by Lerman, Yan and Wu).
 
-The starting point of this paper is the [friendship paradox](https://en.wikipedia.org/wiki/Friendship_paradox) - a situation when a node in a network has fewer friends that its friends have. The authors expand this paradox to what they call "the majority illusion" - a situation in which a node may observe that the majority of its friends have a particular property, despite the fact that such a property is rare in the entire network.
+The starting point of this paper is the [friendship paradox](https://en.wikipedia.org/wiki/Friendship_paradox) -- a situation when a node in a network has fewer friends that its friends have. The authors expand this paradox to what they call "the majority illusion" -- a situation in which a node may observe that the majority of its friends have a particular property, despite the fact that such a property is rare in the entire network.
 
-![An illustration of the “majority illusion” paradox. The two networks are identical, except for which three nodes are colored. These are the “active” nodes and the rest are “inactive.” In the network on the left, all “inactive” nodes observe that at least half of their neighbors are “active,” while in the network on the right, no “inactive” node makes this observation.F]({{ site.baseurl }}/assets/img/2018/02/screen-shot-2018-02-02-at-21-33-33.png){:width="1274" :class="alignnone"}
+![An illustration of the “majority illusion” paradox. The two networks are identical, except for which three nodes are colored. These are the “active” nodes and the rest are “inactive.” In the network on the left, all “inactive” nodes observe that at least half of their neighbors are “active,” while in the network on the right, no “inactive” node makes this observation.F]({{ site.baseurl }}/assets/img/2018/02/screen-shot-2018-02-02-at-21-33-33.png){:width="1274"}{:class="alignnone"}
 
 Besides pointing out the existence of majority illusion phenomenon, the authors used synthetic networks to characterize the situations in which this phenomenon is most prevalent.
 
- 
+ 
 
 Quoting the authors:
 
@@ -26,4 +27,4 @@ Quoting the authors:
 
 The conditions listed in the quote above describe a lot of known social networks. The last sentence in that quote is of a special interest. It explains the contagious nature of many actions, from sharing a meme to buying a new car.
 
- 
+ 

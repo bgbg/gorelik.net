@@ -11,8 +11,8 @@ tags:
  - "dataviz"
  - "flu"
  - "infographics"
+cover_image: "/assets/img/2020/02/corona-1.png"
 layout: "post"
-excerpt: ""
 ---
 
 ![]({{ site.baseurl }}/assets/img/2020/02/corona-1.png)

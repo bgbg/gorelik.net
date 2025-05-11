@@ -9,6 +9,7 @@ tags:
  - "dataviz"
  - "legend"
  - "molecular-structure"
+cover_image: "/assets/img/2020/06/glycans.jpeg"
 layout: "post"
 ---
 

@@ -10,10 +10,11 @@ tags:
  - "networkx"
  - "social-network-analysis"
  - "stellargraph"
+cover_image: "/assets/img/2020/06/image-2.png"
 layout: "post"
 ---
 
-Network (graph) analysis is a complicated topic. There are several tools available for this task with different pros and cons. Recently, I stumbled upon another tool StellarGraph. StellarGraph authors claim to provide excellent performance; NumPy, Pandas, TensorFlow integration, an impressive set of algorithms, inter compatibility with Neo4j (THE graph database); and much more. The [documentation](https://stellargraph.readthedocs.io/en/stable/index.html) looks very clear and extensive too. 
+Network (graph) analysis is a complicated topic. There are several tools available for this task with different pros and cons. Recently, I stumbled upon another tool StellarGraph. StellarGraph authors claim to provide excellent performance; NumPy, Pandas, TensorFlow integration, an impressive set of algorithms, inter compatibility with Neo4j (THE graph database); and much more. The [documentation](https://stellargraph.readthedocs.io/en/stable/index.html) looks very clear and extensive too. 
 
 I didn't use it yet, but I certainly plan to.
 

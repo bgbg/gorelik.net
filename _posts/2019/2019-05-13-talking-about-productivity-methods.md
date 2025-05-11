@@ -14,7 +14,7 @@ layout: "post"
 
 > The best way to procrastinate is to research productivity.
 > 
-> <cite>Boris Gorelik</cite>
+> Boris Gorelik
 
 
 This week, the majority of Automattic Data Division meets in person in Vienna. During one of the sessions I presented [my productivity method](https://gorelik.net/2018/02/20/the-best-productivity-system-i-know/) to my friends and coworkers.

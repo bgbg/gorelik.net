@@ -19,7 +19,7 @@ layout: "post"
 
 Right-to-left (RTL) languages such as Hebrew, Arabic, and Farsi are used by roughly 1.8 billion people around the world. Many of them consume data in their native languages. Nevertheless, I have never seen any research or study that explores data visualization in RTL languages. Until a couple of days ago, when I saw this interesting observation by Nick Doiron "[Charts when you read right-to-left](https://medium.com/@mapmeld/charts-when-you-read-right-to-left-614f0a2cf54d)".
 
-<div class="wp-block-image is-style-default"><figure class="aligncenter size-medium"><img src="/assets/img/2020/05/screen-shot-2020-05-11-at-7.50.29.png" alt="" class="wp-image-3234"></figure></div>
+![]({{ site.baseurl }}/assets/img/2020/05/screen-shot-2020-05-11-at-7.50.29.png){:class="aligncenter"}
 
 I teach data visualization in Israeli colleges. Whenever a student asks me RTL-related questions, I always answer something like "it's complicated, let's not deal with that". Moreover, in the assignments, I even allow my students to submit graphs in English, even if they write the report in Hebrew.
 

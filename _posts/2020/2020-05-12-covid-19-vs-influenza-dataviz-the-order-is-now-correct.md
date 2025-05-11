@@ -7,6 +7,7 @@ tags:
  - "corona"
  - "covid"
  - "covid-19"
+cover_image: "/assets/img/2020/05/covid-vs-flu-may.png"
 layout: "post"
 ---
 

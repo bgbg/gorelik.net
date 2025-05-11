@@ -10,7 +10,8 @@ So, I started a substack newsletter called "Direction Matters" (I hope you like 
 
 ![]({{ site.baseurl }}/assets/img/2023/04/image-1.png)
 
-https://directionmatters.substack.com<br>
+https://directionmatters.substack.com
+
 
 It doesn't matter how hard you push if you're pushing in the wrong direction.
 

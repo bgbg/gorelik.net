@@ -19,13 +19,13 @@ I recently came across a financial update with a plot that looks like the one be
 ![]({{ site.baseurl }}/assets/img/2024/11/image.png)
 
 
- The secondary y-axis is not aligned with the primary y-axis. This makes it difficult to compare the two variables.
+- The secondary y-axis is not aligned with the primary y-axis. This makes it difficult to compare the two variables.
 
 
- Two points on a graph that lie one above the other do not necessarily have a relationship of proportionality or a fixed ratio. This is because the two y-axes have different scales.
+- Two points on a graph that lie one above the other do not necessarily have a relationship of proportionality or a fixed ratio. This is because the two y-axes have different scales.
 
 
- Navigation is difficult. The reader has to constantly switch between the two y-axes to understand the relationship between the two variables.
+- Navigation is difficult. The reader has to constantly switch between the two y-axes to understand the relationship between the two variables.
 
 I wrote about double scales a lot in this blog. See the '[double scale](https://gorelik.net/tag/double-scale/)' tag to read more
 

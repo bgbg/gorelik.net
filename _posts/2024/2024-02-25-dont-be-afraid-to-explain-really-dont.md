@@ -14,6 +14,6 @@ During a recent practical data visualization workshop I led, we tackled creating
 
 ![]({{ site.baseurl }}/assets/img/2024/02/image.png)
 
-Our strategy for improvement was straightforward but effective: we swapped the title for the overarching conclusion. This modification was the kickoff for a cascade of enhancements. Yet, we hit a snag with the Gini Index itself—our focal point. Our solution? We underscored the fact that this index is a measure of inequality, clarified its scale (“Higher  more unequal”), and kept the term for those already in the know.
+Our strategy for improvement was straightforward but effective: we swapped the title for the overarching conclusion. This modification was the kickoff for a cascade of enhancements. Yet, we hit a snag with the Gini Index itself—our focal point. Our solution? We underscored the fact that this index is a measure of inequality, clarified its scale (“Higher - more unequal”), and kept the term for those already in the know.
 
 Wrapping up, the derision towards explaining the seemingly obvious, sparked by the "mansplaining" trend, has bled into all areas of communication. However, in the realm of data visualization, clarity and comprehensibility must reign supreme. By making our visual presentations both accessible and elucidatory, we widen the doorway for a more extensive audience to connect with and grasp complex information.
