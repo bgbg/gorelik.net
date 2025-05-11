@@ -17,6 +17,10 @@
   text-decoration: none;
 }
 
+.header-description {
+  clear: both;
+}
+
 .header-icons {
   float: right;
   padding: 0;
@@ -95,7 +99,7 @@
   .header-nav {
     text-align: center;
   }
-  .header-links {
+  .header-links, .header-icons {
     display: block;
     float: none;
     text-align: center;

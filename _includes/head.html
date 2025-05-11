@@ -18,8 +18,8 @@
 
     {% if page.cover_image %}
     {% if page.cover_image contains '://' %}
-    <meta property="og:image" content="{{ cover.thumb_image }}">
-    <meta name="twitter:image" content="{{ cover.thumb_image }}">
+    <meta property="og:image" content="{{ cover.cover_image }}">
+    <meta name="twitter:image" content="{{ cover.cover_image }}">
     {% else %}
     <!-- TODO deleted stuff here -->
     {% endif %}
