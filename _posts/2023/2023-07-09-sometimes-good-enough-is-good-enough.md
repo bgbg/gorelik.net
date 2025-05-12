@@ -33,7 +33,7 @@ There's a saying in the software industry, "Premature optimization is the root o
 
 The urge to optimize often stems from a lack of understanding or could be a form of perfectionism that masks procrastination. So, how can you ensure you're on the right track? Seek advice from a trusted friend, colleague, or consultant. Ask open, non-leading questions, and be genuinely willing to consider perspectives other than your own. 
 
-(Yes, you can reach out to me at: boris@gorelik.net)
+(Yes, you can reach out to me at: <boris@gorelik.net>)
 
 ## I failed
 

@@ -14,4 +14,4 @@ To address this, I wrote a Python function that generates decent visualizations 
 
 ![]({{ site.baseurl }}/assets/img/2024/08/output.png)
 
-Check out the code here: [https://gist.github.com/bgbgbg-gmail/9aeced5372c3974eab25fa3103064f17](https://gist.github.com/bgbgbg-gmail/9aeced5372c3974eab25fa3103064f17)
+Check out the code here: [<https://gist.github.com/bgbgbg-gmail/9aeced5372c3974eab25fa3103064f17>](https://gist.github.com/bgbgbg-gmail/9aeced5372c3974eab25fa3103064f17)

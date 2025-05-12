@@ -21,6 +21,6 @@ I also lecture at a college. The entire college—the lecturers, the dean, the s
 
 Everything I have seen reinforces the belief that Israel faces a bright future. Our innovation continues to improve. The recent influx of Jews, driven by waves of anti-Semitism in the West, adds even more strength and innovation. Before the war, Israel ranked among the top countries in wealth and innovation. I am confident that even after the war, we will maintain our high position and continue to strengthen our innovation and wealth.
 
-https://worldhappiness.report/
+<https://worldhappiness.report/>
 
-https://en.wikipedia.org/wiki/Global_Innovation_Index
+<https://en.wikipedia.org/wiki/Global_Innovation_Index>

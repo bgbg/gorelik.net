@@ -38,4 +38,4 @@ However, there's another side to this. What hasn't been mentioned is that the "o
 
 The typical "war story" of a freelance consultant generally concludes with the client accepting the consultant's insights, raking in substantial profits, and treating the consultant to a swanky race car. Let's pretend that this is what happened, despite the reality: my client listened to my take and decided to invest their resources in procuring more high-quality data. 
 
-Of course, if you ever need help with your modeling, feel free to reach out to me. And if a model doesn't turn out as productive as you'd hoped, we can always attempt to make a rewarding 'modelade' from it. I'm always reachable at boris@gorelik.net.
+Of course, if you ever need help with your modeling, feel free to reach out to me. And if a model doesn't turn out as productive as you'd hoped, we can always attempt to make a rewarding 'modelade' from it. I'm always reachable at <boris@gorelik.net>.

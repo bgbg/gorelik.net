@@ -18,7 +18,7 @@ How do you properly select a colormap for a graph? What makes the [rainbow color
 Today, I stumbled upon a lengthy post that provides an in-depth review of the theory behind our color perception. The article concentrates on quantitative colormaps but also includes information relevant to selecting proper colors for categories. 
 
 
-https://nightingaledvs.com/color-in-a-perceptual-uniform-way/
+<https://nightingaledvs.com/color-in-a-perceptual-uniform-way/>
 
 
 If you never learned the theory behind the color and are interested in data visualization, I strongly suggest investing 45-60 minutes of your life in reading this post.

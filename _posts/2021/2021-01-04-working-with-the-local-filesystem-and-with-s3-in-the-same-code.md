@@ -58,7 +58,7 @@ There is also a multipurpose `open` function that can open a file in read, write
 ## How to install? How to contribute?
 
 The installation is very simple: `pip install sshalosh-borisgorelik`
-and you're done. The code lives on GitHub under [http://github.com/bgbg/shalosh](http://github.com/bgbg/shalosh). You are welcome to contribute code, documentation, and bug reports.
+and you're done. The code lives on GitHub under [<http://github.com/bgbg/shalosh>](http://github.com/bgbg/shalosh). You are welcome to contribute code, documentation, and bug reports.
 
 ## The name is strange, isn't it?
 
