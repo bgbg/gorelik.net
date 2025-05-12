@@ -21,11 +21,15 @@ In many cases, more importance is given to the most recent data point. For examp
 
 What happens if we move the axis to the right?
 
-![A slightly improved version. The Y-axis is on the right, adjacent to the most recent data point]({{ site.baseurl }}/assets/img/2017/11/line_chart_improved_version1.png){:width="612"}{:class="alignnone"}![]()
+![A slightly improved version. The Y-axis is on the right, adjacent to the most recent data point]({{ site.baseurl }}/assets/img/2017/11/line_chart_improved_version1.png){:width="612"}{:class="alignnone"}
+
+![]()
 
 Now, today's price of XYZ stock is visible more clearly. Let's make the most important values explicitly clear:
 
-![The final version. The Y-axis is on the right, adjacent to the most recent data point. The axis ticks correspont to actual data points]({{ site.baseurl }}/assets/img/2017/11/line_chart_even_better1.png){:width="614"}{:class="alignnone"}![]()
+![The final version. The Y-axis is on the right, adjacent to the most recent data point. The axis ticks correspont to actual data points]({{ site.baseurl }}/assets/img/2017/11/line_chart_even_better1.png){:width="614"}{:class="alignnone"}
+
+![]()
 
 There are two ways to obtain right-sided Y axis in matplotib. The first way uses a combination of
 

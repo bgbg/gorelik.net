@@ -6,7 +6,7 @@ categories:
 layout: "post"
 ---
 
-![](https://datadotblog.files.wordpress.com/2020/09/pexels-photo-590041.jpeg?quality=80&strip=info&w=1600)
+![](https://datadotblog.files.wordpress.com/2020/09/pexels-photo-590041.jpeg){:width="1600"}
 
 My guest talk at Automattic. 
 

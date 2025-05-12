@@ -13,7 +13,7 @@ layout: "post"
 I will skip the usual "I'm thrilled and excited…". I'll just say it.
 As of today, I am the CTO of [wizer.me](http://wizer.md/), a platform for teachers and educators to create and share interactive worksheets.
 
-![](https://heborisgorelik.files.wordpress.com/2022/07/image.png?w=1024)
+![](https://heborisgorelik.files.wordpress.com/2022/07/image.png){:width="1024"}
 
 On a scale of 1 to 10, how thrilled am I? 10
 On a scale of 1 to 10, how terrified am I? 10

@@ -14,8 +14,7 @@ layout: "post"
 
 One night, in January 2014, I came back home from work after spending two hours commuting in each direction. I was frustrated and started Googling for "work from home" companies. After a couple of minutes, I arrived at [<https://automattic.com/work-with-us/>](https://href.li/?https://automattic.com/work-with-us/). Surprisingly to me, I couldn't find any job postings for data scientists, and a quick LinkedIn search revealed no data scientists at Automattic. So I decided to write a somewhat arrogant letter titled "Why you should call me?". After reading the draft, I decided that it was too arrogant and kept it in my Drafts folder so that I can sleep over it. A couple of days later, I decided to delete that mail. HOWEVER, entirely unintentionally, I hit the send button. That's how I became the first data scientist hired by Automattic (Carly Staumbach, the data scientist and the [musician](https://colormath.bandcamp.com/releases), was already Automattician, but she arrived there by an acquisition).
 
-![Screenshot of my email ]({{ site.baseurl }}/assets/img/2020/01/screen-shot-2020-01-13-at-9.45.24.png){:width="512"}{:class="aligncenter"}
-*The email is pretty long. 
+![Screenshot of my email ]({{ site.baseurl }}/assets/img/2020/01/screen-shot-2020-01-13-at-9.45.24.png){:width="512"}{:class="aligncenter"}*The email is pretty long. 
 I even forgot to remove a link that I planned to read BEFORE sending that email.*
 
 The past five and a half years have been the best five and a half years in my professional life. I met a TON of fascinating people from different cultural and professional backgrounds. I [re-discovered blogging](https://href.li/?https://gorelik.net). My idea of what a workplace is has changed tremendously and for good.
@@ -30,8 +29,6 @@ On January 22, I will become an Automattic alumnus.
 
 BTW, Automattic is constantly looking for new people. Visit their [careers page](https://automattic.com/work-with-us/) and see whether there is something for you. And if not, find the chutzpah and write them anyhow.
 
-![A group photo of about 600 people -- Automattic 2018 grand meetup]({{ site.baseurl }}/assets/img/2020/01/featured_automattic.png)
-*2018 Grand Meetup.*
+![A group photo of about 600 people -- Automattic 2018 grand meetup]({{ site.baseurl }}/assets/img/2020/01/featured_automattic.png){:width="1024"}*2018 Grand Meetup.*
 
-![A group photo of about 800 people. 2019 Automattic Grand Meetup]({{ site.baseurl }}/assets/img/2020/01/featured_automattic_2019.png)
-*2019 Grand Meetup. I have no idea where I am at this picture*
+![A group photo of about 800 people. 2019 Automattic Grand Meetup]({{ site.baseurl }}/assets/img/2020/01/featured_automattic_2019.png){:width="1000"}*2019 Grand Meetup. I have no idea where I am at this picture*

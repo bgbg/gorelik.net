@@ -24,9 +24,6 @@ Software Carpentry (and it's sibling project [Data Carpentry](http://www.datacar
 
 I also recommend reading these papers, which provide a brief overview of some evidence-based results in teaching:
 
-
     * "[The Science of Learning](https://swcarpentry.github.io/instructor-training/files/papers/science-of-learning-2015.pdf)"
-
     * "[Success in Introductory Programming: What Works?](https://swcarpentry.github.io/instructor-training/files/papers/porter-what-works-2013.pdf)"
-
     * "[What Can I Do Today to Create a More Inclusive Community in CS?](https://swcarpentry.github.io/instructor-training/files/papers/lee-create-inclusive-community-2015.pdf)"

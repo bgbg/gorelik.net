@@ -20,7 +20,7 @@ Nikolay doesn't give any suggestions. Neither do I.
 
 Below is the link to the original post. The post is in Russian, and you can [use Google Translate to read it](https://translate.google.com/translate?sl=auto&tl=en&u=https%3A%2F%2Fksoftware.livejournal.com%2F440464.html).
 
-![](https://i2.wp.com/ic.pics.livejournal.com/ksoftware/15688253/160600/160600_1000.png?quality=80&ssl=1&strip=info&w=1600)
+![](https://i2.wp.com/ic.pics.livejournal.com/ksoftware/15688253/160600/160600_1000.png){:width="1600"}
 
 > Страница о магах У меня в книге есть глава про полководцев и магов. В её конце я подвожу итог: Несмотря на свою кру­тость, маг уяз­вим. Он поле­зен, только если его навык под­хо­дит к задаче. 658 more words
 > 

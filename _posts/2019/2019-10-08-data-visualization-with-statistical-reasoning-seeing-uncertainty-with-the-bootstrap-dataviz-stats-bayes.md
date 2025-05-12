@@ -19,8 +19,6 @@ Robert Grant is a data visualization expert who wrote a [book about interactive 
 
 Robert runs an interesting blog from which I learned another approach to uncertainty visualization, bootstrapping. 
 
-![]({{ site.baseurl }}/assets/img/2019/10/image-8.png)
-*Source: [Robert Grant](https://robertgrantstats.wordpress.com/2018/09/17/data-visualization-with-statistical-reasoning-seeing-uncertainty-with-the-bootstrap/).*
-
+![]({{ site.baseurl }}/assets/img/2019/10/image-8.png){:width="1024"}*Source: [Robert Grant](https://robertgrantstats.wordpress.com/2018/09/17/data-visualization-with-statistical-reasoning-seeing-uncertainty-with-the-bootstrap/).*
 
 Read the entire post: [Data visualization with statistical reasoning: seeing uncertainty with the bootstrap — Dataviz - Stats - Bayes](https://robertgrantstats.wordpress.com/2018/09/17/data-visualization-with-statistical-reasoning-seeing-uncertainty-with-the-bootstrap/)

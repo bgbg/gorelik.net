@@ -26,4 +26,4 @@ Until I got to the chapter that deals with raising children ("Part 6, how to rai
 
 Another nice touch is the fact that each chapter has a short summary that consists of three-four bullet points. Even nicer is the fact that Nir copied all the "Remember this" lists at the end of the book, which is very kind of him.
 
-The Bottom line. 4/- Read.
+The Bottom line. 4/5. Read.

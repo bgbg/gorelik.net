@@ -26,7 +26,6 @@ So, I do understand Stephen Few's criticism. What I don't understand is why he d
 
 > He who is bashful can't learn, and he who is harsh can't teach
 
-
 Although I don't have a fraction of teaching experience that Dr. Few has, I'm sure he would've achieved better results had he chosen to accept that invitation.
 
 Disclaimer: Stephen Few was very generous to allow me using the illustrations from his [book](http://amzn.to/2vOXdiL) in my teaching.

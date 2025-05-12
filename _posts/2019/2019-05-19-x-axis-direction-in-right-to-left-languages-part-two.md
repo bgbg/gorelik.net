@@ -23,7 +23,7 @@ I already wrote about my [interest in data visualization in Right-To-Left (RTL) 
 
 Both Jordan and PA use the same (Jordanian) school program. In both cases, I was surprised to discover that they almost never use Latin or Greek letters in their math notation. Not only that, the entire direction of the the mathematical notation is from right to left. Here's an illustrative example from the Palestinian book.
 
-![Screenshot: Arabic text, Arabic math notation and a graph]({{ site.baseurl }}/assets/img/2019/05/screen-shot-2019-05-19-at-16.18.53.png)
+![Screenshot: Arabic text, Arabic math notation and a graph]({{ site.baseurl }}/assets/img/2019/05/screen-shot-2019-05-19-at-16.18.53.png){:width="1024"}
 
 And here is an example from Jordan
 
@@ -34,7 +34,6 @@ What do we see here?
 * the use of Arabic numerals (which are sometimes called [Eastern Arabic numerals](https://en.wikipedia.org/wiki/Eastern_Arabic_numerals))
 * The Arabic letters س (sin) and ص (saad) are used "instead of" x and y (the Arabic alphabet doesn't have the notion of capital letters). The letter qaf (ق) is used as the archetypical function name (f).  For some reason, the capital Greek Delta is here.
 * More interestingly, the entire math is "mirrored", compared to the Left-To-Write world -- including the operand order. Not only the operand order is "mirrored", many other pieces of math notation are mirrored, such as the square root sign, limits and others.
-
 
 Having said all that, one would expect to see the numbers on the X-axis (sorry, the س-axis) run from right to left. But no. The numbers on the graph run from left to right, similarly to the LTR world.
 

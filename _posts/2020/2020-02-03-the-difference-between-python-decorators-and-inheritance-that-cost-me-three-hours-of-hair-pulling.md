@@ -18,11 +18,11 @@ First, let's start with the mental model that I had in my head: inheritance.
 
 Let's say you have a base class that defines a function `f`
 
-![]({{ site.baseurl }}/assets/img/2020/02/image.png)
+![]({{ site.baseurl }}/assets/img/2020/02/image.png){:width="656"}
 
 Now, you inherit from that class and rewrite `f`
 
-![]({{ site.baseurl }}/assets/img/2020/02/image-1.png)
+![]({{ site.baseurl }}/assets/img/2020/02/image-1.png){:width="684"}
 
 What happens? The fact that you defined `f` in `ClassB` means that, to a rough approximation, the old definition of `f` from `ClassA` does not exist in all the `ClassB` objects.
 
@@ -38,7 +38,6 @@ Now, let's go to decorators.
             ret = {'MESSAGE': self.message, 'WEIGHT': self.weight}
             return ret
     m2 = Message2('m2', 2)
-
 
 What happened here? I used a decorator `dataclass_json` that, among other things, provides a `to_dict` function to Python's [data classes](https://docs.python.org/3/library/dataclasses.html). I created a class `Message2`, but I needed s custom `to_dict` definition. So, naturally, I defined a new version of `to_dict` only to discover several hours later that the new `to_dict` doesn't exist.
 

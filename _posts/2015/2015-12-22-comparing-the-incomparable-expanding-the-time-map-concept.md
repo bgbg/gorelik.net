@@ -19,8 +19,7 @@ We are surrounded by discrete events: posts and comments, purchases from the onl
 But what happens if there are too many such events? How do we gain a global overview? Recently, I have learned about “Time maps” — a creative way to perform such a visualization, which I will describe below using examples from WordPress.com. I will expand this approach to accommodate for bringing cases with drastically different time scales to the same domain, for easier comparison and pattern discovery.
 ## Time maps
 
-
-Instead of plotting the absolute time values, or time differences, Max Watson from [District Data Labs](https://districtdatalabs.silvrback.com/) [suggests](https://districtdatalabs.silvrback.com/time-maps-visualizing-discrete-events-across-many-timescales) representing each data point in two dimensions — in terms of time passed *before* and *after* the events. Thus, all the data points from case A in the figure above will be represented by the pairs $latex (1; 1)$ as all of them occur at regular intervals of 1 second. Most of the dots in case B from the same figure will be represented by the same pair, $latex (1; 1)$. However, the pause between the event at time marks 3 and 6 seconds and not - Thus, the third point will be represented by $latex (1; 3)$ and the fourth one — by $latex (3; 1)$. Following are the time maps for the three toy cases from the figure above:
+Instead of plotting the absolute time values, or time differences, Max Watson from [District Data Labs](https://districtdatalabs.silvrback.com/) [suggests](https://districtdatalabs.silvrback.com/time-maps-visualizing-discrete-events-across-many-timescales) representing each data point in two dimensions — in terms of time passed *before* and *after* the events. Thus, all the data points from case A in the figure above will be represented by the pairs $latex (1; 1)$ as all of them occur at regular intervals of 1 second. Most of the dots in case B from the same figure will be represented by the same pair, $latex (1; 1)$. However, the pause between the event at time marks 3 and 6 seconds and not 1. Thus, the third point will be represented by $latex (1; 3)$ and the fourth one — by $latex (3; 1)$. Following are the time maps for the three toy cases from the figure above:
 
 ![timemaps_fig02]({{ site.baseurl }}/assets/img/2015/12/timemaps_fig02.png){:width="888"}{:class="alignnone"}
 
@@ -57,8 +56,7 @@ On the other hand, another user, who has two blogs presents a completely differe
  
 ## Bringing the maps to the common scale
 
-
-You may have noticed the vast differences in time scales that we saw in the maps above. Sometimes, we are interested in map’s *shape*, so that we can compare similar patterns that occur at different time scales. To achieve this task, I first sort time difference values in each case (user, blog, log record, etc.). Next, I transform these values such that the median time difference (the one that is larger than half of the observed points) gets the value of - Time differences larger then the median receive positive values and time differences smaller than the median receive negative values. In technical terms: I first compute the empirical cumulative distribution of the time differences, and then perform logit transform.
+You may have noticed the vast differences in time scales that we saw in the maps above. Sometimes, we are interested in map’s *shape*, so that we can compare similar patterns that occur at different time scales. To achieve this task, I first sort time difference values in each case (user, blog, log record, etc.). Next, I transform these values such that the median time difference (the one that is larger than half of the observed points) gets the value of 0. Time differences larger then the median receive positive values and time differences smaller than the median receive negative values. In technical terms: I first compute the empirical cumulative distribution of the time differences, and then perform logit transform.
 
 The following figure shows the normalised maps for four blogs I have mentioned at the beginning of this document . We may see that the elliptical shape of the dot cloud represents a series of events that occur somewhat regularly at a relatively low frequency. Round-shaped graphs represent cases in which the typical variability in inter-event periods is comparable to that period. Bot-induced time maps are still easily detected in this representation
 
@@ -70,7 +68,6 @@ Let us now examine the normalised time maps of the two users mentioned above:
 
 One interesting thing to note is the fact that the lower-left region in the second user’s graph is now significantly enlarged because it contains a much larger amount of data points. As with the case of the blog time maps, the approximately round shape of the first user’s time map indicates that the variability of the between-event interval is comparable in its size to the interval. Note, though, that when observing first user’s raw map, it was clear that that user’s events mostly occur not faster than once a second, and that there the maximal interval is never larger than one day. Such a notion, which may be valuable in many cases, is absent from the normalised graph.
 ## Conclusions
-
 
 Time maps, as developed by Max Watson from [District Data Labs](https://districtdatalabs.silvrback.com/) provide a valuable insight in the analysis of event streams. It is evident that these maps reveal interesting activity patterns. Analysis of such patterns may be used in spam and fraud detection.
 

@@ -13,7 +13,7 @@ cover_image: "/assets/img/2018/11/stalin.png"
 layout: "post"
 ---
 
-Stalin was a relatively short man, his height was 1.65 m. Khrushchev was even shorter, his height was 1.- It seems that the difference wasn't enough for the official Soviet propaganda of that time. Take a look at this photo. We can clearly see that Stalin is taller than Khrushchev.
+Stalin was a relatively short man, his height was 1.65 m. Khrushchev was even shorter, his height was 1.60. It seems that the difference wasn't enough for the official Soviet propaganda of that time. Take a look at this photo. We can clearly see that Stalin is taller than Khrushchev.
 
 ![stalin.png]({{ site.baseurl }}/assets/img/2018/11/stalin.png){:width="285"}{:class="alignnone"}
 

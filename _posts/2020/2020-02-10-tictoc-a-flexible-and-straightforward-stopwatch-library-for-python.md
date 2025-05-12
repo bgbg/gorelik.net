@@ -48,14 +48,12 @@ Following is an example of how to use TicToc:
     print(tt_overall)
     print(tt_cumulative)
 
-
 TicToc objects are created in a "running" state, i.e you don't have to start them using `tic`. To change this default behaviour, use
 
     tt = TicToc(start=False)
     # do some stuff
     # when ready
     tt.tic()
-
 
 ## Installation
 

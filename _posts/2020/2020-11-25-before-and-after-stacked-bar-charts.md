@@ -14,7 +14,7 @@ layout: "post"
 
 A fellow data analyst asked a question? What do we do when we need to draw a stacked bar chart that has too many colors? How do we select the colors so that they are nice but also are easily distinguishable? To answer this question, let's look at the data similar to what appeared in the original question. I also tried to recreate the actual chart's style
 
-![]({{ site.baseurl }}/assets/img/2020/11/image-9.png)
+![]({{ site.baseurl }}/assets/img/2020/11/image-9.png){:width="1024"}
 
 So, how do we select colors?
 The answer to this question is pretty complicated. To have a set of easily distinguishable colors, one needs to model the color perception in a typical human being properly. Luckily, a tool called [I Want Hue](https://medialab.github.io/iwanthue/) that's based on a solid theory explained [here](https://medialab.github.io/iwanthue/theory/). The problem, however, isn't in colors.
@@ -27,27 +27,27 @@ We, the humans, are somewhat good are comparing positions but not as good at com
 
 However, comparing the sizes of the middle components is more challenging. As a result, the intermediate parts of a graph don't add useful information but rather add noise. Thus, let us explain two options. First, we will reduce the number of groups. Next, we will explore what happens when reducing the number of groups is not an option.
 
-### Option - Reduce the number of categories
+### Option 1. Reduce the number of categories
 
 It is hard to advise about data visualization when I don't know what conclusion the author wants to convey. However, I am sure that in many cases, the number of categories that are relevant to the **viewer** is much smaller than the number of types that are relevant to the **analyst**. The viewer might not care about all the hard job you did while collecting the data; what they are about is an insight. For example, if we reduce the discussion to two groups: the USA and non-USA data centers, the graph becomes much more readable.
 
-![]({{ site.baseurl }}/assets/img/2020/11/image-10.png)
+![]({{ site.baseurl }}/assets/img/2020/11/image-10.png){:width="1024"}
 
 Note how two groups in a stacked graph pose no problem in deciphering the sizes. If we take care of readability and improve the data-ink ratio, we get a nice data visualization piece.
 
-![]({{ site.baseurl }}/assets/img/2020/11/image-11.png)
+![]({{ site.baseurl }}/assets/img/2020/11/image-11.png){:width="1024"}
 
-### Option - When reducing the number of categories is not an option
+### Option 2. When reducing the number of categories is not an option
 
 But what if reducing the number of categories is not an option? If you are **absolutely** sure that the audience absolutely needs to see all the information, you can split the different groups into separate subgraphs.
 
 Have you noticed that the X-axis in our case represents time? In this case, we can replace the bars with an evolution plot and create a separate chart for each category in the data set. I took special care to keep the Y-axis scale equal between all the graphs so that the viewer can easily distinguish between data centers with a lot of errors and data centers with only a few of them. Here's the result:
 
-![]({{ site.baseurl }}/assets/img/2020/11/image-12.png)
+![]({{ site.baseurl }}/assets/img/2020/11/image-12.png){:width="1024"}
 
 But what if the overall error rate is of greater importance than the individual groups. In that case, we can plot them in a larger graph and add the separate groups below, in smaller, un-emphasized subplots.
 
-![]({{ site.baseurl }}/assets/img/2020/11/image-13.png)
+![]({{ site.baseurl }}/assets/img/2020/11/image-13.png){:width="1024"}
 
 ## Summary -- the Why and the What define the How
 

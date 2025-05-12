@@ -37,10 +37,11 @@ A mega-graffiti?
 
 See the original post that prompted me to share these pictures: [CHISINAU, MOLDOVA GRAFFITI: LEFT IN RUIN, YOU MAKE ME HAPPY — TOKIDOKI (NOMAD)](http://jacquelinemhadel.com/2017/07/16/chisinau-moldova-graffiti-left-in-ruin-you-make-me-happy/)
 
-[![](https://jacquelinemhadel.files.wordpress.com/2017/07/img_4901.jpg?quality=80&strip=info&w=1600)](http://jacquelinemhadel.com/2017/07/16/chisinau-moldova-graffiti-left-in-ruin-you-make-me-happy/)
+[![](https://jacquelinemhadel.files.wordpress.com/2017/07/img_4901.jpg){:width="1600"}
+
+](http://jacquelinemhadel.com/2017/07/16/chisinau-moldova-graffiti-left-in-ruin-you-make-me-happy/)
 
 > 15july17 Chisinau, Moldova 🇲🇩
-
 
  
 

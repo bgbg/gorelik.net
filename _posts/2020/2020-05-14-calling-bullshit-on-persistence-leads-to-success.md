@@ -22,8 +22,7 @@ Think of the Martingale betting strategy. In theory, it works. Why doesn't it wo
 
 ### Survivorship bias
 
-![]({{ site.baseurl }}/assets/img/2020/05/survivorship-bias.png){:width="256"}{:class="alignleft"}
-*[Read the story, it's very educational](https://en.wikipedia.org/wiki/Survivorship_bias#In_the_military)*
+![]({{ site.baseurl }}/assets/img/2020/05/survivorship-bias.png){:width="256"}{:class="alignleft"}*[Read the story, it's very educational](https://en.wikipedia.org/wiki/Survivorship_bias#In_the_military)*
 
 But what about all those successful failers? What we see a typical example of [survivorship bias](https://en.wikipedia.org/wiki/Survivorship_bias), the logical error of concentrating on the people or things that made it past some selection process and overlooking those that did not, typically because of their lack of visibility. We know the names Rowling, Edison, Raz, and others not because of their multiple failures but DESPITE them. For every Rowling, Edison, and Raz, there are thousands of failed writers, engineers, and actors who ended up broke and caused sorrow to their families.
 

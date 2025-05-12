@@ -14,11 +14,11 @@ layout: "post"
 
 TL;DR War stories and pieces of advice from the high tech industry veteran.
 
-[![]({{ site.baseurl }}/assets/img/2021/10/image.png)](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205)
+[![]({{ site.baseurl }}/assets/img/2021/10/image.png){:width="92"}](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205)
 
 I read [this book](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205) following recomendations by Reem Sherman, the host of the excellent (!!!) podcast [Geekonomy](https://geekonomy.net) (in Hebrew).
 
-Ben Horowitz is a veteran manager and entrepreneur who found the company Opsware, which Hewlett-Packard acquired in - This book describes Horotwitz's journey in Opsware from the foundation to the sale. Book's second part is a collection of advice to working and aspiring CEOs. The last part is, actually, an advertisement for Horowitz's new project -- a VC company.
+Ben Horowitz is a veteran manager and entrepreneur who found the company Opsware, which Hewlett-Packard acquired in 2007. This book describes Horotwitz's journey in Opsware from the foundation to the sale. Book's second part is a collection of advice to working and aspiring CEOs. The last part is, actually, an advertisement for Horowitz's new project -- a VC company.
 
 ## Things that I liked
 

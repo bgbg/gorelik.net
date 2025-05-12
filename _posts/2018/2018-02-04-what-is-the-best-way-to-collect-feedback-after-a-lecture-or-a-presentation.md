@@ -23,11 +23,8 @@ working time: 5 minutes
 
 ### Ingredients
 
-
     * Open-ended mandatory questions: 1 or 2
-
     * Post-it notes: 1 - 2 per a learner
-
     * Preventive amnesty: to taste
 
 ### Procedure
@@ -43,7 +40,6 @@ Next, start with preventive amnesty, followed by mandatory questions, followed b
 > [Mandatory question] Please, write at least two things you would improve about this lecture/class. You cannot pass on this task. You are not allowed to say "everything is OK". You will not leave this room unless you handle me a post-it with two things you liked the less about this class/lecture.
 > 
 > [Preventive amnesty] I promise that I know that you mean good. You are not attacking me, you are giving me a chance to improve.
-
 
 That's it.
 

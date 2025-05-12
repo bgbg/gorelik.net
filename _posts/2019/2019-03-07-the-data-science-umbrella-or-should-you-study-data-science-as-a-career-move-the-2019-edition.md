@@ -20,14 +20,11 @@ Here's what an entrepreneur Chuck Russel [has to say](https://medium.com/@chuckr
 
 > Now don’t get me wrong — some of these folks are legit Data Scientists but the majority is not. I guess I’m a purist –calling yourself a scientist indicates that you practice science following a scientific method. You create hypotheses, test the hypothesis with experimental results and after proving or disproving the conjecture move on or iterate.
 
-
-![Screenshot of a Google image search showing many Venn diagrams]({{ site.baseurl }}/assets/img/2019/03/screen-shot-2019-03-07-at-16.36.41.png){:width="232"}{:class="alignright"}
-*There can't be enough Venn diagrams*
+![Screenshot of a Google image search showing many Venn diagrams]({{ site.baseurl }}/assets/img/2019/03/screen-shot-2019-03-07-at-16.36.41.png){:width="232"}{:class="alignright"}*There can't be enough Venn diagrams*
 
 Now, "create and test hypotheses" is a very vague requirement. After all, any A/B test is a process of "creating and testing hypotheses" using data. Is anyone who performs A/B tests a data scientist? I think not.
  Moreover,  a couple of years ago, if you wanted to run an A/B test, perform a regression analysis, build a classifier, you would have to write numerous lines of code, debug and tune it. This tedious and intriguing process certainly felt very "sciency," and if it worked, you would have been very proud of our job. Today, on the other hand, we are lucky to have general-purpose tools that require less and less coding. I don't remember the last time I had to implement an analysis or an algorithm from the first principles. With the vast amount of verified tools and libraries, writing an algorithm from scratch feels like a huge waste of time.
  On the other hand, I spend more and more time trying to understand the "business logic" that I try to improve: why has this test fail? Who will use this algorithm and what will make them like the results? Does effort justify the potential improvement?
-
 
 I (a data scientist) have all this extra time to think of a business logic thanks to the huge arsenal of generalized tools to choose from. These tools were created mostly by those data scientists whose primary job is to implement, verify, and tune algorithms. My job and the job of these data scientists is different and requires different sets of skills.
 

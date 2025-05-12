@@ -17,7 +17,7 @@ My job wasn't affected by the COVID madness in almost any way. I used to work fr
 
 You should read it too
 
-![]({{ site.baseurl }}/assets/img/2020/04/IMG_1384-1-e1585950373956-768x1024.jpeg)
+![]({{ site.baseurl }}/assets/img/2020/04/IMG_1384-1-e1585950373956-768x1024.jpeg){:width="1600"}
 
 > I’ve read a lot of cheery tweets that said something like, “Buffy, Biff and I are isolated at home with our terrier, Boo. Here’s a picture. Isn’t he cute? We played card games, then I baked this three-course meal I saw on Pinterest. Biff is taking this time to finally become proficient in Mandarin with…
 > 

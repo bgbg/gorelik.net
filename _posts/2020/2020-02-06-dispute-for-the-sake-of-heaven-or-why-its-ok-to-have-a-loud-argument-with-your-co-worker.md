@@ -15,14 +15,13 @@ layout: "post"
 > 
 > <small>Chapters of the Fathers 5:27</small>
 
-
 One day, I had an intense argument with a colleague at my [previous place of work, Automattic](https://gorelik.net/2020/01/13/how-i-got-a-dream-job-in-a-distributed-company-and-why-i-am-leaving-it/). Since most of the communication in Automattic happens in internal blogs that are visible to the entire company, this was a public dispute. In a matter of a couple of hours, some people contacted me privately on Slack. They told me that the message exchange sounded aggressive, both from my side and from the side of my counterpart. I didn't feel that way. In this post, I want to explain why it is OK to have a loud argument with your co-workers.
 
 ## How it all began?
 
 I'm a data scientist and algorithm developer. I like doing data science and developing algorithms. Sometimes, to be better at my job, I need to show my work to my colleagues. In a "regular" company, I would ask my colleagues to step into my office and play with my models. Automattic isn't a "regular" company. At Automattic, people from more than sixty countries from in every possible time zone. So, I wanted to start a server that will be visible by everyone in the company (and only by them), that will have access to the relevant data, and that will be able to run any software I install on it.
 
-![Two bees fighting]({{ site.baseurl }}/assets/img/2017/07/argument-e1501103388503.jpg){:class="alignright"}
+![Two bees fighting]({{ site.baseurl }}/assets/img/2017/07/argument-e1501103388503.jpg){:width="600"}{:class="alignright"}
 
 X is a system administrator. He likes administrating the systems that serve more than 2000,000,000 unique visitors in the US alone. To be good at his job, X needs to make sure no bad things happen to the systems. That's why when X saw my request for the new setup (made on a company-visible blog page), his response was, more or less, "Please tell me why do you think you need this, and why can't you manage with what you already have." 
 

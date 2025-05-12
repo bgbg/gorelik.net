@@ -25,5 +25,4 @@ My second thesis is that you can quickly improve your graphs by merely adding a 
 
 Following is the slide stack from my [NDR presentation](https://ndrconf.ai/).
 
-
 <https://www.slideshare.net/borisgorelik/the-biggest-missed-opportunity-in-data-visualization>

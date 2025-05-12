@@ -26,7 +26,7 @@ layout: "post"
 
 The research that I will present here was performed in collaboration with Lior Zalmanson, a post-doc researcher at Stern School of Business New York University. In this study, we asked ourselves whether people can increase their chance to keep blogging by joining forces.
 
-Whether people work better in groups or as individuals is an open and long-debated question in social psychology. On one hand, there is a phenomenon of “Social Loafing” -- a phenomenon that was first described by a French agricultural engineer Maximilien Ringelmann in - According to Ringelmann’s findings, having group members work together on a task results in significantly less effort than when individual members are acting alone [[Wikipedia](https://en.wikipedia.org/wiki/Ringelmann_effect), [Original paper](http://gallica.bnf.fr/ark:/12148/bpt6k54409695.image.f14.langEN)].
+Whether people work better in groups or as individuals is an open and long-debated question in social psychology. On one hand, there is a phenomenon of “Social Loafing” -- a phenomenon that was first described by a French agricultural engineer Maximilien Ringelmann in 1913. According to Ringelmann’s findings, having group members work together on a task results in significantly less effort than when individual members are acting alone [[Wikipedia](https://en.wikipedia.org/wiki/Ringelmann_effect), [Original paper](http://gallica.bnf.fr/ark:/12148/bpt6k54409695.image.f14.langEN)].
 
 On the other hand, Otto Köhler, a German psychologist, has found in 1926 that the weaker group members strive to keep up with the accomplishment of the other group members, which results in an overall performance improvement [[Enc Britanica](http://www.britannica.com/topic/Kohler-effect)]. The effect of “Social Compensation” was suggested by [Karau and Williams in 1991](http://www.communicationcache.com/uploads/1/0/8/8/10887248/social_loafing_and_social_compensation-_the_effects_of_expectations_of_co-worker_performance.pdf). According to their observations, a worker will work harder in groups, compensating for those who work less.
 
@@ -45,7 +45,7 @@ At some point, Charlie reads Alice’s blog post and presses the “like” butt
 
 ![halved_02]({{ site.baseurl }}/assets/img/2016/03/halved_02.png){:width="730"}{:class="alignnone"}
 
-For the sake of our discussion, let’s assume that Alice writes posts in another blog, we will call it B- It turns out that Daphne and Eve are also authors in B- Charlie, whom we already met, is also writing a blog, all by himself.
+For the sake of our discussion, let’s assume that Alice writes posts in another blog, we will call it B2. It turns out that Daphne and Eve are also authors in B2. Charlie, whom we already met, is also writing a blog, all by himself.
 
 ![halved_03]({{ site.baseurl }}/assets/img/2016/03/halved_03.png){:width="730"}{:class="alignnone"}
 
@@ -89,7 +89,7 @@ What we see here is a small example. In reality, WordPress.com users form a larg
 ### Collecting the data
 
 There are many types of communities in the online world. There are also many types of collaboration between people. Let us now concentrate on a very specific kind of community — a community of writers. In this analysis, we treat a blog or a website as a gathering point and all the writers in that website as the community members. We can tackle the question raised at the beginning of this post: what makes some bloggers keep blogging?
-To answer this question, we look at people who opened a WordPress.com account during the thirteen months from Jan 2013 and Feb - WordPress.com is a home of large professional (VIP) customers such as NBC Sports, TED, CNN, Time and others (<https://vip.wordpress.com/clients/).> It would be unfair to include these professional writers in our analysis. Unfortunately, some people use WordPress.com for spamming, fraud and other non-legit activities; we have removed those people from the analysis. Many people open a WordPress.com account, write a test post and go away. We did not like to include such users in this study, so we only included those people who gave or received, at least, one “like”, as a substitute for a minimal level of quality and commitment. Last but not least, we excluded the 400+ Automattic employees and contractors from the analysis. In Automattic, we use WordPress.com for internal communication purposes and are a clear outlier in any analysis.
+To answer this question, we look at people who opened a WordPress.com account during the thirteen months from Jan 2013 and Feb 2014. WordPress.com is a home of large professional (VIP) customers such as NBC Sports, TED, CNN, Time and others (<https://vip.wordpress.com/clients/).> It would be unfair to include these professional writers in our analysis. Unfortunately, some people use WordPress.com for spamming, fraud and other non-legit activities; we have removed those people from the analysis. Many people open a WordPress.com account, write a test post and go away. We did not like to include such users in this study, so we only included those people who gave or received, at least, one “like”, as a substitute for a minimal level of quality and commitment. Last but not least, we excluded the 400+ Automattic employees and contractors from the analysis. In Automattic, we use WordPress.com for internal communication purposes and are a clear outlier in any analysis.
 
 When we look at monthly snapshots of the dynamic networks mentioned above, we collect various descriptive statistics about the users who registered two to three months before the snapshot. We believe that this period is long enough for novice users to accommodate with the platform and to gain some popularity and social ties. Next, we look at the monthly snapshot made one year later and check whether a current user appears in the network as a contributor to at least one blog or not. We consider the users who appear in this graph as survivors. For the purpose of this analysis, we completely ignore what happens during the entire year — between the two snapshots.
 
@@ -101,13 +101,17 @@ In the end, we need to analyze the connection between two sets of information. O
 
 Approximately 570,000 authors met the study inclusion criteria. We don’t analyze these authors alone but in a context of a network that contains about 5,000,000 users. What factors promote author survival? In the next paragraphs, I will show several similar graphs. In these graphs, the Y-axis will show the probability to continue blogging, as a function of the variable presented on the X-axis. On that axis, below the number that represents variable value, you will find the number of people for whom this true.
 
-[caption id="attachment_92" align="alignnone" width="650"]![The more incoming likes authors receive, the higher is their survival probability]({{ site.baseurl }}/assets/img/2016/03/halved_06.png){:width="650"} The more incoming likes authors receive, the higher is their survival probability[/caption]
+[caption id="attachment_92" align="alignnone" width="650"]![The more incoming likes authors receive, the higher is their survival probability]({{ site.baseurl }}/assets/img/2016/03/halved_06.png){:width="650"}
+
+ The more incoming likes authors receive, the higher is their survival probability[/caption]
 
 The figure above shows how the survival probability depends on the number of likes an author received two to three months after the registration. We can see that there were 172 thousand users who did not get any “like” at the data collection point. These authors had a 2% probability to stay active at the end of the study. Approximately 213 thousand users with one “like” had the probability to keep blogging of 4% — a two-fold increase. Overall, we see that the more “likes” a person receives, the higher is the survival probability. Users who received more than 32 likes (there were only 800 of them) are 43% likely to keep blogging (the shaded area represents the 95% confidence interval — how confident we are in the survival estimate).
 
 Can this graph help an aspiring blogger? Not directly. It doesn’t surprise that an author who is capable of producing high-quality content that is also popular with a broad audience will also be likely to continue blogging in the future. Plus, authors can’t directly affect the number of likes they receive. Unlike receiving likes, pressing the “like” button on other’s content is under a person’s direct control. The following graph shows survival probability as a function of how many “likes” a user gave to others.
 
-[caption id="attachment_93" align="alignnone" width="650"]![The more likes authors give, the higher is their probability to survive]({{ site.baseurl }}/assets/img/2016/03/halved_07.png){:width="650"} The more likes authors give, the higher is their probability to survive[/caption]
+[caption id="attachment_93" align="alignnone" width="650"]![The more likes authors give, the higher is their probability to survive]({{ site.baseurl }}/assets/img/2016/03/halved_07.png){:width="650"}
+
+ The more likes authors give, the higher is their probability to survive[/caption]
 
 Generally speaking, the more socially active the authors are, the more likely they are to keep blogging. It is interesting to note that there is such a thing as too much love: authors who pressed the “like” button more than 32 times during their first two to three months are less likely to survive, compared to the immediately preceding group.
 At first glance, one might take the two graphs above as a magic recipe for blogging success. Doing this will be a mistake. It is correct that we have found a correlation between the number of incoming and outgoing likes and the survival probability. This connection does not tell us which of the two sides of the association is the cause and which one is the result. This uncertainty, which is often called the correlation-causation question, is very hard to solve. However, based on my general knowledge of human psychology, I claim that social interactions are partially responsible for the high correlation that we see in the data.
@@ -116,11 +120,13 @@ At first glance, one might take the two graphs above as a magic recipe for blogg
 
 Let’s get back to our original question: do authors who collaborate with others have a higher probability to keep on blogging? In the terms of our example network, does Alice, who has four collaborators, have greater chance to survive, compared to Charlie, who writes by himself? The answer is yes. According to the data we have, authors who write by themselves have only a 6% probability to keep blogging till the end of the study. Authors who write in pairs have a 9% probability to stay — a 50% increase. Interestingly, subsequent addition of collaborators has almost no effect, until we see teams of more than 16 authors.
 
-[caption id="attachment_94" align="alignnone" width="648"]![Authors who write in groups are more likely to continue writing]({{ site.baseurl }}/assets/img/2016/03/halved_08.png){:width="648"} Authors who write in groups are more likely to continue writing[/caption]
+[caption id="attachment_94" align="alignnone" width="648"]![Authors who write in groups are more likely to continue writing]({{ site.baseurl }}/assets/img/2016/03/halved_08.png){:width="648"}
+
+ Authors who write in groups are more likely to continue writing[/caption]
 
 ### Does fairness matter?
 
-This discussion started with a description of two competing theories that try to predict the outcome of a joined effort. Both theories talk about “weaker” and “stronger” participants. It turns out that we can measure the extent to which a person contributes to a blog and the extent to which blog’s authors provide equal contributions. Let’s get back to our example network. Suppose that, at some point we notice that Alice, Bob and Charlie collaborated in submitting content to a blog (B1). Alice wrote most of the posts and attracted most of the “likes”; Bob wrote from time to time; and Charlie contributed only one post, long time ago. If we measure link strength between each author and this particular blog, we see that Alice’s contribution is 10, Bob’s contribution is 0.5 and Charlie’s contribution is 0.- On the other hand, Charlie and Daphne and Eve occasionally write a joined blog (B2) to which they contribute equally, with tie strength values of 0.1 each.
+This discussion started with a description of two competing theories that try to predict the outcome of a joined effort. Both theories talk about “weaker” and “stronger” participants. It turns out that we can measure the extent to which a person contributes to a blog and the extent to which blog’s authors provide equal contributions. Let’s get back to our example network. Suppose that, at some point we notice that Alice, Bob and Charlie collaborated in submitting content to a blog (B1). Alice wrote most of the posts and attracted most of the “likes”; Bob wrote from time to time; and Charlie contributed only one post, long time ago. If we measure link strength between each author and this particular blog, we see that Alice’s contribution is 10, Bob’s contribution is 0.5 and Charlie’s contribution is 0.01. On the other hand, Charlie and Daphne and Eve occasionally write a joined blog (B2) to which they contribute equally, with tie strength values of 0.1 each.
 
 ![halved_09]({{ site.baseurl }}/assets/img/2016/03/halved_09.png){:width="730"}{:class="alignnone"}
 
@@ -184,7 +190,9 @@ One possible outcome is that the more a person contributes to a blog, the higher
 
 According to our data, option A seems to describe better the reality. Contrarily to my initial belief, people don’t mind carrying the load. To some extent, authors who contribute more than the average to the joined effort are more likely to keep writing.
 
-[caption id="attachment_97" align="alignnone" width="689"]![halved_11]({{ site.baseurl }}/assets/img/2016/03/halved_11.png){:width="689"} Authors who contribute more are more likely to survive[/caption]
+[caption id="attachment_97" align="alignnone" width="689"]![halved_11]({{ site.baseurl }}/assets/img/2016/03/halved_11.png){:width="689"}
+
+ Authors who contribute more are more likely to survive[/caption]
 
 There is another level to analyze contribution inequality. If you go back to our latest example, you’ll notice that the contributions to B1 are very balanced, while the contributions to B1 are not. To quantify such a balance we use the Gini index. The Gini index is in extensive use in economics. It was developed to measure the extent to which the distribution of a limited resource among individuals deviates from a perfectly equal distribution. The Gini index ranges from zero to one. The value of zero means total equality, and one means the strongest inequality possible. Taken in the example above, blog B1 has the Gini index of 0.44 and B2 has the index of 0.
 Having computed the Gini index for all the blogs in our study, we can analyze the connection between the Gini index and the probability of a blog to survive one year after the analysis. Similarly to the previous case, there are four possible relationships between the measured value (Gini index) and the probability:
@@ -193,7 +201,9 @@ Having computed the Gini index for all the blogs in our study, we can analyze th
 
 I must admit that before the analysis, I expected to see a curve similar to the case B. I was very surprised (and super excited) to see that sites with extreme input inequality have much higher survival probability, compared to the overall equal blogs.
 
-[caption id="attachment_99" align="alignnone" width="603"]![Blogs with highly dominant contributors are more likely to survive]({{ site.baseurl }}/assets/img/2016/03/halved_13.png){:width="603"} Blogs with highly dominant contributors are more likely to survive[/caption]
+[caption id="attachment_99" align="alignnone" width="603"]![Blogs with highly dominant contributors are more likely to survive]({{ site.baseurl }}/assets/img/2016/03/halved_13.png){:width="603"}
+
+ Blogs with highly dominant contributors are more likely to survive[/caption]
 
 ### Conclusions
 
@@ -209,6 +219,8 @@ I have shown an empirical evidence that social interaction with other authors is
 
 Team up! The evidence is clear: people who write in groups are more likely to keep writing. Every project needs a leader (recall the inequality graphs). If you are already motivated, don’t be afraid to lead. On the other hand, don’t be scared to be in the shadow of a dominant partner. Unbalanced contribution to a joint project is not about unfairness but is about leadership. Remember that 1% of fame is better than 100% of anonymity.
 
-The information in this post was first presented at [WordCamp Israel](https://2016.israel.wordcamp.org/) that took place in Jerusalem on March 28, - This study was performed in tight collaboration with Lior Zalmanson, a post-doc researcher in the Stern School of Business, New York University.
+The information in this post was first presented at [WordCamp Israel](https://2016.israel.wordcamp.org/) that took place in Jerusalem on March 28, 2016. This study was performed in tight collaboration with Lior Zalmanson, a post-doc researcher in the Stern School of Business, New York University.
 
-[![Opening slide]({{ site.baseurl }}/assets/img/2016/03/screen-shot-2016-03-30-at-10-01-42.png){:width="262"}{:class="alignnone"}](https://2016.israel.wordcamp.org/)
+[![Opening slide]({{ site.baseurl }}/assets/img/2016/03/screen-shot-2016-03-30-at-10-01-42.png){:width="262"}{:class="alignnone"}
+
+](https://2016.israel.wordcamp.org/)

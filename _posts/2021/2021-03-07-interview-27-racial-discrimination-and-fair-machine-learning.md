@@ -12,7 +12,7 @@ tags:
 layout: "post"
 ---
 
-![]({{ site.baseurl }}/assets/img/2021/03/27_charles.jpeg)
+![]({{ site.baseurl }}/assets/img/2021/03/27_charles.jpeg){:width="1024"}
 
 I invited Dr. Charles Earl for this episode of my podcast "Job Interview" to talk about racial discrimination at the workplace and fairness in machine learning. 
 
@@ -26,7 +26,6 @@ But there is another aspect in Dr. Earl. His skin is brown. He was born to an Af
 * [Birth of Ghana](https://www.youtube.com/watch?v=057BmLQ9MfU)
 * [W. E. B. Du Bois’s Data Portraits: Visualizing Black America](https://g.co/kgs/fp8oau)
 * [How 20th Century Camera Film Captured a Snapshot of American Bias](https://time.com/5871502/film-race-history/)
-
 
 If you know Hebrew, follow my podcast [Job Interview (Reayon Avoda)](http://he.gorelik.net/reayon/), and This [Week in the Middle East](http://anchor.fm/hashavua)
 

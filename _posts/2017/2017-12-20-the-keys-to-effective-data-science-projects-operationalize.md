@@ -15,5 +15,4 @@ Recently, I've stumbled upon an interesting [series of posts about effective man
 > 
 >    “Operationalization” – a term only a marketer could love. It really just means “people using your solution”.
 
-
 The main claim of that post is that, at some point, bringing actual users to your data science project may be more important than improving the model. This is exactly what I meant in my "[when good enough is good enough](http://gorelik.net/2017/06/12/time-series-analysis-when-good-enough-is-good-enough/)" post (also [available on YouTube](http://gorelik.net/2017/08/14/anomaly-detection-in-time-series-now-the-video/))

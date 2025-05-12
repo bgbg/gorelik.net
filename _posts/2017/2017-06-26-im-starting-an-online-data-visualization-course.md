@@ -13,7 +13,9 @@ cover_image: "/assets/img/2017/06/beyondthetutorialbanner.png"
 layout: "post"
 ---
 
-[![Free online course. Data Visualization Beyond the Tutorial. https://gorelik.net/course]({{ site.baseurl }}/assets/img/2017/06/beyondthetutorialbanner.png){:width="1456"}{:class="alignnone"}](https://gorelik.net/course/)
+[![Free online course. Data Visualization Beyond the Tutorial. https://gorelik.net/course]({{ site.baseurl }}/assets/img/2017/06/beyondthetutorialbanner.png){:width="1456"}{:class="alignnone"}
+
+](https://gorelik.net/course/)
 
 If you create charts using your tool's default settings and your intuition, chances are you're doing it wrong.
 

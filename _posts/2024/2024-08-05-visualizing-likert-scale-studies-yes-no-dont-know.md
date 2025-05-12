@@ -12,6 +12,6 @@ Unfortunately, many visualizations for Likert scale data are poorly designed and
 
 To address this, I wrote a Python function that generates decent visualizations for Likert scale data. It also handles text in both Hebrew and Arabic, which is not a trivial task in Matplotlib.
 
-![]({{ site.baseurl }}/assets/img/2024/08/output.png)
+![]({{ site.baseurl }}/assets/img/2024/08/output.png){:width="950"}
 
 Check out the code here: [<https://gist.github.com/bgbgbg-gmail/9aeced5372c3974eab25fa3103064f17>](https://gist.github.com/bgbgbg-gmail/9aeced5372c3974eab25fa3103064f17)

@@ -31,8 +31,7 @@ This is a copy/paste from Slack.
 
 **Michael Kaminsky** 
 
-![]({{ site.baseurl }}/assets/img/2020/09/image-10.png){:width="283"}{:class="alignright"}
-*LocallyOptimistic.com -- a valuable source for data folks*
+![]({{ site.baseurl }}/assets/img/2020/09/image-10.png){:width="283"}{:class="alignright"}*LocallyOptimistic.com -- a valuable source for data folks*
 
 My hunch is that it’s going to be pretty tough to get started, though not impossible. You’re probably looking at a pretty lean year or two to build up a reputation out of the gate
 

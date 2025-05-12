@@ -16,6 +16,6 @@ More than two years ago, I took a look at Google Trends for three phrases "start
 
 Today, I decided to go back to Google Trends and to add the [new rising star](https://trends.google.com/trends/explore?date=all&q=create%20a%20blog,start%20a%20blog,create%20a%20site,start%20a%20podcast): podcasting. 
 
-![]({{ site.baseurl }}/assets/img/2020/04/image-1.png)
+![]({{ site.baseurl }}/assets/img/2020/04/image-1.png){:width="1024"}
 
 It looks like podcasting starts its exponential growth, while the blogging continues its slow but steady decline. I will be unsurprised if, in 2022, the green, podcasting line will surpass the other lines in this graph. Let's wait and see.

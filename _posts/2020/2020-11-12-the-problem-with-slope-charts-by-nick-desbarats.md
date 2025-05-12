@@ -23,6 +23,6 @@ we tend to recommend a slope chart (or slope graph) like this
 
 However, a slope chart isn't free of problems either. In the past, I already wrote about a case of a meaningless slopegraph [[here](https://gorelik.net/2018/06/20/meaningless-slopes/)].  Today, I stumbled upon an interesting blog post (and a video) that surveys the problems of slope chars and their alternatives
 
-![]({{ site.baseurl }}/assets/img/2020/11/image-8.png)
+![]({{ site.baseurl }}/assets/img/2020/11/image-8.png){:width="1024"}
 
 All the graphs here come from the original post by Nick Desbarats that can be found [[here](https://www.practicalreporting.com/blog/2020/10/17/the-problem-with-slope-charts)].

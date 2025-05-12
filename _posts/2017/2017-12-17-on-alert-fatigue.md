@@ -18,7 +18,9 @@ I developed an anomaly detection system for Automattic internal dashboard. When 
 
  
 
-[caption id="attachment_1942" align="alignnone" width="2298"]![Screenshot of the presentation speaker notes. ]({{ site.baseurl }}/assets/img/2017/12/screen-shot-2017-12-16-at-17-26-23.png){:width="2298"}{:class="alignnone"} My speaker notes. Note how "error costs" was the first problem I dismissed.[/caption]
+[caption id="attachment_1942" align="alignnone" width="2298"]![Screenshot of the presentation speaker notes. ]({{ site.baseurl }}/assets/img/2017/12/screen-shot-2017-12-16-at-17-26-23.png){:width="2298"}{:class="alignnone"}
+
+ My speaker notes. Note how "error costs" was the first problem I dismissed.[/caption]
 
  
 

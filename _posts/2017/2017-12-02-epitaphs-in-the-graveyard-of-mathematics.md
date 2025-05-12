@@ -13,7 +13,7 @@ layout: "post"
 
 The excellent Ben Odrin wrote a hilarious post with fictitious tombstones of famous mathematicians. This is only one example :
 
-![](https://mathwithbaddrawings.files.wordpress.com/2017/11/grave-3.jpg){:width="336"}{style="max-width:100%;"}
+![](https://mathwithbaddrawings.files.wordpress.com/2017/11/grave-3.jpg){:width="336"}{:style="max-width:100%;"}
 
 I decided to jump on that bandwagon
 

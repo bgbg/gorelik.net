@@ -19,7 +19,6 @@ Quoting Tom Breur:
 
 > Reality for many data scientist is that the data at hand, in particular some minority class you are predicting, are almost *always* in short supply. You would *like* to have more data, but they simply aren’t available. Still, there might be excellent business value in building the best possible model from these data, as long as you safeguard against overfitting. Happy dredging!
 
-
 Happy dredging indeed.
 
  

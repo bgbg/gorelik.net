@@ -18,11 +18,11 @@ Remote work means that we use text as our primary communication tool. Moreover, 
 
 To my embarrassment, I discovered that I made a typo in the report title, and not just a typo: I misspelled the company name :-(. A couple of minutes after asking for a review, two of my coworkers pinged me on Slack and told me about the typo. One message was, "There is a typo in the title." Short, simple, and concise.
 
-![]({{ site.baseurl }}/assets/img/2019/10/image-10.png)
+![]({{ site.baseurl }}/assets/img/2019/10/image-10.png){:width="768"}
 
 The second message was much longer.
 
-![]({{ site.baseurl }}/assets/img/2019/10/image-12.png)
+![]({{ site.baseurl }}/assets/img/2019/10/image-12.png){:width="1024"}
 
 Do you want to guess what the difference between the two coworkers is? 
  .

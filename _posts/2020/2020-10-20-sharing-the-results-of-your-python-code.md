@@ -14,8 +14,7 @@ layout: "post"
 
 If you work, but nobody knows about your results or cares about them, have you done any work at all? 
 
-![]({{ site.baseurl }}/assets/img/2020/10/pexels-photo-38136.jpeg){:width="470"}
-*A proverbial tree in the proverbial forest. Photo by veeterzy on [Pexels.com](https://www.pexels.com/photo/nature-forest-trees-park-38136/)*
+![]({{ site.baseurl }}/assets/img/2020/10/pexels-photo-38136.jpeg){:width="470"}*A proverbial tree in the proverbial forest. Photo by veeterzy on [Pexels.com](https://www.pexels.com/photo/nature-forest-trees-park-38136/)*
 
 As a data scientist, the product of my work is usually an algorithm, an analysis, or a model. What is a good way to share these results with my clients? 
 

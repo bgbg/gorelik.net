@@ -12,4 +12,4 @@ I wish there was a better term for "innumeracy", a term that would reflect the i
 
 <https://tombreur.wordpress.com/2018/10/21/innumeracy/>
 
-[![]({{ site.baseurl }}/assets/img/2020/12/image.png)](https://tombreur.wordpress.com/2018/10/21/innumeracy/)
+[![]({{ site.baseurl }}/assets/img/2020/12/image.png){:width="1024"}](https://tombreur.wordpress.com/2018/10/21/innumeracy/)

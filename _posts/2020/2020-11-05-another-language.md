@@ -15,4 +15,4 @@ layout: "post"
 
 After about two years of study, I feel ready to add Arabic to LinkedIn's language list
 
-![]({{ site.baseurl }}/assets/img/2020/11/image.png)
+![]({{ site.baseurl }}/assets/img/2020/11/image.png){:width="1024"}

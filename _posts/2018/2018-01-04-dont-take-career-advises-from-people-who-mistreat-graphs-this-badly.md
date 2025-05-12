@@ -47,7 +47,9 @@ Sure, this graph will not get the "best dataviz" award, but at least I understan
 
 ![Screenshot with an example of another nonsense graph]({{ site.baseurl }}/assets/img/2017/12/04_why.png){:width="300"}{:class="alignnone"}
 
-Finally, the report authors decided that it wasn't enough to draw smartly looking color segments enclosed in a circle. They decided to add some cool looking lines. The authors remained faithful to their decision to not let any meaning into their graphical aids![Screenshot with an example of a nonsense chart]({{ site.baseurl }}/assets/img/2017/12/05_look_ma_i_can_draw_radial_lines.png){:width="300"}{:class="alignnone"}.
+Finally, the report authors decided that it wasn't enough to draw smartly looking color segments enclosed in a circle. They decided to add some cool looking lines. The authors remained faithful to their decision to not let any meaning into their graphical aids![Screenshot with an example of a nonsense chart]({{ site.baseurl }}/assets/img/2017/12/05_look_ma_i_can_draw_radial_lines.png){:width="300"}{:class="alignnone"}
+
+.
 
 ### Can't we treat these graphs as illustrations?
 

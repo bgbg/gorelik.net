@@ -7,4 +7,4 @@ cover_image: "/assets/img/2020/06/multilanguage.jpg"
 layout: "post"
 ---
 
-![]({{ site.baseurl }}/assets/img/2020/06/multilanguage.jpg)
+![]({{ site.baseurl }}/assets/img/2020/06/multilanguage.jpg){:width="1024"}

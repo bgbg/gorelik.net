@@ -14,7 +14,7 @@ Let's go pseudo-intellectual, shall we?
 
 One of the advantages of being a freelance consultant, as opposed to a traditional employee, is the opportunity for more frequent feedback. Each piece of feedback is precious, steering your career path. Positive feedback? Even better - it can truly make your day.
 
-[![graphical user interface, text, application](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcea9913a-00fe-4f81-904c-c6551ec59562_800x493.jpeg "graphical user interface, text, application")](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcea9913a-00fe-4f81-904c-c6551ec59562_800x493.jpeg)
+[![graphical user interface, text, application](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcea9913a-00fe-4f81-904c-c6551ec59562_800x493.jpeg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcea9913a-00fe-4f81-904c-c6551ec59562_800x493.jpeg)
 
 Freelancers typically receive more feedback. But this doesn't mean that traditional employees should settle for less. If you're in a management position, remember to provide feedback regularly. And don't shy away from seeking feedback from your own managers.
 

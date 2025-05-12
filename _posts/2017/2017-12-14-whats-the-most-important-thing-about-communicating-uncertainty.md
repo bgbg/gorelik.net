@@ -17,7 +17,6 @@ Sigrid Keydana, in her post [Plus/minus what? Let’s talk about uncertainty (ta
 
 > What's the most important thing about communicating uncertainty? You're doing it
 
-
 Really?
 
 Here, for example, a graph from [a blog post](https://myscholarlygoop.wordpress.com/2017/11/20/the-all-encompassing-figure/)

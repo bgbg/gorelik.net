@@ -21,13 +21,13 @@ Your data scientists can be as good as the data you provide them. You must colle
 
 ## Data analysts 
 
-![]({{ site.baseurl }}/assets/img/2023/02/image-5.png){:class="alignright"}
+![]({{ site.baseurl }}/assets/img/2023/02/image-5.png){:width="150"}{:class="alignright"}
 
 Data Analysts mainly focus on the organization and interpretation of data. Unlike data scientists, Analysts don't build predictive models or create unique algorithms. However, they identify trends and insights and present their findings clearly and understandably. Not being required to build novel models and algorithms allow them to better connect with stakeholders' business needs and practical questions. A good data analyst will take the business problem, translate it into a data-based question, will know its potential value, and in many cases, will be able to answer it.
 
 ## Boxed Solutions
 
-![]({{ site.baseurl }}/assets/img/2023/02/image-4.png){:class="alignright"}
+![]({{ site.baseurl }}/assets/img/2023/02/image-4.png){:width="150"}{:class="alignright"}
 
 Data Science as a Service is a term for boxed solutions that are constantly becoming more versatile, flexible, and affordable. I was a freelancer for a company that built its data-based product on an open-source implementation of a single optimization algorithm. They managed to run a successful company without a single data scientist for more than five years, and they started thinking of better solutions when they squeezed everything they could from their MRE. At this point, they had their data storage pipelines (data engineering), a better picture of their business (data analysts), and paying customers to finance the development of new algorithms.
 

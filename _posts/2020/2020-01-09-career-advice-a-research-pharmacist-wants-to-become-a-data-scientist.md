@@ -21,7 +21,6 @@ Here's the original email with minor edits, followed by my response.
 
 Hi Boris, 
 
-
 My name is XXXXX, and I came across your information and your advice on data science as I was researching career opportunities.
 
 I currently work at a hospital as a research pharmacist, mainly involved in managing drugs for clinical trials.
@@ -40,7 +39,6 @@ First of all, thank you for asking me. I'm genuinely flattered. I assume that yo
 * "[Don't study data science as a career move](https://gorelik.net/2017/05/29/dont-study-data-science/)" --  the most read post on my blog
 * "[What you need to know to start a career as a data scientist](https://gorelik.net/2017/10/11/what-you-need-to-know-to-start-a-career-as-a-data-scientist/)"
 * "[Staying employable as a data scientist](https://gorelik.net/2019/12/23/staying-employable-and-relevant-as-a-data-scientist/)"
-
 
 All my thoughts on the career path of a data scientist appear in this page [<https://gorelik.net/category/career-advice/>](https://gorelik.net/category/career-advice/)
 

@@ -17,7 +17,7 @@ This is another post in the series [Because You Can](https://gorelik.net/tag/bec
 
 It started with a paper by prof. Gerd Gigerenzer whose work in promoting numeracy I adore. The paper, "[Natural frequencies improve Bayesian reasoning in simple and complex inference tasks](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4604268/)" contained a simple graph that meant to convince the reader that natural frequencies lead to more accurate understanding (read the paper, it explains these terms). The error bars in the graph mean to convey uncertainty. However, the data visualization selection that Gigerenzer and his team selected is simply wrong. 
 
-![]({{ site.baseurl }}/assets/img/2019/10/image-1.png)
+![]({{ site.baseurl }}/assets/img/2019/10/image-1.png){:width="1024"}
 
 [![]({{ site.baseurl }}/assets/img/2019/10/image-3.png){:width="122"}](https://amzn.to/2MngEru)
 
@@ -29,8 +29,7 @@ The irony is that Prof. Gigerenzer is a worldwide expert in communicating uncert
 
 Communicating uncertainty is super important. Take a look at this 2018 study with the self-explaining title "[Uncertainty Visualization Influences how Humans Aggregate Discrepant Information](https://www.researchgate.net/profile/Miriam_Greis/publication/324659447_Uncertainty_Visualization_Influences_how_Humans_Aggregate_Discrepant_Information/links/5beb143d299bf1124fd0dc66/Uncertainty-Visualization-Influences-how-Humans-Aggregate-Discrepant-Information.pdf)." From the paper: "Our study repeatedly presented two [GPS] sensor measurements with varying degrees of inconsistency to participants who indicated their best guess of the “true” value. We found that uncertainty information improves users’ estimates, especially if sensors differ largely in their associated variability". 
 
-![Image result for clinton trump polls](http://e.huffpost.com/pollster/share/2016-general-election-trump-vs-clinton.png?1490979763){:width="288"}{:class="alignright"}
-*Source [HuffPost](https://elections.huffingtonpost.com/pollster/2016-general-election-trump-vs-clinton)*
+![Image result for clinton trump polls](http://e.huffpost.com/pollster/share/2016-general-election-trump-vs-clinton.png){:width="288"}{:class="alignright"}*Source [HuffPost](https://elections.huffingtonpost.com/pollster/2016-general-election-trump-vs-clinton)*
 
 Also recall the surprise when Donald Trump won the presidential elections despite the fact that most of the polls predicted that Hillary Clinton had higher chances to win. Nobody cared about uncertainty, everyone saw the graphs!
 
@@ -48,11 +47,13 @@ More specifically to bar plots, error lines break the bar analogy and  are hard 
 
 The thing with bar charts is that they are meant to represent physical bars. A physical bar doesn't have soft edges and adding error lines simply breaks the visual analogy.
 
-Another problem is that the upper part of the error line is more visible to the eye than the lower one, the one that is seen inside the physical bar. See?![undefined]({{ site.baseurl }}/assets/img/2019/10/screen-shot-2019-10-07-at-9.09.06.png){style="width:150px;"}
+Another problem is that the upper part of the error line is more visible to the eye than the lower one, the one that is seen inside the physical bar. See?![undefined]({{ site.baseurl }}/assets/img/2019/10/screen-shot-2019-10-07-at-9.09.06.png){:style="width:150px;"}
 
 But that's not all. The width of the error bars separates the error lines and makes the comparison even harder. Compare the readability of error lines in the two examples below
 
-![]({{ site.baseurl }}/assets/img/2019/10/image-1.png){style="width:300px;"} ![]({{ site.baseurl }}/assets/img/2019/10/image-2.png){style="width:300px;"}
+![]({{ site.baseurl }}/assets/img/2019/10/image-1.png){:style="width:300px;"}
+
+ ![]({{ site.baseurl }}/assets/img/2019/10/image-2.png){:style="width:300px;"}
 
 The proximity of the error lines in the second example (take from [this site](https://andrewpwheeler.wordpress.com/2016/03/08/on-overlapping-error-bars-in-charts/)) makes the comparison easier.
 
@@ -60,7 +61,7 @@ The proximity of the error lines in the second example (take from [this site](ht
 
 Yes. First, I recommend reading the "Error bars considered harmful" paper that I already mentioned above. It not only explains why, but also surveys several alternatives
 
-![]({{ site.baseurl }}/assets/img/2019/10/image-5.png)
+![]({{ site.baseurl }}/assets/img/2019/10/image-5.png){:width="1024"}
 
 Nathan Yau from flowingdata.com had an[ extensive post about different ways to visualize uncertainty](https://flowingdata.com/2018/01/08/visualizing-the-uncertainty-in-data/). He reviewed ranges, shades, rectangles, spaghetti charts and more. 
 

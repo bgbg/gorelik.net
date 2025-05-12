@@ -21,7 +21,7 @@ Here, I will demonstrate some of its problems, and will suggest an alternative
 
 ## Before: The problems of a radar (spyder) plot
 
-![]({{ site.baseurl }}/assets/img/2020/11/image-1.png)
+![]({{ site.baseurl }}/assets/img/2020/11/image-1.png){:width="578"}
 
 Above is my reconstruction of the original plot that I saw in a Facebook discussion. The graph looks pretty cool, I have to admit, but it is full of problems.
 What are the problems of a spyder plot or a radar plot?
@@ -29,8 +29,7 @@ Let's start with readability. Can you quickly tell the value of "Substance abuse
 
 But a more significant problem emerges when one realizes that in most cases, the order of the categories is arbitrary and that different sorting options may result in entirely different visual pictures.
 
-
-![]({{ site.baseurl }}/assets/img/2020/11/image-2.png)
+![]({{ site.baseurl }}/assets/img/2020/11/image-2.png){:width="1024"}
 
 ## After: conclusion-based graph design
 
@@ -42,11 +41,11 @@ Let's say that we conclude that there is no correlation between the two series o
 
 Instead of a radar chart, I suggest creating two aligned, horizontal graph plots. This way, we may sort one subplot according to the values, and then, correlation (or lack of thereof) will be evident.
 
-![]({{ site.baseurl }}/assets/img/2020/11/image-3.png)
+![]({{ site.baseurl }}/assets/img/2020/11/image-3.png){:width="712"}
 
 But what if we noticed something interesting about the differences between A and B groups? If this is true, let's show precisely this: the differences.
 
-![]({{ site.baseurl }}/assets/img/2020/11/image-5.png)
+![]({{ site.baseurl }}/assets/img/2020/11/image-5.png){:width="870"}
 
 Notice how the bars in this version are sorted according to the difference. Sorting a bar chart is the easiest way to make it readable.
 

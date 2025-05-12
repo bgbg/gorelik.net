@@ -11,7 +11,7 @@ layout: "post"
 
 "Climbing Invisible Ladders and Falling into Deep Holes: A Discourse in Five Parts" is a witty, engaging, and profoundly insightful exploration of corporate dynamics and career progression.”
 
-![]({{ site.baseurl }}/assets/img/2023/06/image.png)
+![]({{ site.baseurl }}/assets/img/2023/06/image.png){:width="1024"}
 
 # Climbing Invisible Ladders and Falling Deep Holes: A Discourse in Five Parts
 
@@ -23,7 +23,7 @@ layout: "post"
 
 **DAPHNE**: As a junior software developer, Daphne is smart and ambitious, constantly seeking opportunities to grow and evolve in her career.
 
-## Part - Prologue
+## Part 0. Prologue
 
 FADE IN:
 
@@ -63,7 +63,7 @@ LAURA
 
 Absolutely! And that's exactly why transitioning to leadership roles doesn't necessarily mean more money. We compensate employees based on their impact, not their position in the organizational chart. We also value and celebrate developers as much, if not more than managers, so their social status is already at its peak. All that managers do is facilitate developers in performing their jobs.
 
-## Part - Social status
+## Part 1. Social status
 
 BORIS
 
@@ -91,7 +91,7 @@ provides their direct feedback.
 
 And that's just one aspect. Our vacation policy is indeed generous, but it explicitly states that I need my team lead's approval before taking time off. My team lead doesn't require my consent for their time off; they consult their own superior. So yes, a manager does hold a higher social status than an individual contributor.
 
-## Part - Autonomy
+## Part 2. Autonomy
 
 LAURA
 
@@ -137,7 +137,7 @@ LAURA
 
 Hmm… I don't know... Well, at least in terms of money, management isn't promotion.
 
-## Part - Money
+## Part 3. Money
 
 BORIS 
 
@@ -201,7 +201,7 @@ See what I mean? David's impact is over a dozen times larger than mine. Therefor
 
 Everyone falls silent. Boris signals for a refill. Daphne appears dejected.
 
-## Part - Don’t lose your sleep over this
+## Part 4. Don’t lose your sleep over this
 
 BORIS 
 
@@ -239,7 +239,7 @@ That makes sense. I could focus on improving my development skills... Conversely
 
 The atmosphere in the room becomes dense with contemplation.
 
-## Part - You have to like your job
+## Part 5. You have to like your job
 
 BORIS 
 

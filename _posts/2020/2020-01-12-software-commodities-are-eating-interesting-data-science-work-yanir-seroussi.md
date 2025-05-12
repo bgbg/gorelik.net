@@ -19,10 +19,9 @@ To this list, I would also add two other options.
 
 **(6) Teach.** I teach as a part-time job. One reason for teaching is that I sometimes enjoy it. Another reason is that I feel that at some point, I might not be good enough to stay on the cutting edge but still sharp enough to teach the new generations the basics.
 
-
 Anyhow, read Yanir's post linked below.
 
-![](https://yanirseroussi.files.wordpress.com/2020/01/pacman.png?quality=80&strip=info&w=1600)
+![](https://yanirseroussi.files.wordpress.com/2020/01/pacman.png){:width="1600"}
 
 > The passage of time makes wizards of us all. Today, any dullard can make bells ring across the ocean by tapping out phone numbers, cause inanimate toys to march by barking an order, or activate remote devices by touching a wireless screen. Thomas Edison couldn’t have managed any of this at his peak—and shortly before […]
 > 

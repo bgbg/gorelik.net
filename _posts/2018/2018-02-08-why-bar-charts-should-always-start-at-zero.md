@@ -30,5 +30,4 @@ Yet another thing to remember is that
 
 > It’s true that every rule has its exception. It’s just that with this particular rule, I haven’t seen a worthwhile reason to bend it yet.
 
-
 (citing [Natan Yau](https://flowingdata.com/2015/08/31/bar-chart-baselines-start-at-zero/))

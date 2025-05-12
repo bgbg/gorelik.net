@@ -16,5 +16,4 @@ layout: "post"
 > 
 > Michael Kaminsky locallyoptimistic.com
 
-
 The quote above is from a post by Michael Kaminsky "[Against A/B tests](https://www.locallyoptimistic.com/post/against-ab-tests/?utm_campaign=The%20Data%20Science%20Roundup&utm_medium=email&utm_source=Revue%20newsletter)". I'm still not fully convinced by Michael's thesis but it is very interesting and thought-provoking. 

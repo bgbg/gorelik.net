@@ -23,10 +23,8 @@ Let's create a numpy vector with a single element in it:
     
     Now, let's compute the standard deviaiton of this vector. According to the [definition](https://en.wikipedia.org/wiki/Standard_deviation), we expect it to be equal zero.
 
-
     >>> np.std(v)
     0.0
-
 
 So far so good. No surprises.
 
@@ -37,12 +35,10 @@ Now, let's make a pandas Series out of our vector. A Series is basically a vecto
     >>> s.std()
     nan
 
-
 What? Not a number? What the hell? It's not an empty vector! I didn't ask to perform the [corrected sample](https://en.wikipedia.org/wiki/Standard_deviation#Corrected_sample_standard_deviation) standard deviation. Wait a second...
 
     >> s.std(ddof=0)
      0.0
-
 
 Now I start getting it. Compare this
 
@@ -54,7 +50,6 @@ Now I start getting it. Compare this
     is ``N - ddof``, where ``N`` represents the number of elements.
     <span style="color:#ff0000;"><strong>By default `ddof` is zero</strong></span>.
 
-
 ... to this
 
     >>> print(pd.Series.std.__doc__)
@@ -65,7 +60,6 @@ Now I start getting it. Compare this
     ....
     <span style="color:#ff0000;"><strong>ddof : int, default 1</strong></span>
     degrees of freedom
-
 
 Formally, the pandas developers did nothing wrong. They decided that it makes sense to default for normalized standard deviation when working with data tables, unlike numpy that is supposedly meant to deal with arbitrary matrices of numbers. They made a decision, they wrote it at least three times in the documentation, and yet... I didn't know that even after working with both the libraries for so long.
 
@@ -79,7 +73,6 @@ To sum up:
 >   >> s == v
 >   0 True
 >   dtype: bool
-
 
  
 

@@ -22,7 +22,6 @@ No, this account wasn't hacked. I really think that studying data science to adv
 * The current shortage of data scientists will go away, as more and more general purpose tools are developed.
 * When this happens, you'd better be an expert in the underlying domain, or in the research methods. The many programs that exist today are too shallow to provide any of these.
 
-
 To explain myself, let me start from a Quora [answer that I wrote a year ago](https://www.quora.com/I-am-a-pharmacist-I-am-interested-in-becoming-a-data-scientist-My-interests-are-pharmacoeconomics-and-other-areas-of-health-economics-What-do-I-need-to-study-to-become-a-data-scientist/answer/Boris-Gorelik). The original question was:
 
 <span style="color:#666699;">I am a pharmacist. I am interested in becoming a data scientist. My &gt; interests are pharmacoeconomics and other areas of health economics. What do I need to study to become a data scientist?</span>
@@ -37,8 +36,7 @@ Here's my answer that will explain why, in my opinion, studying data science won
 
 I think that while "data scientists" are real, "data science" isn't. We, the data scientists, analyze data using the scientific methods we know and using the tools we mastered. The term "data scientist" was coined about five years ago for the job market. It was meant to help to bring the expertise and the positions together. How else would you explain a person who knows scientific analysis, machine learning, writes computer code and isn't too an abstract thinker to understand the business need of a company? Before "data scientist," there was a less catchy "dataist" <http://www.dataists.com/.> However, "data scientist" sounded better. It is only after the "data scientist" became a reality, people started searching for "data science." In the future, data science may become a scientific field, similar to statistics. Currently, though, it is not mature enough. Right now, data science is an attempt to merge different disciplines to answer practical questions. Sometimes, this attempt is successful, which makes my life and the lives of many my colleagues so exciting.
 
-![Hilary Mason, from whom I learned the term dataist ]({{ site.baseurl }}/assets/img/2017/05/hilary_mason.jpg){:class="alignright"}
-*Hilary Mason, from whom I learned the term "dataist"*
+![Hilary Mason, from whom I learned the term dataist ]({{ site.baseurl }}/assets/img/2017/05/hilary_mason.jpg){:class="alignright"}*Hilary Mason, from whom I learned the term "dataist"*
 
 One standard feature of most if not all, the data science tasks is the requirement to understand the underlying domain. A data scientist in a cyber security team needs to have an understanding of data security, a bioinformatician needs to understand the biological processes, and a data scientist in a financial institution needs to know how money works.
 

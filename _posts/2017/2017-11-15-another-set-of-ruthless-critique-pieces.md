@@ -18,11 +18,8 @@ You know that I like reading a ruthless critique of others' work -- I like telli
 Anyhow, I'd like to share a set of posts by Lior Patcher in which he calls bullshit on several reputable people and concepts. Calling bullshit is easy. Doing so with arguments is not so. Lior Patcher worked hard to justify his opinion.
 
  	* [The network nonsense of Albert-László Barabási](https://liorpachter.wordpress.com/2014/02/10/the-network-nonsense-of-albert-laszlo-barabasi/). Albert-László Barabási is a renown network scientist. There's [a network model](https://en.wikipedia.org/wiki/Barab%C3%A1si%E2%80%93Albert_model) named after him. Some people claim that prof. Barabási will receive the Nobel prize one day.
-
  	* [The network nonsense of Manolis Kellis](https://liorpachter.wordpress.com/2014/02/11/the-network-nonsense-of-manolis-kellis/). Published one day after "The "[The network nonsense of Albert-László Barabási](https://liorpachter.wordpress.com/2014/02/10/the-network-nonsense-of-albert-laszlo-barabasi/)", this post critiques another renown scientist. Again, with a lot of solid-sounding arguments.
-
  	* [When average is not enough: part II](http://chanceandnecessity.net/2016/07/21/when-average-is-not-enough-part-ii/). ("Where is part I?", you may ask. Read the post to discover).
-
 
  
 

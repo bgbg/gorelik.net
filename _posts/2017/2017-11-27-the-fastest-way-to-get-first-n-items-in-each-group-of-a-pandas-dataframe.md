@@ -39,7 +39,6 @@ This is the output:
 
     3.19 ms ± 253 µs per loop (mean ± std. dev. of 7 runs, 100 loops each)
 
-
  
 
 I suspected that head() was not the most efficient way to take the first lines. I tried .iloc
@@ -57,7 +56,6 @@ d.groupby(
 
     2.92 ms ± 86.9 µs per loop (mean ± std. dev. of 7 runs, 100 loops each)
 
-
 A 10% improvement. Not bad but not excellent either. Then I realized that Pandas groupby object have their own head function
 
 [code lang="python"]
@@ -72,7 +70,6 @@ d.groupby(
 [/code]
 
     674 µs ± 23.7 µs per loop (mean ± std. dev. of 7 runs, 1000 loops each)
-
 
 647 microseconds instead of 3.2 milliseconds. The improvement is by almost a factor of five!
 

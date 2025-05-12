@@ -14,7 +14,6 @@ layout: "post"
 
 Here's another email that I got with the question about switching to the data science career
 
-
 Hello, my name is X. I saw your blog, and to be honest, I said, "Wow, is this me :)" I'm a pharmacist 5th-grade student currently working on a project in computational drug design. I started programming, and I loved it. After that, I heard the term "Data Science" and started to do some research […]
 
 Basically, I loved being on a computer and solving problems its a good career option for me (at least for now, you can't predict future) my mom has a pharmacy I worked there (internship), and it is not for me (i am counting the time when I'm in a pharmacy.) so I have a few questions for you

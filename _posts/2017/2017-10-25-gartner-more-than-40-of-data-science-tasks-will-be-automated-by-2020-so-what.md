@@ -16,9 +16,7 @@ layout: "post"
 
 Recently, I gave a data science career advice, in which I suggested the perspective data scientists [not to study data science as a career move](http://gorelik.net/2017/05/29/dont-study-data-science/). Two of my main arguments were (and still are):
 
-
     * The current shortage of data scientists will go away, as more and more general purpose tools are developed.
-
     * When this happens, you’d better be an expert in the underlying domain, or in the research methods. The many programs that exist today are too shallow to provide any of these.
 
 Recently, the research company Gartner published a [press release](https://www.gartner.com/newsroom/id/3570917) in which they claim that "More than 40 percent of data science tasks will be automated by 2020, resulting in increased productivity and broader usage of data and analytics by citizen data scientists, according to Gartner, Inc." Gartner's main argument is similar to mine: the emergence of ready-to-use tools, algorithm-as-a-service platforms and the such will reduce the amount of the tedious work many data scientists perform for the majority of their workday: data processing, cleaning, and transformation. There are also more and more prediction-as-a-service platforms that provide black boxes that can perform predictive tasks with ever increasing complexity. Once good plug-and-play tools are available, more and more domain owners, who are not necessary data scientists, will be able to use them to obtain reasonably good results. Without the need to employ a dedicated data scientist.

@@ -19,7 +19,6 @@ When I teach data visualization, I love showing my students how simple changes i
 
 > Priming is when what you see first influences how you perceive what comes next. In a series of studies, [[André Calero Valdez, Martina Ziefle, and Michael Sedlmair](http://homepage.univie.ac.at/michael.sedlmair/papers/calero-valdez2017priming.pdf)] showed that these effects also exist in the particular case of scatterplots that show separable or non-separable clusters. Seeing one kind of plot first changes the likelihood of you judging a subsequent plot as the same or another type.
 
-
 via [IEEE VIS 2017: Perception, Evaluation, Vision Science — eagereyes](https://eagereyes.org/blog/2017/ieee-vis-2017-perception-evaluation-vision)
 
 As any tool, priming can be used for good or bad causes. Priming abuse can be a deliberate exposure to non-relevant information in order to manipulate the audience. A good way to use priming is to educate the listeners of its effect, and repeatedly exposing them to alternate contexts. Alternatively, reminding the audience of the "before" graph, before showing them the similar "after" situation will also create a plausible effect of context setting.

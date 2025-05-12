@@ -18,8 +18,6 @@ I wrote about data giraffes [two weeks ago](https://gorelik.net/2020/03/18/an-in
 
 And this is the [pseudochartchart](https://gorelik.net/2019/09/09/pseudochart-its-like-a-pseudocode-but-for-charts/) version of the same data
 
-
 <https://twitter.com/davidgura/status/1245704384215945216>
-
 
 Credits: I've found these examples [on Stott Berkun's page](https://scottberkun.com/2020/design-during-pandemic/).

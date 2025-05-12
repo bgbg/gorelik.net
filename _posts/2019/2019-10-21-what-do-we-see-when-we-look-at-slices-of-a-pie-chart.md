@@ -22,9 +22,8 @@ Last week, Robert published another paper with a pretty confident title ("Eviden
 
 > While this study suggests that the charts are read by area, itis not conclusive. In particular, the possibility of pie chart usersre-projecting the chart to read them cannot be ruled out. Furtherexperiments are therefore needed to zero in on the exact mechanismby which this common chart type is read.
 > 
-> Kosara. “Evidence for Area as the Primary Visual Cue in Pie Charts.” OSF, 17 Oct. - Web.
+> Kosara. “Evidence for Area as the Primary Visual Cue in Pie Charts.” OSF, 17 Oct. 2019. Web.
 
-
-![]({{ site.baseurl }}/assets/img/2019/10/Kosara-VISShort-2019.png)
+![]({{ site.baseurl }}/assets/img/2019/10/Kosara-VISShort-2019.png){:width="1600"}
 
 The previous Kosara's studies had strong practical implications, the most important being that pie charts are not evil provided they are done correctly. However, I'm not sure what I can take from this one. As far as I understand the data, the answer to the questions in the beginning of this post are still unclear. Maybe, the "real answer" to these questions is "a combination of thereof".

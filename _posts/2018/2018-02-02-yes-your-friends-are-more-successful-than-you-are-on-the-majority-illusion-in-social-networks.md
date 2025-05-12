@@ -24,7 +24,6 @@ Quoting the authors:
 
 > the paradox is stronger in networks in which the better-connected nodes are active, and also in networks with a heterogeneous degree distribution. [...] The paradox is strongest in networks where low degree nodes have the tendency to connect to high degree nodes. [...] Activating the high degree nodes in such networks biases the local observations of many nodes, which in turn impacts collective phenomena
 
-
 The conditions listed in the quote above describe a lot of known social networks. The last sentence in that quote is of a special interest. It explains the contagious nature of many actions, from sharing a meme to buying a new car.
 
  

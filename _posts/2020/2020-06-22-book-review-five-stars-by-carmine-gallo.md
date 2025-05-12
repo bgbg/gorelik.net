@@ -25,8 +25,7 @@ When, finally, we get to the practical parts, the reader is left mostly with sha
 
 ### Some of the most important points I took from this book
 
-![]({{ site.baseurl }}/assets/img/2020/06/hamster.jpeg){:width="200"}{:class="alignright"}
-*Slight feeling of a hamster-wheel while reading this book*
+![]({{ site.baseurl }}/assets/img/2020/06/hamster.jpeg){:width="200"}{:class="alignright"}*Slight feeling of a hamster-wheel while reading this book*
 
 Adopt the three-act storytelling approach to presentations. The three-act storytelling approach worked for Homerus, Shakespear, Tarantino, and there is no reason it should fail you in your technical presentations. Fair enough. On the other hand, this[ 2012 article by Nancy Duarte](https://hbr.org/2012/10/structure-your-presentation-li), provides more depth and more actionable information on this approach (follow[ Duarte’s blog](https://www.duarte.com/presentation-skills-resources/) if presentation skills are something you are interested in). 
 

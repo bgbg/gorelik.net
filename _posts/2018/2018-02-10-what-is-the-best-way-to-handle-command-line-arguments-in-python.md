@@ -32,13 +32,9 @@ if __name__ == '__main__':
 
 You have:
 
-
     * help string generation
-
     * data type conversion
-
     * default arguments
-
     * zero boilerplate code
 
 Magic!

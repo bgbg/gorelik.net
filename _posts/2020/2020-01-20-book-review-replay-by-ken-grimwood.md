@@ -14,7 +14,7 @@ layout: "post"
 
 TL;DR: excellent fiction reading, makes you think about your life choices. 5/5
 
-![book cover of "Replay" by Ken Grimwood]({{ site.baseurl }}/assets/img/2020/01/replay.png){:class="alignright"}
+![book cover of "Replay" by Ken Grimwood]({{ site.baseurl }}/assets/img/2020/01/replay.png){:width="160"}{:class="alignright"}
 
 ["Replay" by Ken Grimwood](https://www.amazon.com/Replay-Ken-Grimwood-ebook/dp/B07GXRFNVF/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=) is the first fiction book that I read in ages. The book is about a forty-three years old man with a failing family and a boring career. The man suddenly dies and re-appears in his own eighteen-years old body. He then lives his life again, using the knowledge of his future self. Then he dies again, and again, and again.
 I liked the concept (reminded me of the Groundhog Day movie). The book managed to "suck me in," and I finished it in two days. It also made me think hard about my life choices. I think that [my decision to quit and become a freelancer](https://gorelik.net/2020/01/13/how-i-got-a-dream-job-in-a-distributed-company-and-why-i-am-leaving-it/) was partially affected by this book.

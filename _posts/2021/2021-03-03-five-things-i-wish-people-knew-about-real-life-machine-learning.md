@@ -15,7 +15,7 @@ layout: "post"
 
 Deena Gergis is a data science lead at Bayer. I recently discovered Deena's article on LinkedIn titled "[Five Things I Wish I Knew About Real-Life AI](https://www.linkedin.com/pulse/5-things-i-wish-knew-real-life-ai-deena-gergis/)." I think that this article is a great piece of a career advice for all the current and aspiring data scientists, as well as for all the professionals who work with them. Let' me take Deena's headings and add my 2 cents.
 
-![]({{ site.baseurl }}/assets/img/2021/03/image-2.png)
+![]({{ site.baseurl }}/assets/img/2021/03/image-2.png){:width="1024"}
 
 ## One. It is all about the delivered value, not the method.
 

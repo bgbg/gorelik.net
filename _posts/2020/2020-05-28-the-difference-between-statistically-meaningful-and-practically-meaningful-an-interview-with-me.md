@@ -26,8 +26,6 @@ Recently, I gave an [interview to the Techie Leadership](https://techieleadershi
 * All good teamwork starts with effective communication;
 * **You don’t know that the stuff that you know is unknown to others;**
 
-
 Overall, I enjoyed chatting with Andrei, and I hope you'll enjoy listening to the interview. If you have any comments, feel free sharing them here or on the [Techie Leadership size](https://techieleadership.com/the-difference-between-statistically-meaningful-and-practically-meaningful-with-boris-gorelik-009/)
-
 
 <https://techieleadership.com/the-difference-between-statistically-meaningful-and-practically-meaningful-with-boris-gorelik-009/>

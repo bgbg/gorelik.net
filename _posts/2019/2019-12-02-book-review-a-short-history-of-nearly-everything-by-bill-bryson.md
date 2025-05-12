@@ -24,5 +24,4 @@ Interesting takeaways and highlights
 * The Universe is unlimited but finite (think of a circle)
 * Developments in chemistry were the driving force of the industrial revolution. Nevertheless, chemistry wasn't recognized as a scientific field in its own for several decades
 
-
 The bottom line: Read if you have time 3.5/5. 

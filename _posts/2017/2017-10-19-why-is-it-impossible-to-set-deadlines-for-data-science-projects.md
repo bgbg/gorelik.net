@@ -17,17 +17,16 @@ In many cases, attempts to set a deadline to a data science project result in a 
 ## Complexity
 
 ![Illustration: famous xkcd comic. Two programmers play during the compilation time]({{ site.baseurl }}/assets/img/2017/10/compiling.png){:width="300"}{:class="aligncenter"}
+
 Think of this. Why most properly built bridges remain functional for decades and sometimes for centuries, while the rule in every non-trivial program is that "there is always another bug?". I read this analogy in Joel Spolsky's [post written in 2001](https://www.joelonsoftware.com/2001/12/). The answer Joel provides is:
 
 > Once you’ve written a subroutine, you can call it as often as you want. This means that almost everything we do as software developers is something that has never been done before. This is very different than what construction workers do.
-
 
 There was a substantial progress in the computer engineering theory since 2001 when Joel wrote its post. We have better static analysis tools, better coverage tools, and better standard practices. Nevertheless, bug-free software only exists in Programming 101 books.
 
 What about data science projects? Aren't they essentially a sort of software project? Yes, they are, and as such, the above quote is relevant for them too. However, we can add another statement:
 
 > Once you’ve collected data, you can process it as often as you want. This means that almost everything we do as data scientists is something that has never been done before.
-
 
 You see, to account for project uncertainty, we need to multiply the number of uncertainty factors of a software project by the number of uncertainty factors associated with the data itself. The bottom line is an exponential complexity growth.
 
@@ -37,7 +36,7 @@ Now, let's talk about another, even bigger problem, the missing information. I'm
 
 When a software engineer writes a plotting program, they know when it doesn't work: the image is either created or not. And if the image isn't created, the programmer knows that something wrong and has to be fixed. When a programmer writes a compression program, they know when they made a mistake: if the program does not compress a file, or if the result isn't readable. The programmer knows that there must be a fixable bug in his or her code.
 
-What about a data science project? Let's say you're starting an advertisement targetting project. The project manager gives you the information source and the performance metric. A successful model has to have a performance of 80 or more (the nature of the performance score isn't important here). You start working. You clean your data, normalize it, build a nice decision tree, and get a score of 60, which is way too low. You explore your data, discover problems in it, retrain the tree and get - You talk to the team that collects the data, find more problems, build a random forest, train it and get a score of - You buy some computation time, create a deep learning network on AWS, train it for a week, and get 66 again.
+What about a data science project? Let's say you're starting an advertisement targetting project. The project manager gives you the information source and the performance metric. A successful model has to have a performance of 80 or more (the nature of the performance score isn't important here). You start working. You clean your data, normalize it, build a nice decision tree, and get a score of 60, which is way too low. You explore your data, discover problems in it, retrain the tree and get 63. You talk to the team that collects the data, find more problems, build a random forest, train it and get a score of 66. You buy some computation time, create a deep learning network on AWS, train it for a week, and get 66 again.
 
 ![Illustration: a blindfolded man wandering around]({{ site.baseurl }}/assets/img/2017/10/387313596_e0ef59f7bd_z.jpg){:width="200"}{:class="alignright"}
 

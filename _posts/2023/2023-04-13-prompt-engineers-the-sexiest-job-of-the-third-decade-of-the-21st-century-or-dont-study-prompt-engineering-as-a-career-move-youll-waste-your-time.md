@@ -24,4 +24,4 @@ In 2017, I wrote a blog post titled "[Don’t study data science as a career mov
 
 Meanwhile, here's a nice Venn diagram for you :-)
 
-![]({{ site.baseurl }}/assets/img/2023/04/image.png)
+![]({{ site.baseurl }}/assets/img/2023/04/image.png){:width="1024"}

@@ -15,7 +15,6 @@ Stephen Few is the author of (among others) "[Show Me The Numbers](http://www.pe
 
 > If Tableau wishes to call this research, then I must qualify it as bad research. It produced no reliable or useful findings. Rather than a research study, it would be more appropriate to call this “someone having fun with an eye tracker.”
 
-
 Reading merciless critique by knowledgeable experts is an excellent way to develop that "inner voice" that questions all your decisions and makes sure you don't make too many mistakes. Despite the fear to be fried, I really that some day I'll be able to know what Stephen Few things of my work.
 
 [<http://www.perceptualedge.com/blog/?p=2718>](http://www.perceptualedge.com/blog/?p=2718)

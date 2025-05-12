@@ -8,7 +8,7 @@ layout: "post"
 
 An interesting post by my former coworker, Yanir Seroussi.
 
-![](https://yanirseroussi.files.wordpress.com/2020/08/santa-counting.jpg?quality=80&strip=info&w=1600)
+![](https://yanirseroussi.files.wordpress.com/2020/08/santa-counting.jpg){:width="1600"}
 
 > Previously, I encouraged readers to test different approaches to bootstrapped confidence interval (CI) estimation. Such testing can done by relying on the definition of CIs: Given an infinite number of independent samples from the same population, we expect a ci_level CI to contain the population parameter in exactly ci_level percent of the samples. Therefore, we […]
 > 

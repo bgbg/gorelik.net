@@ -16,7 +16,6 @@ layout: "post"
 > 
 > Boris Gorelik
 
-
 This week, the majority of Automattic Data Division meets in person in Vienna. During one of the sessions I presented [my productivity method](https://gorelik.net/2018/02/20/the-best-productivity-system-i-know/) to my friends and coworkers.
 
 Presenting this method was a fun and enjoyable experience for me. I decided to try doing this again, in a more formal and structured way. If you know of a productivity-oriented meetups that might be interested in hearing me, let me know.

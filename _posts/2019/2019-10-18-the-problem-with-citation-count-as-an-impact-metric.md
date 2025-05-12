@@ -20,7 +20,6 @@ PROBLEM POINTED: citations don't really measure "actual" citations. Most of the 
 > 
 > In fact this author has cited [a certain] work in exactly the same way in several other papers which appear to be copies of each other for a total of 7 citations all of which are placed in dubious “papers”. I suppose one may call this sort of thing **hit and run citation**.
 
-
 via [A citation is not a citation is not a citation — Bits of DNA](https://liorpachter.wordpress.com/2017/01/18/a-citation-is-not-a-citation-is-not-a-citation/)
 
 I think that the biggest problem with citation counts is that it costs nothing to cite a paper. When you add a research (or a post, for that matter) to your reference list, you know that most probably nobody will check whether actually read it, that nobody will check whether you got that publication correctly and that nobody will   that the chances are super (SUUPER) low  nobody will check whether you conclusions are right. All it takes is to click a button.

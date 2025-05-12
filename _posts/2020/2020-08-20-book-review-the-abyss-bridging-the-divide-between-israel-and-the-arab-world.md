@@ -16,7 +16,7 @@ layout: "post"
 
 TL;DR If you are an Israeli and don't feel like learning the behind the scenes stories, skip it. Otherwise, I do recommend reading this book. I enjoyed it a lot 4.5/5
 
-[The Abyss: Bridging the Divide between Israel and the Arab World](https://www.amazon.com/Abyss-Bridging-Divide-between-Israel/dp/1442245476) went to print slightly after the outbreak of the "Arab Spring." The author, [Eli Avidar](https://en.wikipedia.org/wiki/Eli_Avidar), is a former Israeli intelligence officer and diplomat. Among other things, Eli Avidar served as the head of the Israeli diplomatic mission to Qatar in - Today, Eli Avidar is a Knesset member for the right-wing Yisrael Beiteinu party. Even though so many things have changed since the book was published, I didn't find any claim that Eli Avidar made, and that turned out to be wrong, nine years after the publication. 
+[The Abyss: Bridging the Divide between Israel and the Arab World](https://www.amazon.com/Abyss-Bridging-Divide-between-Israel/dp/1442245476) went to print slightly after the outbreak of the "Arab Spring." The author, [Eli Avidar](https://en.wikipedia.org/wiki/Eli_Avidar), is a former Israeli intelligence officer and diplomat. Among other things, Eli Avidar served as the head of the Israeli diplomatic mission to Qatar in 1999. Today, Eli Avidar is a Knesset member for the right-wing Yisrael Beiteinu party. Even though so many things have changed since the book was published, I didn't find any claim that Eli Avidar made, and that turned out to be wrong, nine years after the publication. 
 
 [![]({{ site.baseurl }}/assets/img/2020/08/image-6.png){:width="161"}](https://www.amazon.com/Abyss-Bridging-Divide-between-Israel/dp/1442245476)
 
@@ -26,6 +26,6 @@ On the other hand, The Abyss is an interesting storybook full of behind the scen
 
 Should you read the book? If you are an Israeli and don't feel like learning the behind the scenes stories, you may skip it. Otherwise, I do recommend reading this book. I don't know how accurate is Avidar's description of the Arab world, but his analysis of the Israeli behavior and attitude is very accurate. If you ever cough yourself wondering "What the fuck do the Israelis think?", this book might shed some light for you. That is why I write this review in English, despite my tendency to review Hebrew books in my Hebrew blog.
 
-![]({{ site.baseurl }}/assets/img/2020/08/image-7.png)
+![]({{ site.baseurl }}/assets/img/2020/08/image-7.png){:width="1024"}
 
 Fun fact. I finished reading this book on August the 13th. I closed the book, opened Twitter, and saw my feed FULL with news about the upcoming normalization treaty between Israel and UAE. 
