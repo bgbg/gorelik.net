@@ -26,7 +26,7 @@ Do I really need a degree in CS or statistics to be a pharmaceutical data scient
 
 I asked a lot of questions, sorry, but I have many :). You can reply when you have time. Thank you, and I loved your blog. I read and watched tons of things, but yours was the best suited for me because being a pharmacist, computational drug design, considering bioinformatics, it is all fits. By the way, I also considering cybersecurity (not working in a company but learning). I see that as a "martial arts of the future," maybe I am wrong, but a person should know it to protect him/her self. Thank you again :)
 
-Indeed, X's background sounds very much like mine.
+Indeed, X's background sounds very much like mine.  
 I'm not sure I have too much to add to what I already wrote here, in this blog. The only thing that I have to say is that in my biased opinion, a Ph.D. is something worth pursuing. The more time passes by, the more Ph.Ds there are, and the lack of a degree might be a problem in the future job market. On the other hand, there are many smart and rich people who claim that university degrees are a waste of time. Go figure :-)
 
 I hope that this helps.

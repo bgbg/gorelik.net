@@ -10,7 +10,7 @@ cover_image: "/assets/img/2019/01/screen-shot-2019-01-20-at-10.02.07.png"
 layout: "post"
 ---
 
-Do you sometimes Google for something only to find stuff written by yourself?
+Do you sometimes Google for something only to find stuff written by yourself?  
 I teach a course called "data-based decision making." While googling for examples of statistics misuse, I stumbled upon an interesting blog post that I wrote about one and a half years ago.
 
 The post is so good; I decided to post it again.

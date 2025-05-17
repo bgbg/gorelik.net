@@ -20,7 +20,7 @@ Let's begin.
 
 **Will Cray** 
 
-I’m hoping to start a career as a freelancer in the AI space after finishing my Master’s in CS with a focus in AI. I don’t, however, have any industry experience in AI or data science. Do you all think it’s feasible to start a freelancing career without any industry experience? If so, do you have any tips on how to do it successfully?
+I’m hoping to start a career as a freelancer in the AI space after finishing my Master’s in CS with a focus in AI. I don’t, however, have any industry experience in AI or data science. Do you all think it’s feasible to start a freelancing career without any industry experience? If so, do you have any tips on how to do it successfully?  
 [I worked for] two years at a major tech company, but I was a systems engineer. It was experience that isn’t necessarily relevant to what I want to work on as a freelancer.
 
 Let’s divide the response to Will’s questions into two parts that correspond to Slack’s two discussion threads.

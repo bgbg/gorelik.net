@@ -28,10 +28,10 @@ layout: "post"
 
 **More info**: [here](https://events.bizzabo.com/DataScienceSummit2018/agenda/speakers/264279).
 
-**Timeline**:
-1\. Theoretical introduction: three most common mistakes in data visualization (45 minutes)
-2\. Test case (LAB): Plotting several radically different time series on a single graph (45 minutes)
-3\. Test case (LAB): Bar chart as an effective alternative to a pie chart (45 minutes)
+**Timeline**:  
+1\. Theoretical introduction: three most common mistakes in data visualization (45 minutes)  
+2\. Test case (LAB): Plotting several radically different time series on a single graph (45 minutes)  
+3\. Test case (LAB): Bar chart as an effective alternative to a pie chart (45 minutes)  
 4\. Test case (LAB): Pie chart as an effective alternative to a bar chart (45 minutes)
 
 ## More words

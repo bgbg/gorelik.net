@@ -20,7 +20,7 @@ Robert Kosara is a Senior Research Scientist at Tableau Software (you should fol
 
 Last week, Robert published another paper with a pretty confident title ("Evidence for Area as the Primary Visual Cue in Pie Charts") and a very inconclusive conclusion
 
-> While this study suggests that the charts are read by area, itis not conclusive. In particular, the possibility of pie chart usersre-projecting the chart to read them cannot be ruled out. Furtherexperiments are therefore needed to zero in on the exact mechanismby which this common chart type is read.
+> While this study suggests that the charts are read by area, itis not conclusive. In particular, the possibility of pie chart usersre-projecting the chart to read them cannot be ruled out. Furtherexperiments are therefore needed to zero in on the exact mechanismby which this common chart type is read.  
 > 
 > Kosara. “Evidence for Area as the Primary Visual Cue in Pie Charts.” OSF, 17 Oct. 2019. Web.
 

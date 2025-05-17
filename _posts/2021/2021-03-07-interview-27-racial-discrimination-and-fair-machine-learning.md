@@ -22,9 +22,9 @@ But there is another aspect in Dr. Earl. His skin is brown. He was born to an Af
 
 **Links**
 
-* [charlesearl.blog/](http://charlesearl.blog/)
-* [Birth of Ghana](https://www.youtube.com/watch?v=057BmLQ9MfU)
-* [W. E. B. Du Bois’s Data Portraits: Visualizing Black America](https://g.co/kgs/fp8oau)
+* [charlesearl.blog/](http://charlesearl.blog/)  
+* [Birth of Ghana](https://www.youtube.com/watch?v=057BmLQ9MfU)  
+* [W. E. B. Du Bois’s Data Portraits: Visualizing Black America](https://g.co/kgs/fp8oau)  
 * [How 20th Century Camera Film Captured a Snapshot of American Bias](https://time.com/5871502/film-race-history/)
 
 If you know Hebrew, follow my podcast [Job Interview (Reayon Avoda)](http://he.gorelik.net/reayon/), and This [Week in the Middle East](http://anchor.fm/hashavua)

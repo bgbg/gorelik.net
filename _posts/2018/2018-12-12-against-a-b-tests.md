@@ -12,7 +12,7 @@ cover_image: "/assets/img/2018/12/featured_ab.png"
 layout: "post"
 ---
 
-> **Traditional A/B testsing rests on a fundamentally flawed premise. Most of the time, version A will be better for some subgroups, and version B will be better for others. Choosing either A or B is *inherently*inferior to choosing a targeted mix of A *and* B.**
+> **Traditional A/B testsing rests on a fundamentally flawed premise. Most of the time, version A will be better for some subgroups, and version B will be better for others. Choosing either A or B is *inherently*inferior to choosing a targeted mix of A *and* B.**  
 > 
 > Michael Kaminsky locallyoptimistic.com
 

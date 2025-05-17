@@ -15,18 +15,18 @@ In my work, the speed of code writing and reading is usually more important than
 
 Let's first construct a toy example
 
-[code lang="python"]
-N = 100
-x = np.random.randint(1, 5, N).astype(int)
-y = np.random.rand(N)
-d = pd.DataFrame(dict(x=x, y=y))
+[code lang="python"]  
+N = 100  
+x = np.random.randint(1, 5, N).astype(int)  
+y = np.random.rand(N)  
+d = pd.DataFrame(dict(x=x, y=y))  
 [/code]
 
 I'll use [%%timeit cell magic](http://ipython.readthedocs.io/en/stable/interactive/magics.html) which runs a Jupyter cell many times, and measures the time it takes to run the code.
 
 [code lang="python"]
 
-%%timeit
+%%timeit  
 d.groupby(
  'x'
  ).apply(
@@ -45,7 +45,7 @@ I suspected that head() was not the most efficient way to take the first lines. 
 
 [code lang="python"]
 
-%%timeit
+%%timeit  
 d.groupby(
  'x'
  ).apply(
@@ -60,7 +60,7 @@ A 10% improvement. Not bad but not excellent either. Then I realized that Pandas
 
 [code lang="python"]
 
-%%timeit
+%%timeit  
 d.groupby(
  'x'
  ).head(

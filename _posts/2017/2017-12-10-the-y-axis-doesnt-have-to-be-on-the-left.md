@@ -33,40 +33,40 @@ Now, today's price of XYZ stock is visible more clearly. Let's make the most imp
 
 There are two ways to obtain right-sided Y axis in matplotib. The first way uses a combination of
 
-[code language="python"]
+[code language="python"]  
 ax.yaxis.tick_right()
-ax.yaxis.set_label_position("right")
+ax.yaxis.set_label_position("right")  
 [/code]
 
 The second one creates a "twin X" axis and makes sure the first axis is invisible. It might seem that the first option is easier. However, when combined with seaborn's despine function, strange things happen. Thus, I perform the second option. Following is the code that I used to create the last version of the graph.
 
-[code language="python"]
+[code language="python"]  
 np.random.seed(123)
-days = np.arange(1, 31)
+days = np.arange(1, 31)  
 price = (np.random.randn(len(days)) * 0.1).cumsum() + 10
 
-fig = plt.figure(figsize=(10, 5))
-ax = fig.gca()
-ax.set_yticks([]) # Make 1st axis ticks disapear.
-ax2 = ax.twinx() # Create a secondary axis
-ax2.plot(days,price, '-', lw=3)
-ax2.set_xlim(1, max(days))
-sns.despine(ax=ax, left=True) # Remove 1st axis spines
-sns.despine(ax=ax2, left=True, right=False)
-tks = [min(price), max(price), price[-1]]
+fig = plt.figure(figsize=(10, 5))  
+ax = fig.gca()  
+ax.set_yticks([]) # Make 1st axis ticks disapear.  
+ax2 = ax.twinx() # Create a secondary axis  
+ax2.plot(days,price, '-', lw=3)  
+ax2.set_xlim(1, max(days))  
+sns.despine(ax=ax, left=True) # Remove 1st axis spines  
+sns.despine(ax=ax2, left=True, right=False)  
+tks = [min(price), max(price), price[-1]]  
 ax2.set_yticks(tks)
-ax2.set_yticklabels([f'min:\n{tks[0]:.1f}', f'max:\n{tks[1]:.1f}', f'{tks[-1]:.1f}'])
-ax2.set_ylabel('price [$]', rotation=0, y=1.1, fontsize='x-large')
-ixmin = np.argmin(price); ixmax = np.argmax(price);
-ax2.set_xticks([1, days[ixmin], days[ixmax], max(days)])
-ax2.set_xticklabels(['Oct, 1',f'Oct, {days[ixmin]}', f'Oct, {days[ixmax]}', f'Oct, {max(days)}' ])
-ylm  = ax2.get_ylim()
-bottom = ylm[0]
+ax2.set_yticklabels([f'min:\n{tks[0]:.1f}', f'max:\n{tks[1]:.1f}', f'{tks[-1]:.1f}'])  
+ax2.set_ylabel('price [$]', rotation=0, y=1.1, fontsize='x-large')  
+ixmin = np.argmin(price); ixmax = np.argmax(price);  
+ax2.set_xticks([1, days[ixmin], days[ixmax], max(days)])  
+ax2.set_xticklabels(['Oct, 1',f'Oct, {days[ixmin]}', f'Oct, {days[ixmax]}', f'Oct, {max(days)}' ])  
+ylm  = ax2.get_ylim()  
+bottom = ylm[0]  
 for ix in [ixmin, ixmax]:
     y = price[ix]
     x = days[ix]
     ax2.plot([x, x], [bottom, y], '-', color='gray', lw=0.8)
-    ax2.plot([x, max(days)], [y, y], '-', color='gray', lw=0.8)
+    ax2.plot([x, max(days)], [y, y], '-', color='gray', lw=0.8)  
 ax2.set_ylim(ylm)
 [/code]
 

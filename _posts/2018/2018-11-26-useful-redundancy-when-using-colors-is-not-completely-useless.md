@@ -31,8 +31,8 @@ Aha! Can't they use a single color without losing the details? Of course the can
 
 In most of the cases, such a transformation would make a perfect sense. In most of the cases, but not in this report. This report is a multipage research document packed with many facts and analyses. The pie chart above is the first graph in that report that provides a broad overview of the Israeli society. The remaining of this report is dedicated to the relationships between and within the groups represented by the colorful segments in that pie chart. To help the reader navigating through this long report, its authors use a consistent color scheme that anchors every subsequent graph to the relevant sections of the original pie chart.
 
-* ![]({{ site.baseurl }}/assets/img/2018/11/screen-shot-2018-11-26-at-11-06-30.png){:width="656"}
-* ![]({{ site.baseurl }}/assets/img/2018/11/screen-shot-2018-11-26-at-11-07-44.png){:width="656"}
+* ![]({{ site.baseurl }}/assets/img/2018/11/screen-shot-2018-11-26-at-11-06-30.png){:width="656"}  
+* ![]({{ site.baseurl }}/assets/img/2018/11/screen-shot-2018-11-26-at-11-07-44.png){:width="656"}  
 * ![]({{ site.baseurl }}/assets/img/2018/11/screen-shot-2018-11-26-at-11-06-53.png)
 
 All these graphs and tables will be readable without the use of colors. Despite the fact that the colors here are redundant, this is a **useful redundancy**. By using the colors, the authors provided additional **information layers** that make the navigation within the document easier. I learned about the concept of useful redundancy from "[Trees, Maps, and Theorems](http://www.treesmapsandtheorems.com/)" by Jean-luc Dumout. If you can only read one book about data communication, it should be this book.

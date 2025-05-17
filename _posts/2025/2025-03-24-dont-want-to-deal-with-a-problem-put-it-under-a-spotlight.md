@@ -11,8 +11,8 @@ layout: "post"
 
 Two weeks ago, I published a research paper [Ethnic Divisions Within Unity: Insights into Intra-Group Segregation from Israel’s Ultra-Orthodox Society](https://www.mdpi.com/2076-0760/14/3/169). It is my first paper in so many aspects
 
-* First paper in a long while
-* first paper I authored by myself
+* First paper in a long while  
+* first paper I authored by myself  
 * first paper in social studies (I'm a former pharmacist, remember)
 
 ![]({{ site.baseurl }}/assets/img/2025/03/image-1.png){:width="1024"}{:class="alignleft"}{:style="width:182px;height:auto"}

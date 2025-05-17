@@ -28,13 +28,13 @@ However, there is a problem. Rotated text is read more slowly than standard hori
 
 So, how do we make sure all the labels are readable without rotating them? One option is to move them up and down so that they don't hinder each other. It is easily obtained with Python's matplotlib
 
-[code language="python"]
-plt.bar(range(len(people)), sales)
-plt.title('October sales')
-plt.ylabel('$US', rotation=0, ha='right')
-ticks_and_labels = plt.xticks(range(len(people)), people, rotation=0)
+[code language="python"]  
+plt.bar(range(len(people)), sales)  
+plt.title('October sales')  
+plt.ylabel('$US', rotation=0, ha='right')  
+ticks_and_labels = plt.xticks(range(len(people)), people, rotation=0)  
 for i, label in enumerate(ticks_and_labels[1]):
-    label.set_y(label.get_position()[1] - (i % 2) * 0.05)
+    label.set_y(label.get_position()[1] - (i % 2) * 0.05)  
 [/code]
 
 (note, that I also rotated the Y axis label, for even more readability)

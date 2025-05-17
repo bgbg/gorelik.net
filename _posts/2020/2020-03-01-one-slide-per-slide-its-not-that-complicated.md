@@ -36,7 +36,7 @@ You can add some nice illustrations to connect the information and emotion.
 
 ## Making it more technical 
 
-"Yo!", I can hear you saying, "Motivational slides are one thing, and technical presentation is a completely different thing! Also," you continue, "We have things to do, we don't have time searching the net for cute pics". I hear you. So let me try improving a fairly technical slide, a slide that presents different types of machine learning.
+"Yo!", I can hear you saying, "Motivational slides are one thing, and technical presentation is a completely different thing! Also," you continue, "We have things to do, we don't have time searching the net for cute pics". I hear you. So let me try improving a fairly technical slide, a slide that presents different types of machine learning.  
 Does slide like this look familiar to you?
 
 ![]({{ site.baseurl }}/assets/img/2020/12/image-1.png){:width="1024"}

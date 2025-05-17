@@ -22,7 +22,7 @@ The graph presents the gap between the men and the women in the Israeli job mark
 
 The time-series line in the upper right part of the graph shows good use of the real estate. The problem is that the X-axis ticks (the years) look as if they belong to the chart below. It takes some time to realize that the numbers are years of the upper graph, and not the X-axis of the graph below. Moving the numbers upwards by several pixels would have fixed that.
 
-![]({{ site.baseurl }}/assets/img/2020/06/image-8.png){:width="1024"}*Now, it is more clear that "1990" and "2018" relate to the time-series graph above.
+![]({{ site.baseurl }}/assets/img/2020/06/image-8.png){:width="1024"}*Now, it is more clear that "1990" and "2018" relate to the time-series graph above.  
 Before (left) and after (right). *
 
 Let's talk about the left-side bar chart. It took me a while to understand what it is. As a matter of fact, I managed to write a critique paragraph about that bar chart, how it is unclear what the percentages are, and how they were computed. Only then had I noticed the explanation below. Such confusion isn't the viewer's fault. Since we usually scan images from top to bottom, moving the title to the top of the chart will reduce this confusion. The word "percent" is also redundant in that title since it comes after the percent sign.

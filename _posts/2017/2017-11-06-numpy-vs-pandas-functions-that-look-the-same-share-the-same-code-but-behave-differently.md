@@ -66,12 +66,12 @@ Formally, the pandas developers did nothing wrong. They decided that it makes se
 To sum up:
 
 > 
->   > s.std()
->   nan
->   >> v.std()
->   0.0
->   >> s == v
->   0 True
+>   > s.std()  
+>   nan  
+>   >> v.std()  
+>   0.0  
+>   >> s == v  
+>   0 True  
 >   dtype: bool
 
  

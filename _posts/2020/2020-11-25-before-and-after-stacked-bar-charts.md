@@ -16,7 +16,7 @@ A fellow data analyst asked a question? What do we do when we need to draw a sta
 
 ![]({{ site.baseurl }}/assets/img/2020/11/image-9.png){:width="1024"}
 
-So, how do we select colors?
+So, how do we select colors?  
 The answer to this question is pretty complicated. To have a set of easily distinguishable colors, one needs to model the color perception in a typical human being properly. Luckily, a tool called [I Want Hue](https://medialab.github.io/iwanthue/) that's based on a solid theory explained [here](https://medialab.github.io/iwanthue/theory/). The problem, however, isn't in colors.
 
 ## This is not the right question

@@ -20,8 +20,8 @@ The main "selling point" of this book is that it answers the question, "how do t
 
 Interesting takeaways and highlights
 
-* Of the problem that our Universe is unlikely to be created by chance: "Although the creation of Universe is very unlikely, nobody knows about failed attempts."
-* The Universe is unlimited but finite (think of a circle)
+* Of the problem that our Universe is unlikely to be created by chance: "Although the creation of Universe is very unlikely, nobody knows about failed attempts."  
+* The Universe is unlimited but finite (think of a circle)  
 * Developments in chemistry were the driving force of the industrial revolution. Nevertheless, chemistry wasn't recognized as a scientific field in its own for several decades
 
 The bottom line: Read if you have time 3.5/5. 

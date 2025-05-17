@@ -20,10 +20,10 @@ Even before finishing the first chapter of this book, I realized that I wanted t
 
 So, what is Personal Kanban anyhow? Kanban is a productivity approach that puts all the tasks in front of a person on a whiteboard. Usually, Kanban boards are physical boards with post-it notes, but software Kanban boards are also widely known (Trello is one of them). Following are the claims that Jim Benson makes in his book that resonated with me
 
-* Many productivity approaches view personal and professional life separately. The reality is that these two aspects of our lives are not separate at all. Therefore, a productivity method needs to combine them.
+* Many productivity approaches view personal and professional life separately. The reality is that these two aspects of our lives are not separate at all. Therefore, a productivity method needs to combine them.  
 * Having all the critical tasks in front of your eyes helps to get the global picture. It also helps to group the tasks according to their contexts. 
-* The act of moving notes from one place to another gives valuable tangible feedback. This feedback has many psychological benefits.
-* One should limit the number of work-in-progress tasks.
+* The act of moving notes from one place to another gives valuable tangible feedback. This feedback has many psychological benefits.  
+* One should limit the number of work-in-progress tasks.  
 * There are three different types of "productivity." You are Productive when you work hard. You are Efficient when your work is actually getting done. Finally, you are Effective when you do the right job at the right time, and can repeat this process if needed. 
 
 I'm a long user of a productivity method that I adopted from [Mark Forster](http://markforster.squarespace.com/). You may read about my process [here](https://gorelik.net/2018/02/20/the-best-productivity-system-i-know/). Having read Personal Kanban, I decided to combine it with my approach. According to the plan, I have more significant tasks on my Kanban board, which I use to make daily, weekly, and long-term plans. For the day-to-day (and hour-to-hour) taks, I still use my notebooks. 

@@ -25,5 +25,5 @@ Now, having some vacation is nice, but this month is absolutely crazy. There is 
 
 So, next time you wonder why your Israeli colleague, customer or partner barely works during September-October, recall this post.
 
-(*) New Year starts in the seventh's month? I know this is confusing. That's because we number Nissan -- the month of the Exodus from Egypt as the first month.
+(*) New Year starts in the seventh's month? I know this is confusing. That's because we number Nissan -- the month of the Exodus from Egypt as the first month.  
 (**)If you are an observing Jew, you should add to this list Fast of Gedalia, but we will omit it from this discussion

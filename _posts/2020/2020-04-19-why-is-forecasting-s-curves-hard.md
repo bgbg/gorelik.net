@@ -25,6 +25,6 @@ The matter of fact is that this phenomenon is not new at all. My first post-Univ
 
 ![](https://constancecrozier.files.wordpress.com/2020/04/smart_phones.png){:width="1600"}
 
-> S-curves (or sigmoid functions) are commonly used to model the evolution of social or biological systems over time [1]. These functions start with exponential growth, then increase linearly, and finally level off (therefore end up looking like a wonky s). Many things that we think of as exponential functions will actually follow an s-curve (otherwise […]
+> S-curves (or sigmoid functions) are commonly used to model the evolution of social or biological systems over time [1]. These functions start with exponential growth, then increase linearly, and finally level off (therefore end up looking like a wonky s). Many things that we think of as exponential functions will actually follow an s-curve (otherwise […]  
 > 
 > [Forecasting s-curves is hard — Constance Crozier](http://constancecrozier.com/2020/04/16/forecasting-s-curves-is-hard/)

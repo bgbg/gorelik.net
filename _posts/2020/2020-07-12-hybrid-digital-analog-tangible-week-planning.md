@@ -28,9 +28,9 @@ After I'm done, I copy each post-it note into my calendar. Thanks to the integra
 
 To sum up:
 
-* Global week overview - check
-* Prioritization and honesty - check.
-* Fun playing with sticky notes - check.
+* Global week overview - check  
+* Prioritization and honesty - check.  
+* Fun playing with sticky notes - check.  
 * Work gets done - (I wish!).
 
 Oh, did you notice the appointments between 5 and 6 am? This is my sports activity. Sometimes working out charges me for the entire day. Sometimes, all I want to do for the entire day is to have a nap :-)

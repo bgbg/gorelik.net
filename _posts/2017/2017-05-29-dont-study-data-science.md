@@ -18,8 +18,8 @@ layout: "post"
 
 No, this account wasn't hacked. I really think that studying data science to advance your career is wasting your time. Briefly, my thesis is as follows:
 
-* Data science is a term coined to bridge between problems and experts.
-* The current shortage of data scientists will go away, as more and more general purpose tools are developed.
+* Data science is a term coined to bridge between problems and experts.  
+* The current shortage of data scientists will go away, as more and more general purpose tools are developed.  
 * When this happens, you'd better be an expert in the underlying domain, or in the research methods. The many programs that exist today are too shallow to provide any of these.
 
 To explain myself, let me start from a Quora [answer that I wrote a year ago](https://www.quora.com/I-am-a-pharmacist-I-am-interested-in-becoming-a-data-scientist-My-interests-are-pharmacoeconomics-and-other-areas-of-health-economics-What-do-I-need-to-study-to-become-a-data-scientist/answer/Boris-Gorelik). The original question was:

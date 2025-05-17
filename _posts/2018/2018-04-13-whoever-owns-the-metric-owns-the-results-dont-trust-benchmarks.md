@@ -17,7 +17,7 @@ This is why I was very surprised when a colleague of mine suggested switching to
 
 In that benchmark, the authors compute prime numbers using the following Python code
 
-[code lang="python"]
+[code lang="python"]  
 def get_primes7(n):
 	"""
 	standard optimized sieve algorithm to get a list of prime numbers
@@ -49,14 +49,14 @@ def get_primes7(n):
             k=3*i+1|1
             sieve[      ((k*k)//3)      ::2*k] = False
             sieve[(k*k+4*k-2*k*(i&1))//3::2*k] = False
-    return np.r_[2,3,((3*np.nonzero(sieve)[0]+1)|1)]
+    return np.r_[2,3,((3*np.nonzero(sieve)[0]+1)|1)]  
 [/code]
 
 Did you notice the problem? The code above is a pure Python code. I can't think of a good reason to use pure python code for computationally-intensive, time-sensitive tasks. When you need to crunch numbers with Python, and when the computational time is even remotely important, you will most certainly use tools that were specifically optimized for such tasks. One of the most important such tools is [numpy](http://www.numpy.org/), in which the most important loops are implemented in C++ or in Fortran. Many other packages, such as Pandas, scipy, sklearn, and others rely on numpy or other form of speed optimization.
 
 The following snippet uses numpy to perform the same computation as the first one.
 
-[code lang="python"]
+[code lang="python"]  
 def numpy_primes(n):
     # <http://stackoverflow.com/questions/2068372/fastest-way-to-list-all-primes-below-n-in-python/3035188#3035188>
     """ Input n>=6, Returns a array of primes, 2 <= p <span id="mce_SELREST_start" style="overflow:hidden;line-height:0;"></span>< n """
@@ -67,12 +67,12 @@ def numpy_primes(n):
             k=3*i+1|1
             sieve[      ((k*k)//3)      ::2*k] = False
             sieve[(k*k+4*k-2*k*(i&1))//3::2*k] = False
-    return np.r_[2,3,((3*np.nonzero(sieve)[0]+1)|1)]
+    return np.r_[2,3,((3*np.nonzero(sieve)[0]+1)|1)]  
 [/code]
 
 On my computer, the timings to generate primes smaller than 10,000,000 is 1.97 seconds for the pure Python implementation, and 21.4 milliseconds for the Numpy version. The numpy version is 92 times faster!
 
-**What does that mean? **
+**What does that mean? **  
 Whoever owns the metric owns the results. Never trust a benchmark result before you understand how the benchmark was performed, and before making sure the benchmark was performed under the conditions that are relevant to you and your problem.
 
  

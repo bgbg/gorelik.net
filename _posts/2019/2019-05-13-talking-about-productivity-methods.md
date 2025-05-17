@@ -12,7 +12,7 @@ tags:
 layout: "post"
 ---
 
-> The best way to procrastinate is to research productivity.
+> The best way to procrastinate is to research productivity.  
 > 
 > Boris Gorelik
 

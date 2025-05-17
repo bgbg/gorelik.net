@@ -22,7 +22,7 @@ Ben Horowitz is a veteran manager and entrepreneur who found the company Opsware
 
 ## Things that I liked
 
-The behind the scenes stories are interesting and inspiring.
+The behind the scenes stories are interesting and inspiring.  
 Ben Horowitz devoted the second part of the book to share his experience as a CEO with other actual or aspiring CEOs. I don't work as a CEO, nor do I see myself in that position in the future. However, this part is valuable for people like me because it provides insights into how CEOs think. Moreover, "The Hard Things" is a popular book, and many managers learn from it.
 
 ## Things that I didn't like.

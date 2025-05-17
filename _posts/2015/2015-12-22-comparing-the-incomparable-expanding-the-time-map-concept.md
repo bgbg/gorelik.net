@@ -16,7 +16,7 @@ We are surrounded by discrete events: posts and comments, purchases from the onl
 
 ![timemaps_fig01]({{ site.baseurl }}/assets/img/2015/12/timemaps_fig01.png){:width="888"}{:class="alignnone"}
 
-But what happens if there are too many such events? How do we gain a global overview? Recently, I have learned about “Time maps” — a creative way to perform such a visualization, which I will describe below using examples from WordPress.com. I will expand this approach to accommodate for bringing cases with drastically different time scales to the same domain, for easier comparison and pattern discovery.
+But what happens if there are too many such events? How do we gain a global overview? Recently, I have learned about “Time maps” — a creative way to perform such a visualization, which I will describe below using examples from WordPress.com. I will expand this approach to accommodate for bringing cases with drastically different time scales to the same domain, for easier comparison and pattern discovery.  
 ## Time maps
 
 Instead of plotting the absolute time values, or time differences, Max Watson from [District Data Labs](https://districtdatalabs.silvrback.com/) [suggests](https://districtdatalabs.silvrback.com/time-maps-visualizing-discrete-events-across-many-timescales) representing each data point in two dimensions — in terms of time passed *before* and *after* the events. Thus, all the data points from case A in the figure above will be represented by the pairs $latex (1; 1)$ as all of them occur at regular intervals of 1 second. Most of the dots in case B from the same figure will be represented by the same pair, $latex (1; 1)$. However, the pause between the event at time marks 3 and 6 seconds and not 1. Thus, the third point will be represented by $latex (1; 3)$ and the fourth one — by $latex (3; 1)$. Following are the time maps for the three toy cases from the figure above:
@@ -35,7 +35,7 @@ Time map of another busy site, with its 6511 posting events, shows a slightly di
 
 ![timemaps_fig04]({{ site.baseurl }}/assets/img/2015/12/timemaps_fig04.png){:width="888"}{:class="alignnone"}
 
-In this news site, most of the events occurred at one-minute intervals. The typical service break in this site is either one or two days long, as represented by the two distinct strips.
+In this news site, most of the events occurred at one-minute intervals. The typical service break in this site is either one or two days long, as represented by the two distinct strips.  
 Using the time map approach is relatively easy to identify bots. For example, the owners of the following site have uploaded more than 1,000 posts such that most of them were published at a one-minute interval — a pattern that is unlikely to be performed by a human.
 
 ![timemaps_fig05]({{ site.baseurl }}/assets/img/2015/12/timemaps_fig05.png){:width="888"}{:class="alignnone"}
@@ -44,7 +44,7 @@ What about smaller blogs? This Norwegian blogger posted less than 150 posts with
 
 ![timemaps_fig06]({{ site.baseurl }}/assets/img/2015/12/timemaps_fig06.png){:width="888"}{:class="alignnone"}
 
-I have analyzed time maps of different administrative tasks performed by  several random WordPress.com users.
+I have analyzed time maps of different administrative tasks performed by  several random WordPress.com users.  
 This user, for example, is a moderately active blogger with a single blog. Their time map is characteristic of sporadic events with intervals of several seconds to one day. We may see that this user is very disciplined and does not leave the blog for more than a day.
 
 ![timemaps_fig07]({{ site.baseurl }}/assets/img/2015/12/timemaps_fig07.png){:width="444"}{:class="alignnone"}
@@ -66,7 +66,7 @@ Let us now examine the normalised time maps of the two users mentioned above:
 
 ![timemaps_fig10]({{ site.baseurl }}/assets/img/2015/12/timemaps_fig10.png){:width="888"}{:class="alignnone"}
 
-One interesting thing to note is the fact that the lower-left region in the second user’s graph is now significantly enlarged because it contains a much larger amount of data points. As with the case of the blog time maps, the approximately round shape of the first user’s time map indicates that the variability of the between-event interval is comparable in its size to the interval. Note, though, that when observing first user’s raw map, it was clear that that user’s events mostly occur not faster than once a second, and that there the maximal interval is never larger than one day. Such a notion, which may be valuable in many cases, is absent from the normalised graph.
+One interesting thing to note is the fact that the lower-left region in the second user’s graph is now significantly enlarged because it contains a much larger amount of data points. As with the case of the blog time maps, the approximately round shape of the first user’s time map indicates that the variability of the between-event interval is comparable in its size to the interval. Note, though, that when observing first user’s raw map, it was clear that that user’s events mostly occur not faster than once a second, and that there the maximal interval is never larger than one day. Such a notion, which may be valuable in many cases, is absent from the normalised graph.  
 ## Conclusions
 
 Time maps, as developed by Max Watson from [District Data Labs](https://districtdatalabs.silvrback.com/) provide a valuable insight in the analysis of event streams. It is evident that these maps reveal interesting activity patterns. Analysis of such patterns may be used in spam and fraud detection.

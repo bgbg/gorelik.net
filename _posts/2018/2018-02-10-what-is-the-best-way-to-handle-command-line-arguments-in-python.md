@@ -25,7 +25,7 @@ def main(greeting, *, count=1):
         print(greeting)
 
 if __name__ == '__main__':
-    defopt.run(main)
+    defopt.run(main)  
 [/code]
 
  

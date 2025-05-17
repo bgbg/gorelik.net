@@ -35,9 +35,9 @@ Pass post-it notes to your learners.
 
 Next, start with preventive amnesty, followed by mandatory questions, followed by another portion of preventive amnesty. This is what I say to my learners.
 
-> [Preventive amnesty] Criticising isn't easy. We all tend to see criticism as an attack and to react accordingly. Nobody likes to be attacked, and nobody likes to attack. I **know** that you mean well. I **know** that you don't want to attack me. However, I need to improve.
+> [Preventive amnesty] Criticising isn't easy. We all tend to see criticism as an attack and to react accordingly. Nobody likes to be attacked, and nobody likes to attack. I **know** that you mean well. I **know** that you don't want to attack me. However, I need to improve.  
 > 
-> [Mandatory question] Please, write at least two things you would improve about this lecture/class. You cannot pass on this task. You are not allowed to say "everything is OK". You will not leave this room unless you handle me a post-it with two things you liked the less about this class/lecture.
+> [Mandatory question] Please, write at least two things you would improve about this lecture/class. You cannot pass on this task. You are not allowed to say "everything is OK". You will not leave this room unless you handle me a post-it with two things you liked the less about this class/lecture.  
 > 
 > [Preventive amnesty] I promise that I know that you mean good. You are not attacking me, you are giving me a chance to improve.
 

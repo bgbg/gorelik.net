@@ -12,8 +12,8 @@ layout: "post"
 
 From time to time, I get emails from people who seek advice in their career paths. If I have time, I write them an extended reply and if they agree, I publish the questions and my replies here, in my blog. Here’s one such email exchange. All similar pieces of advice, as well as other rants about a career in data science, can be found [here](https://gorelik.net/category/career-advice/).
 
-"Hi Boris :)
-My name is XXXXX. I came across your blog while searching for people with a mix of pharmacy and data science skillsets. Your blog has been so informative to me so far but I was compelled to write to you to ask for your advice.
+"Hi Boris :)  
+My name is XXXXX. I came across your blog while searching for people with a mix of pharmacy and data science skillsets. Your blog has been so informative to me so far but I was compelled to write to you to ask for your advice.  
 I am a clinical pharmacist by background but decided to leave the clinical pharmacy to pursue public health. Whilst doing my MPH, I fell in love with epidemiology and statistics and am now doing a Ph.D. in biostatistics. Your blog has made me feel very happy that I made this career move <...>  I feel better about my decision to leave the pharmacy and pursue a quant Ph.D. I have gone from pharmacy, to internships at <YYYY> as I wanted to pursue a career in <ZZZZZ> and now I am thinking of data science in the tech industry…my background is a bit confusing!"
 
 In the past, I also felt that the pharmacy degree was confusing many potential employers, and since I wanted to leave the bio/pharma world and move to "pure data" positions, I omitted the B.Pharm title & studies from my CV. Ten years ago, the salaries in the bio sector, here in Israel, were much lower than the salaries in the "high tech" field. I think that today this situation is more or less normalized and that the people got used to the fact that a typical "data scientist" can have a very wide range of degrees.

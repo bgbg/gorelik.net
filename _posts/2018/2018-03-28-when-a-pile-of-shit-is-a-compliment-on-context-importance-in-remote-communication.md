@@ -33,5 +33,5 @@ Understandably, the majority of the data community at Automattic became involved
 
 ## The lesson
 
-This bullshit story is not the only example of something said about me (if you can call an emoji "saying") that sounded very bad to the unknowing person, but was in fact very correct and positive. I have a couple of more examples that may be even funnier than this one but require more elaborate and boring explanations.
+This bullshit story is not the only example of something said about me (if you can call an emoji "saying") that sounded very bad to the unknowing person, but was in fact very correct and positive. I have a couple of more examples that may be even funnier than this one but require more elaborate and boring explanations.  
 However, the lesson is clear. Next time you hear someone saying something unflattering about someone else, don't jump to conclusions. Think about bullshit, and assume the best intentions.

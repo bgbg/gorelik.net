@@ -43,7 +43,7 @@ Since I already have pretty good texts for the first two lectures, I might be ab
 
 It certainly was! During the preparations, I learned a lot. I learned new things about data visualization. I took a glimpse into the world of video production. I had a chance to restructure several of my presentations.
 
-<small>
+<small>  
 <span style="color:#999999;">Featured image for this post by <a href="https://www.flickr.com/photos/nnova/">Nicolas Nova</a> under the CC-by license.</span></small>
 
  

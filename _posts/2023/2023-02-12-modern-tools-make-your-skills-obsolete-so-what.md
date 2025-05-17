@@ -19,11 +19,11 @@ So many people, including me, write about how fields such as copywriting, drawin
 
 I started working as a data scientist a long time ago, even before the term data science was coined. Back then, my data science job included:
 
-* writing code that implements this optimization algorithm or the other
-* writing code that implements this statistical analysis or the other
-* writing code that implements this machine learning technique of the other
-* writing code that implements this quality metric or the other
-* writing code that handles named columns
+* writing code that implements this optimization algorithm or the other  
+* writing code that implements this statistical analysis or the other  
+* writing code that implements this machine learning technique of the other  
+* writing code that implements this quality metric or the other  
+* writing code that handles named columns  
 * writing code that deals with parallelization, caching, fetching data from the internet
 
 Back then, exactly when the term data scientist was coined, I used to say "data is data". I claimed that it didn't matter whether you write a model that detects cancer or detects online fraud, a model that simulates two molecules in a solution or a model that simulates players in the electric appliances market. Data was data, and my job, as a data scientist was to crunch it.
@@ -41,7 +41,7 @@ In 2017, Gartner predicted that more than 40% of data science tasks would be obs
 Let me cite [myself from 2017](https://gorelik.net/2017/10/25/gartner-more-than-40-of-data-science-tasks-will-be-automated-by-2020-so-what/):
 
 > 
-> Data scientists won’t disappear as an occupation. They will be more specialized.
+> Data scientists won’t disappear as an occupation. They will be more specialized.  
 > 
 > 
 > 

@@ -24,5 +24,5 @@ Katherine S. Rowell is a co-funder of a Boston firm that specializes in data vis
 
 ![]({{ site.baseurl }}/assets/img/2020/03/null-9.png)*[<http://ksrowell.com/blog-visualizing-data/2019/12/18/bar-humbug/>](http://ksrowell.com/blog-visualizing-data/2019/12/18/bar-humbug/)*
 
-In this example, Katherine draws the graph twice. The zoomed-out version shows the giraffes in all their glory, while the zoomed-in one gives the spotlight to the foxes, hyenas, and mice.
+In this example, Katherine draws the graph twice. The zoomed-out version shows the giraffes in all their glory, while the zoomed-in one gives the spotlight to the foxes, hyenas, and mice.  
 Also, note how these graphs respect the rules that every bar chart has to include the zero.

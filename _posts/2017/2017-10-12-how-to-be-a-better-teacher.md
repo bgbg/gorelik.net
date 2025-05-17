@@ -13,7 +13,7 @@ tags:
 layout: "post"
 ---
 
-If you know me in person or follow my blog, you know that I have a keen interest in teaching. Indeed, besides being a full-time data scientist at Automattic, I teach data visualization anywhere I can. Since I started teaching, I became much better in communication, which is one of the required skills of a good data scientist.
+If you know me in person or follow my blog, you know that I have a keen interest in teaching. Indeed, besides being a full-time data scientist at Automattic, I teach data visualization anywhere I can. Since I started teaching, I became much better in communication, which is one of the required skills of a good data scientist.  
 In my constant strive for improving what I do, I joined the Data Carpentry instructor training. Recently, I got my certification as a data carpentry instructor.
 
 ![Certificate of achievement. Data Carpentry instructor]({{ site.baseurl }}/assets/img/2017/10/certificate-of-achievement-data-carpentry.png){:width="1542"}{:class="alignnone"}

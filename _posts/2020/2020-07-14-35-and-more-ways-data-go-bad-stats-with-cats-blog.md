@@ -15,6 +15,6 @@ If you plan working data analysis or processing, read the excellent post in the 
 
 ![](https://statswithcats.files.wordpress.com/2020/07/error-cat-7.jpg){:width="1600"}
 
-> When you take your first statistics class, your professor will be a kind person who cares about your mental well-being. OK, maybe not, but what the professor won’t do is give you real-world data sets. The data may represent things you find in the real world but the data set will be free of errors. […]
+> When you take your first statistics class, your professor will be a kind person who cares about your mental well-being. OK, maybe not, but what the professor won’t do is give you real-world data sets. The data may represent things you find in the real world but the data set will be free of errors. […]  
 > 
 > [35 Ways Data Go Bad — Stats With Cats Blog](http://statswithcats.net/2020/07/11/35-ways-data-go-bad/)

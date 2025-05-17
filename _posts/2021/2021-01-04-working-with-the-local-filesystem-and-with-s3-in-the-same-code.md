@@ -41,21 +41,21 @@ As data people, we need to work with files: we use files to save and load data, 
     serializer.dump_json(data, 'data.json')
     serializer.dump_pickle(model, 'model.pkl')
 
-As simple as that.
+As simple as that.  
 The package provides the following functions.
 
-* path_exists
-* rm
-* rmtree
-* ls
-* load_pickle, dump_pickle
+* path_exists  
+* rm  
+* rmtree  
+* ls  
+* load_pickle, dump_pickle  
 * load_json, dump_json
 
 There is also a multipurpose `open` function that can open a file in read, write or append mode, and returns a handler to it.
 
 ## How to install? How to contribute?
 
-The installation is very simple: `pip install sshalosh-borisgorelik`
+The installation is very simple: `pip install sshalosh-borisgorelik`  
 and you're done. The code lives on GitHub under [<http://github.com/bgbg/shalosh>](http://github.com/bgbg/shalosh). You are welcome to contribute code, documentation, and bug reports.
 
 ## The name is strange, isn't it?

@@ -12,7 +12,7 @@ cover_image: "/assets/img/2020/04/image-3.png"
 layout: "post"
 ---
 
-Today, Israel marks Holocaust Day. Many words have been written about the Holocaust, and I want to write about missing graves.
+Today, Israel marks Holocaust Day. Many words have been written about the Holocaust, and I want to write about missing graves.  
 If you visit a Jewish cemetery, you might see a lot of gravestones with additional memorial plates.
 
 ![]({{ site.baseurl }}/assets/img/2020/04/image-3.png){:width="1024"}

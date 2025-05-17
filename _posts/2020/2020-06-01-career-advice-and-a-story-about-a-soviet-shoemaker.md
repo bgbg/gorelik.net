@@ -19,10 +19,10 @@ Common wisdom says, "It is very hard to predict, especially the future." And I w
 
 Anyhow, this is a letter that I got from another pharmacist looking for a data science career.
 
-Hope you are doing well. I saw your posts on Quora and thought of asking a doubt.
+Hope you are doing well. I saw your posts on Quora and thought of asking a doubt.  
 First let me tell my background. I am from India, I completed my Doctor of Pharmacy program (Pharm D). I am familiar with computer programming. I have intermediate knowledge in python and R programming.  So I thought taking up Bioinformatics and computational biology Masters program so that I can connect Pharma industry and my knowledge in computer science. 
 What do you think? 
-I have applied to University XYZ and got offer letter. I have to take a decision within 2 weeks.
+I have applied to University XYZ and got offer letter. I have to take a decision within 2 weeks.  
 Please let me know your thoughts on this.
 
 To which I replied

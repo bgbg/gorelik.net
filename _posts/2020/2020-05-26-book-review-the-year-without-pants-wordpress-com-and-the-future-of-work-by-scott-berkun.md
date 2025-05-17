@@ -17,7 +17,7 @@ layout: "post"
 
 TL;DR Interesting "history of work" book (definitely not "future of work") with insights on transition-state organizations. Read it if history of work is your thing, or if you work in a small company that grows rapidly. 4.5/5 (due to the personal connection)
 
-[![]({{ site.baseurl }}/assets/img/2020/05/51gjtknglul._sx334_bo1204203200_.jpg){:width="125"}](https://scottberkun.com/yearwithoutpants/)
+[![]({{ site.baseurl }}/assets/img/2020/05/51gjtknglul._sx334_bo1204203200_.jpg){:width="125"}](https://scottberkun.com/yearwithoutpants/)  
 **
 
 I got [The Year Without Pants](https://scottberkun.com/yearwithoutpants/) in 2014 as an onboarding present when I joined Automattic. The author, Scott Berkun, used to work as a manager at Microsoft (and maybe more places) before he quit and became a career of an adviser and an author. In 2011, the Automattic founder brought Scott to work at the company. About seventy people were working in the company back then and the company was growing rapidly. Automattic has just introduced a concept of teams, and the idea was that Scott will work as a team leader, consulting the management on how to deal with the transition.

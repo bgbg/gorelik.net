@@ -20,8 +20,4 @@ layout: "post"
 
 In June 2019, I attended the NDR AI conference in Iași, Romania where I also gave a talk. Recently, the organizers uploaded the video recording to YouTube.
 
-<https://www.youtube.com/watch?v=SJQP5txgwlI>
-
-That was a very interesting conference, tight with interesting talks.
-
-Next year, I plan to attend the Bucharest edition of NDR, where I will also give a talk with the working title "The biggest missed opportunity in data visualization"
+<iframe width="16" height="9" src="https://www.youtube.com/embed/SJQP5txgwlI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

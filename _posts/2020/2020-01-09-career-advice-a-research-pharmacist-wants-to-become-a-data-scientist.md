@@ -23,7 +23,7 @@ Hi Boris,
 
 My name is XXXXX, and I came across your information and your advice on data science as I was researching career opportunities.
 
-I currently work at a hospital as a research pharmacist, mainly involved in managing drugs for clinical trials.
+I currently work at a hospital as a research pharmacist, mainly involved in managing drugs for clinical trials.  
 Initially, I wanted to become a clinical pharmacist and pursued 1-year post-graduate residency training. However, it was not something I could envision myself enjoying for the rest of my career.
 
 I then turned towards obtaining a Ph.D. in translational research, bridging the benchwork research to the bedside so that I could be at the forefront of clinical trial development and benefit patients from the rigorous stages of pre-clinical research outcomes. I much appreciate learning all the meticulous work dedicated before the development of Phase I clinical trials. However, Ph.D. in pharmaceutical sciences was overkill for what I wanted to achieve in my career (in my opinion), and I ended up completing with master's in pharmaceutical sciences.
@@ -36,8 +36,8 @@ My main job description is not any different from typical hospital pharmacists. 
 
 First of all, thank you for asking me. I'm genuinely flattered. I assume that you found me through my blog posts, and if not, I suggest that you read at least the following posts
 
-* "[Don't study data science as a career move](https://gorelik.net/2017/05/29/dont-study-data-science/)" --  the most read post on my blog
-* "[What you need to know to start a career as a data scientist](https://gorelik.net/2017/10/11/what-you-need-to-know-to-start-a-career-as-a-data-scientist/)"
+* "[Don't study data science as a career move](https://gorelik.net/2017/05/29/dont-study-data-science/)" --  the most read post on my blog  
+* "[What you need to know to start a career as a data scientist](https://gorelik.net/2017/10/11/what-you-need-to-know-to-start-a-career-as-a-data-scientist/)"  
 * "[Staying employable as a data scientist](https://gorelik.net/2019/12/23/staying-employable-and-relevant-as-a-data-scientist/)"
 
 All my thoughts on the career path of a data scientist appear in this page [<https://gorelik.net/category/career-advice/>](https://gorelik.net/category/career-advice/)

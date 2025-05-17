@@ -32,7 +32,7 @@ On the other hand, Otto Köhler, a German psychologist, has found in 1926 that t
 
 ### The connected world of WordPress.com bloggers
 
-Which of the two competing theories is more applicable towards the world of bloggers? To shed some light on this question, we studied the blogging patterns of WordPress.com users. WordPress.com is a platform that hosts more than 110,000,000 sites that belong to more than 102,000,000 registered users. To better understand the implications of social interactions on blogging activities, we analyze the links between WP.com users and blogs.
+Which of the two competing theories is more applicable towards the world of bloggers? To shed some light on this question, we studied the blogging patterns of WordPress.com users. WordPress.com is a platform that hosts more than 110,000,000 sites that belong to more than 102,000,000 registered users. To better understand the implications of social interactions on blogging activities, we analyze the links between WP.com users and blogs.  
 This analysis results in a mathematical structure called ‘graph’ that contains different types of interactions among various kinds of entities.
 
 ![halved_01]({{ site.baseurl }}/assets/img/2016/03/halved_01.png){:width="730"}{:class="alignnone"}
@@ -51,35 +51,35 @@ For the sake of our discussion, let’s assume that Alice writes posts in anothe
 
 We want to know how collaboration affects authors’ persistence. In other words: does the number of collaborators an author has have an impact on the probability that that author will keep blogging for a longer time. In this toy example, Alice has three collaborators (Bob, Daphne and Eve), Daphne and Eve have both two collaborators; Bob has only one collaborator (Alice), and Charlie has no collaborators at all. In order not to upset writers who write alone, we will consider a person a partner of him- or her- selves. Thus, for the purpose of our analysis, Alice has four collaborators (including herself), Daphne and Eve have three, and Bob has two collaborators.
 
-<table>
+<table>  
 <thead>
 <tr>
   <th>Author</th>
-  <th># of collaborators</th>
+  <th># of collaborators</th>  
 </tr>
-</thead>
+</thead>  
 <tbody>
 <tr>
   <td>Alice</td>
-  <td>4</td>
+  <td>4</td>  
 </tr>
 <tr>
   <td>Bob</td>
-  <td>2</td>
+  <td>2</td>  
 </tr>
 <tr>
   <td>Charlie</td>
-  <td>1</td>
+  <td>1</td>  
 </tr>
 <tr>
   <td>Daphne</td>
-  <td>3</td>
+  <td>3</td>  
 </tr>
 <tr>
   <td>Eve</td>
-  <td>3</td>
+  <td>3</td>  
 </tr>
-</tbody>
+</tbody>  
 </table>
 
 What we see here is a small example. In reality, WordPress.com users form a large complex network of people and blogs. Since the connections between the nodes in this network can appear and disappear, this network is in constant change. One of the interesting things that we can do with this kind of dynamic systems is to discover user communities. I have already presented one such an analysis in the past (see [this presentation](https://www.youtube.com/watch?v=5OfLTddasAA)) and will certainly show more of it in the future. Meanwhile, note that blogs don’t exist in a vacuum. Most of the time, people who write don’t write for themselves, they seek an audience. Writing inside a large platform of many interconnected communities brings the author closer to such an audience and promotes discussion and exchange of ideas.
@@ -88,7 +88,7 @@ What we see here is a small example. In reality, WordPress.com users form a larg
 
 ### Collecting the data
 
-There are many types of communities in the online world. There are also many types of collaboration between people. Let us now concentrate on a very specific kind of community — a community of writers. In this analysis, we treat a blog or a website as a gathering point and all the writers in that website as the community members. We can tackle the question raised at the beginning of this post: what makes some bloggers keep blogging?
+There are many types of communities in the online world. There are also many types of collaboration between people. Let us now concentrate on a very specific kind of community — a community of writers. In this analysis, we treat a blog or a website as a gathering point and all the writers in that website as the community members. We can tackle the question raised at the beginning of this post: what makes some bloggers keep blogging?  
 To answer this question, we look at people who opened a WordPress.com account during the thirteen months from Jan 2013 and Feb 2014. WordPress.com is a home of large professional (VIP) customers such as NBC Sports, TED, CNN, Time and others (<https://vip.wordpress.com/clients/).> It would be unfair to include these professional writers in our analysis. Unfortunately, some people use WordPress.com for spamming, fraud and other non-legit activities; we have removed those people from the analysis. Many people open a WordPress.com account, write a test post and go away. We did not like to include such users in this study, so we only included those people who gave or received, at least, one “like”, as a substitute for a minimal level of quality and commitment. Last but not least, we excluded the 400+ Automattic employees and contractors from the analysis. In Automattic, we use WordPress.com for internal communication purposes and are a clear outlier in any analysis.
 
 When we look at monthly snapshots of the dynamic networks mentioned above, we collect various descriptive statistics about the users who registered two to three months before the snapshot. We believe that this period is long enough for novice users to accommodate with the platform and to gain some popularity and social ties. Next, we look at the monthly snapshot made one year later and check whether a current user appears in the network as a contributor to at least one blog or not. We consider the users who appear in this graph as survivors. For the purpose of this analysis, we completely ignore what happens during the entire year — between the two snapshots.
@@ -113,7 +113,7 @@ Can this graph help an aspiring blogger? Not directly. It doesn’t surprise tha
 
  The more likes authors give, the higher is their probability to survive[/caption]
 
-Generally speaking, the more socially active the authors are, the more likely they are to keep blogging. It is interesting to note that there is such a thing as too much love: authors who pressed the “like” button more than 32 times during their first two to three months are less likely to survive, compared to the immediately preceding group.
+Generally speaking, the more socially active the authors are, the more likely they are to keep blogging. It is interesting to note that there is such a thing as too much love: authors who pressed the “like” button more than 32 times during their first two to three months are less likely to survive, compared to the immediately preceding group.  
 At first glance, one might take the two graphs above as a magic recipe for blogging success. Doing this will be a mistake. It is correct that we have found a correlation between the number of incoming and outgoing likes and the survival probability. This connection does not tell us which of the two sides of the association is the cause and which one is the result. This uncertainty, which is often called the correlation-causation question, is very hard to solve. However, based on my general knowledge of human psychology, I claim that social interactions are partially responsible for the high correlation that we see in the data.
 
 ### A problem shared is a problem halved
@@ -132,56 +132,56 @@ This discussion started with a description of two competing theories that try to
 
 Will Alice feel abused by Charlie and Bob and cease her collaboration with them? Is it possible that Charlie will feel insecure about his weak cooperation with Alice and Bob, and will only write to B2? We can record how unbalanced a user’s input is in a given blog. We will measure this type of inequality such that authors who contribute less than the average will receive negative values; authors who provide the average contribution will have inequality value of zero and authors who perform most of the job will have a positive inequality score. We compute this score for each person-blog connection, which means that people who contribute to several blogs will have several inequality scores.
 
-<table>
+<table>  
 <thead>
 <tr>
   <th>Blog</th>
   <th>Author</th>
   <th>Contribution</th>
-  <th>Inequality score</th>
+  <th>Inequality score</th>  
 </tr>
-</thead>
+</thead>  
 <tbody>
 <tr>
   <td>B1</td>
   <td>Alice</td>
   <td>10</td>
-  <td>1</td>
+  <td>1</td>  
 </tr>
 <tr>
   <td></td>
   <td>Bob</td>
   <td>5</td>
-  <td>0</td>
+  <td>0</td>  
 </tr>
 <tr>
   <td></td>
   <td>Charlie</td>
   <td>0.1</td>
-  <td>-6</td>
+  <td>-6</td>  
 </tr>
 <tr>
   <td>B2</td>
   <td>Charlie</td>
   <td>0.1</td>
-  <td>0</td>
+  <td>0</td>  
 </tr>
 <tr>
   <td></td>
   <td>Daphne</td>
   <td>0.1</td>
-  <td>0</td>
+  <td>0</td>  
 </tr>
 <tr>
   <td></td>
   <td>Eve</td>
   <td>0.1</td>
-  <td>0</td>
+  <td>0</td>  
 </tr>
-</tbody>
+</tbody>  
 </table>
 
-What is the probability of a given author to continue contributing to a particular blog, given how equal (or unequal) person’s contribution to this blog is. Note, that a user who contributes to several blogs may stop writing to one blog, but continue adding content to another one. In our latest example, Charlie may decide that he doesn’t want to write to B1 anymore and will contribute only to B2.
+What is the probability of a given author to continue contributing to a particular blog, given how equal (or unequal) person’s contribution to this blog is. Note, that a user who contributes to several blogs may stop writing to one blog, but continue adding content to another one. In our latest example, Charlie may decide that he doesn’t want to write to B1 anymore and will contribute only to B2.  
 Generally speaking, there may be four types of connection between the inequality score and the persistence probability as schematically depicted in the figure below:
 
 ![halved_10]({{ site.baseurl }}/assets/img/2016/03/halved_10.png){:width="730"}{:class="alignnone"}
@@ -194,7 +194,7 @@ According to our data, option A seems to describe better the reality. Contrarily
 
  Authors who contribute more are more likely to survive[/caption]
 
-There is another level to analyze contribution inequality. If you go back to our latest example, you’ll notice that the contributions to B1 are very balanced, while the contributions to B1 are not. To quantify such a balance we use the Gini index. The Gini index is in extensive use in economics. It was developed to measure the extent to which the distribution of a limited resource among individuals deviates from a perfectly equal distribution. The Gini index ranges from zero to one. The value of zero means total equality, and one means the strongest inequality possible. Taken in the example above, blog B1 has the Gini index of 0.44 and B2 has the index of 0.
+There is another level to analyze contribution inequality. If you go back to our latest example, you’ll notice that the contributions to B1 are very balanced, while the contributions to B1 are not. To quantify such a balance we use the Gini index. The Gini index is in extensive use in economics. It was developed to measure the extent to which the distribution of a limited resource among individuals deviates from a perfectly equal distribution. The Gini index ranges from zero to one. The value of zero means total equality, and one means the strongest inequality possible. Taken in the example above, blog B1 has the Gini index of 0.44 and B2 has the index of 0.  
 Having computed the Gini index for all the blogs in our study, we can analyze the connection between the Gini index and the probability of a blog to survive one year after the analysis. Similarly to the previous case, there are four possible relationships between the measured value (Gini index) and the probability:
 
 ![halved_12]({{ site.baseurl }}/assets/img/2016/03/halved_12.png){:width="730"}{:class="alignnone"}

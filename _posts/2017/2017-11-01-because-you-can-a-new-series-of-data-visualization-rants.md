@@ -14,7 +14,7 @@ layout: "post"
 Here's an old joke:
 
 > 
->   Q: Why do dogs lick their balls?
+>   Q: Why do dogs lick their balls?  
 >   A: Because they can.
 
 Canine behavior aside, the fact that you can do something doesn't mean that you **should** to it. I already wrote about one such example, when I [compared between chart legends to muttonchops](https://gorelik.net/2017/04/12/chart-legends-and-the-muttonchops/).

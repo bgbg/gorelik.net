@@ -11,7 +11,7 @@ layout: "post"
 ---
 
 > 
-> Any dispute that is for the sake of Heaven is destined to endure; one that is not for the sake of Heaven is not destined to endure
+> Any dispute that is for the sake of Heaven is destined to endure; one that is not for the sake of Heaven is not destined to endure  
 > 
 > <small>Chapters of the Fathers 5:27</small>
 
@@ -39,7 +39,7 @@ I assume that X was angry when he wrote some of the things he wrote. I also beli
 
 I'm sure though that it was this argument that enabled us to define the main "pain" points for both sides of the dispute. As long as the dispute was about ideas, not personas, and as long as the dispute's goal was for the sake of the common good, it was worth it. To my current and future colleagues: if you hear me arguing loudly, please know that this is a "dispute that is for the sake of Heaven [that] is destined to endure."
 
-<small><br>
-<span style="color:#999999">Featured image: Source: http://mimiandeunice.com/; Bees image: Photo by Flickr user <a href="https://www.flickr.com/photos/silangel/">silangel</a>, modified. Under the CC-BY-NC license.<br>
+<small><br>  
+<span style="color:#999999">Featured image: Source: http://mimiandeunice.com/; Bees image: Photo by Flickr user <a href="https://www.flickr.com/photos/silangel/">silangel</a>, modified. Under the CC-BY-NC license.<br>  
 </span><br>
 </small>
