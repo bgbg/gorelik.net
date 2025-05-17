@@ -20,7 +20,7 @@ A data giraffe is a situation where a very prominent data point shades everythin
 
 Dealing with data giraffes is hard, especially when dealing with bar charts. Today I saw one interesting approach to this problem
 
-Katherine S. Rowell is a co-funder of a Boston firm that specializes in data visualization. In December, she published a[ post dedicated to one of the most popular but also most abused graph types, the bar charts](http://ksrowell.com/blog-visualizing-data/2019/12/18/bar-humbug/). One of the examples in her post demonstrates a nice treatment of data giraffes
+Katherine S. Rowell is a co-funder of a Boston firm that specializes in data visualization. In December, she published a[post dedicated to one of the most popular but also most abused graph types, the bar charts](http://ksrowell.com/blog-visualizing-data/2019/12/18/bar-humbug/). One of the examples in her post demonstrates a nice treatment of data giraffes
 
 ![]({{ site.baseurl }}/assets/img/2020/03/null-9.png)*[<http://ksrowell.com/blog-visualizing-data/2019/12/18/bar-humbug/>](http://ksrowell.com/blog-visualizing-data/2019/12/18/bar-humbug/)*
 

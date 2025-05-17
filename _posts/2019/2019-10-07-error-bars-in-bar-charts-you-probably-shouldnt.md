@@ -63,7 +63,7 @@ Yes. First, I recommend reading the "Error bars considered harmful" paper that I
 
 ![]({{ site.baseurl }}/assets/img/2019/10/image-5.png){:width="1024"}
 
-Nathan Yau from flowingdata.com had an[ extensive post about different ways to visualize uncertainty](https://flowingdata.com/2018/01/08/visualizing-the-uncertainty-in-data/). He reviewed ranges, shades, rectangles, spaghetti charts and more. 
+Nathan Yau from flowingdata.com had an[extensive post about different ways to visualize uncertainty](https://flowingdata.com/2018/01/08/visualizing-the-uncertainty-in-data/). He reviewed ranges, shades, rectangles, spaghetti charts and more. 
 
 Claus Wilke's book "[Fundamentals of Data Visualization"](https://amzn.to/2MhxFna) has a dedicated chapter to uncertainty with and even more detailed review [[link](https://serialmentor.com/dataviz/visualizing-uncertainty.html)].
 

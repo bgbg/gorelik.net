@@ -12,7 +12,7 @@ cover_image: "/assets/img/2019/02/pexels-photo-1076813.jpeg"
 layout: "post"
 ---
 
-I'm a terrible procrastinator. A couple of years ago, I installed [RescueTime ](https://www.rescuetime.com/dashboard)to fight this procrastination. The idea behind RescueTime is simple — it tracks the sites you visit and the application you use and classifies them according to how productive you are. Using this information, RescueTime provides a regular report of your productivity. You can also trigger the productivity mode, in which RescueTime will block all the distractive sites such as Facebook, Twitter, news sites, etc. You can also configure RescueTime to trigger this mode according to different settings. This sounded like a killer feature for me and was the main reason behind my decision to purchase a RescueTime subscription. Yesterday, I realized how wrong I was.
+I'm a terrible procrastinator. A couple of years ago, I installed [RescueTime](https://www.rescuetime.com/dashboard)to fight this procrastination. The idea behind RescueTime is simple — it tracks the sites you visit and the application you use and classifies them according to how productive you are. Using this information, RescueTime provides a regular report of your productivity. You can also trigger the productivity mode, in which RescueTime will block all the distractive sites such as Facebook, Twitter, news sites, etc. You can also configure RescueTime to trigger this mode according to different settings. This sounded like a killer feature for me and was the main reason behind my decision to purchase a RescueTime subscription. Yesterday, I realized how wrong I was.
 
 ![RescueTime logo]({{ site.baseurl }}/assets/img/2019/02/rescuetimelogo.jpeg){:width="228"}{:class="alignright"}
 

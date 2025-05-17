@@ -15,7 +15,7 @@ tags:
 layout: "post"
 ---
 
-Today, I made a presentation to the faculty of the [Chisinau ](http://www.math.md/en/)  
+Today, I made a presentation to the faculty of the [Chisinau](http://www.math.md/en/)  
 [Institute of Mathematics and Computer Science](http://www.math.md/en/). The audience gathered in a conference room in Chisinau, and I was in my home office in Israel.
 
 ![Me presenting in front of the computer]({{ site.baseurl }}/assets/img/2018/02/presenting_over_skype.png){:width="1280"}{:class="alignnone"}

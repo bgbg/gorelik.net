@@ -221,6 +221,4 @@ Team up! The evidence is clear: people who write in groups are more likely to ke
 
 The information in this post was first presented at [WordCamp Israel](https://2016.israel.wordcamp.org/) that took place in Jerusalem on March 28, 2016. This study was performed in tight collaboration with Lior Zalmanson, a post-doc researcher in the Stern School of Business, New York University.
 
-[![Opening slide]({{ site.baseurl }}/assets/img/2016/03/screen-shot-2016-03-30-at-10-01-42.png){:width="262"}{:class="alignnone"}
-
-](https://2016.israel.wordcamp.org/)
+[![Opening slide]({{ site.baseurl }}/assets/img/2016/03/screen-shot-2016-03-30-at-10-01-42.png){:width="262"}{:class="alignnone"}](https://2016.israel.wordcamp.org/)

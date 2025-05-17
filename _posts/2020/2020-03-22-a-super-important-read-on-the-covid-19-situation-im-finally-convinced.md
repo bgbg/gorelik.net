@@ -19,7 +19,7 @@ Until now I was very sceptical about the COVID-19 measures taken by many the gov
 
 ![]({{ site.baseurl }}/assets/img/2020/03/screen-shot-2020-03-22-at-15.45.07.png){:width="1024"}
 
-There's no point rephrasing here the original post,[ just go and read it](https://medium.com/@tomaspueyo/coronavirus-the-hammer-and-the-dance-be9337092b56). I'm convinced. Thank you,  Tomas Pueyo
+There's no point rephrasing here the original post,[just go and read it](https://medium.com/@tomaspueyo/coronavirus-the-hammer-and-the-dance-be9337092b56). I'm convinced. Thank you,  Tomas Pueyo
 
 [![]({{ site.baseurl }}/assets/img/2020/03/image-13.png){:width="1024"}](https://medium.com/@tomaspueyo/coronavirus-the-hammer-and-the-dance-be9337092b56)  
 *Go and read. The image is clickable*

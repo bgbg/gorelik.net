@@ -25,7 +25,7 @@ Anyhow, I'd like to share a set of posts by Lior Patcher in which he calls bulls
 
 Unfortunately, I don't publish academic papers. But if I do, I will definitely want prof. Patcher read it, and let the world know what he thinks about it. For good and for bad.
 
-Speaking of calling bullshit. Believe it or not, University of Washington has a course with this exact title. The course is available online[ <http://callingbullshit.org/>](http://callingbullshit.org/) and is worth watching. I watched all the course's videos during my last flight from Canada to Israel. The featured image of this post is a screenshot of this course's homepage.
+Speaking of calling bullshit. Believe it or not, University of Washington has a course with this exact title. The course is available online[<http://callingbullshit.org/>](http://callingbullshit.org/) and is worth watching. I watched all the course's videos during my last flight from Canada to Israel. The featured image of this post is a screenshot of this course's homepage.
 
  
 

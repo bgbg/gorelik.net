@@ -15,7 +15,7 @@ cover_image: "/assets/img/2018/02/justice.jpeg"
 layout: "post"
 ---
 
-My teammate, [Charles Earl](https://charlesearl.blog) has recently attended the [Conference on Fairness, Accountability, and ](https://fatconference.org/)[Transparency (FAT*)](https://fatconference.org/). The conference site is full of very interesting material, including proceedings and video recording of lectures and tutorials.
+My teammate, [Charles Earl](https://charlesearl.blog) has recently attended the [Conference on Fairness, Accountability, and](https://fatconference.org/)[Transparency (FAT*)](https://fatconference.org/). The conference site is full of very interesting material, including proceedings and video recording of lectures and tutorials.
 
 Reading through the conference proceedings, I found a very interesting paper titled "[The Cost of Fairness in Binary Classification](http://proceedings.mlr.press/v81/menon18a/menon18a.pdf)." This paper talks about the measures one needs to take in order not use sensitive features (such as race) as the means to discrimination, with a reasonable accuracy tradeoff.
 
