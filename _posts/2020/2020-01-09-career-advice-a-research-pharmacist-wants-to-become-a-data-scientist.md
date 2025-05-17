@@ -19,7 +19,7 @@ Here's the original email with minor edits, followed by my response.
 
 ## The question
 
-Hi Boris, 
+Hi Boris,
 
 My name is XXXXX, and I came across your information and your advice on data science as I was researching career opportunities.
 

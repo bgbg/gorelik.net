@@ -27,8 +27,6 @@ I'm not saying that Exposé constructed a nonsense model. I have no idea what th
 
 ![diff_series]({{ site.baseurl }}/assets/img/2018/02/diff_series.png){:width="649"}{:class="alignnone"}
 
- 
-
 Suddenly, my bluff is evident.
 
 To sum up, a direct comparison of observed and predicted time series can only be used as a starting point for a more detailed analysis. Without such an analysis, this comparison is nothing but a meaningless illustration.

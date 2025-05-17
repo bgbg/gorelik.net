@@ -13,5 +13,3 @@ I have been told that the data visualization workshop ("[Data Visualization from
 See you soon
 
  
-
- 

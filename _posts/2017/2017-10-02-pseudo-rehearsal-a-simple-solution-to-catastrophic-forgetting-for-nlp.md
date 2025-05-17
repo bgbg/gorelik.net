@@ -15,8 +15,6 @@ Frequently, training a machine learning model in a single session is impossible.
 
 This post is written by Matthew Honnibal from the team behind the excellent [Spacy NLP library.](https://spacy.io/) This post is valuable in many aspects. First, it demonstrates a simple-to-implement technique. More importantly, it provides the [True Name](https://en.wikipedia.org/wiki/True_name) for a problem I encounter from time to time: [Catastrophic forgetting](https://scholar.google.co.il/scholar?hl=en&q=catastrophic+forgetting&btnG=&as_sdt=1%2C5&as_sdtp=).
 
- 
-
 <small>Featured <a href="https://www.flickr.com/photos/herrolsen/5388521148/in/photolist-9dazB3-saPn4G-dm3Cvs-3N4e4d-7fmo8b-7fhxVV-7fhoPn-7fmpEy-7KRJAg-7fhoHZ-5YWLwy-dm3Awt-c8A9iN-7Wp5ej-c6GQfu-YashAr-xKTD9v-7fhySe-7fmqTw-3kdDn-4pj8fj-7fmrmW-dm3DDb-dm3DZh-4FXUjB-7fhwai-6gR4Jn-7fmsr9-7fmqZ7-C9BDrT-cRgK2-j61DKu-mRDqJp-2PhywT-7fmrGh-7fhyjM-jT9Npx-7pUCQT-pZDiG-7fhypp-7fmruJ-adkwq1-jmGDVa-6BsxLw-dcGQza-6VDu3i-7fhyEe-ebNqo1-pZDmc-bUvX2o" target="_blank" rel="noopener">image</a> is by Flickr user Herr Olsen under CC-by-nc-2.0</small>
 
 <small>  

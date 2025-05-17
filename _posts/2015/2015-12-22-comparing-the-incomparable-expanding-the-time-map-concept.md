@@ -53,7 +53,6 @@ On the other hand, another user, who has two blogs presents a completely differe
 
 ![timemaps_fig08]({{ site.baseurl }}/assets/img/2015/12/timemaps_fig08.png){:width="444"}{:class="alignnone"}
 
- 
 ## Bringing the maps to the common scale
 
 You may have noticed the vast differences in time scales that we saw in the maps above. Sometimes, we are interested in map’s *shape*, so that we can compare similar patterns that occur at different time scales. To achieve this task, I first sort time difference values in each case (user, blog, log record, etc.). Next, I transform these values such that the median time difference (the one that is larger than half of the observed points) gets the value of 0. Time differences larger then the median receive positive values and time differences smaller than the median receive negative values. In technical terms: I first compute the empirical cumulative distribution of the time differences, and then perform logit transform.

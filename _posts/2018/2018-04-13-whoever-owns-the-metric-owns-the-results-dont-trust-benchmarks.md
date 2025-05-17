@@ -76,5 +76,3 @@ On my computer, the timings to generate primes smaller than 10,000,000 is 1.97 s
 Whoever owns the metric owns the results. Never trust a benchmark result before you understand how the benchmark was performed, and before making sure the benchmark was performed under the conditions that are relevant to you and your problem.
 
  
-
- 

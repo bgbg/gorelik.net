@@ -74,12 +74,6 @@ To sum up:
 >   0 True  
 >   dtype: bool
 
- 
-
 Beware.
-
- 
-
- 
 
  

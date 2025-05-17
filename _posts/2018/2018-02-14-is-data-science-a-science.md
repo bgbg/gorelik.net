@@ -25,8 +25,6 @@ My favorite quote from that lecture is
 
 I strongly recommend watching this lecture. It's one hour long, so if you don't have time, you may listen to it while commuting. Feynman is so clear, you can get most of the information by ear only.
 
- 
-
 <https://www.youtube.com/watch?v=OX1EK5IBSdw>
 
  

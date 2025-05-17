@@ -25,6 +25,4 @@ As any tool, priming can be used for good or bad causes. Priming abuse can be a 
 
 P.S. The paper mentioned by Kosara is noticeable not only by its results (they are not as astonishing as I expected from the featured image) but also by how the authors report their research, including the failures.
 
- 
-
 <small>Featured image is Figure 1 from <a href="http://homepage.univie.ac.at/michael.sedlmair/papers/calero-valdez2017priming.pdf" target="_blank" rel="noopener">Calero Valdez et al. Priming and Anchoring Effects in Visualization</a></small>

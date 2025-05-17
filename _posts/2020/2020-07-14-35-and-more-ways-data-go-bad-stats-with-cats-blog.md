@@ -11,8 +11,6 @@ layout: "post"
 
 If you plan working data analysis or processing, read the excellent post in the "stats with cats blog" titled "35 Ways Data Go Bad" post. I did experience each and every one of the 35 problems. However, this list is far from being complete. One should add the comprehensive list of [Falsehoods Programmers Believe About Time](https://infiniteundo.com/post/25326999628/falsehoods-programmers-believe-about-time).
 
- 
-
 ![](https://statswithcats.files.wordpress.com/2020/07/error-cat-7.jpg){:width="1600"}
 
 > When you take your first statistics class, your professor will be a kind person who cares about your mental well-being. OK, maybe not, but what the professor won’t do is give you real-world data sets. The data may represent things you find in the real world but the data set will be free of errors. […]  

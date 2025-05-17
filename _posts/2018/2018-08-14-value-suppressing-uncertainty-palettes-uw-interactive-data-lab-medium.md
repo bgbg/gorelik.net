@@ -23,10 +23,6 @@ Uncertainty visualization is commonly done by reducing color saturation and opac
 
 ![Two figures visualizing poll data over the USA map, using different approaches to visualize uncertainty]({{ site.baseurl }}/assets/img/2018/08/screen-shot-2018-08-12-at-15-44-55.png){:width="1158"}{:class="alignnone"}
 
- 
-
 Visualizing uncertainty is one of the most challenging tasks in data visualization. Uncertain
-
- 
 
 via [Value-Suppressing Uncertainty Palettes – UW Interactive Data Lab – Medium](https://medium.com/@uwdata/value-suppressing-uncertainty-palettes-426130122ce9)

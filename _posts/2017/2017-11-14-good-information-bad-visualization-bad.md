@@ -23,5 +23,3 @@ via [Math required for machine learning — Youth Innovation](https://youthinnov
 I would write a post about good practices in pie charts, but Robert Kosara, of <https://eagereyes.org> does this so well, I don't really think I need to reinvent the weel. Pie charts are very powerful in conveying information. Make sure you use this tool well. I strongly suggest reading [everything Robert Kosara has to say on this topic](https://eagereyes.org/?s=pie+chart).
 
  
-
- 

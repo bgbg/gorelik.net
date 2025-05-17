@@ -16,6 +16,4 @@ The first lesson of the course [Data Visualization Beyond the Tutorial](https://
 
 Do you know a friend, a colleague, a classmate who needs to communicate numbers as part of their works? Let them know about this course. They will thank you :-)
 
- 
-
 <https://youtu.be/N54OeCNTaLU>

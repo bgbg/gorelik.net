@@ -20,8 +20,6 @@ layout: "post"
 
 <span style="line-height:1.5;">Writing a blog is a hard and demanding task. It requires creativity, dedication and persistence. Data shows that a large percentage of bloggers stop posting after a couple of months, and most of them don’t survive for more than a year. What is the force that drives the successful bloggers? What factors distinguish the persistent bloggers from the “quitters”? Is there anything a person can do to increase his or her chances to keep blogging and not to quit?</span>
 
- 
-
 ### Competing theories
 
 The research that I will present here was performed in collaboration with Lior Zalmanson, a post-doc researcher at Stern School of Business New York University. In this study, we asked ourselves whether people can increase their chance to keep blogging by joining forces.

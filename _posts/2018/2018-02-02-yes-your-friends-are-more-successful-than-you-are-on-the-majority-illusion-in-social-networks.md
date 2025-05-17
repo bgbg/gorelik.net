@@ -18,8 +18,6 @@ The starting point of this paper is the [friendship paradox](https://en.wikipedi
 
 Besides pointing out the existence of majority illusion phenomenon, the authors used synthetic networks to characterize the situations in which this phenomenon is most prevalent.
 
- 
-
 Quoting the authors:
 
 > the paradox is stronger in networks in which the better-connected nodes are active, and also in networks with a heterogeneous degree distribution. [...] The paradox is strongest in networks where low degree nodes have the tendency to connect to high degree nodes. [...] Activating the high degree nodes in such networks biases the local observations of many nodes, which in turn impacts collective phenomena

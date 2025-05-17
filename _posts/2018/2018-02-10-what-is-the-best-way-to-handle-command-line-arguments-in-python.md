@@ -28,8 +28,6 @@ if __name__ == '__main__':
     defopt.run(main)  
 [/code]
 
- 
-
 You have:
 
     * help string generation

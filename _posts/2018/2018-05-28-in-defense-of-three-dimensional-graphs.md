@@ -25,8 +25,6 @@ Of course, this is not a hypothetical example. We all remember how the late Stev
 
 Having said all that, **can you think of a legitimate case where adding the third dimension adds more value than distraction?** I worked hard, and I finally found it.
 
- 
-
 Take a look at the overlapping density plot (a.k.a "joy plot").
 
 ![Three joyplot examples]({{ site.baseurl }}/assets/img/2018/05/joyplots.jpg){:width="1724"}{:class="alignnone"}

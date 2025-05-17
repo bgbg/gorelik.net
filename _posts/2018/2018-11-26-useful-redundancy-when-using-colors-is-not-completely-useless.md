@@ -21,7 +21,7 @@ Pew Research Center is a "is a nonpartisan American fact tank based in Washingto
 
 But this post does not deal with the Isreali society but with graphs and colors.
 
-Look at the first chart in that report. You may see a tidy pie chart with several colored segments. 
+Look at the first chart in that report. You may see a tidy pie chart with several colored segments.
 
 ![Pie chart: Religious composition of Israeli society. The chart uses several colored segments]({{ site.baseurl }}/assets/img/2018/11/screen-shot-2018-11-26-at-10-49-51.png){:width="300"}{:class="aligncenter"}
 

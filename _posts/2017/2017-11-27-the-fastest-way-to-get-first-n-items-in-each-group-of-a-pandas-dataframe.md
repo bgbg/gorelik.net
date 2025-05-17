@@ -39,8 +39,6 @@ This is the output:
 
     3.19 ms ± 253 µs per loop (mean ± std. dev. of 7 runs, 100 loops each)
 
- 
-
 I suspected that head() was not the most efficient way to take the first lines. I tried .iloc
 
 [code lang="python"]

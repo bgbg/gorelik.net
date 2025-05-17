@@ -21,14 +21,8 @@ Anyhow, I'd like to share a set of posts by Lior Patcher in which he calls bulls
  	* [The network nonsense of Manolis Kellis](https://liorpachter.wordpress.com/2014/02/11/the-network-nonsense-of-manolis-kellis/). Published one day after "The "[The network nonsense of Albert-László Barabási](https://liorpachter.wordpress.com/2014/02/10/the-network-nonsense-of-albert-laszlo-barabasi/)", this post critiques another renown scientist. Again, with a lot of solid-sounding arguments.
  	* [When average is not enough: part II](http://chanceandnecessity.net/2016/07/21/when-average-is-not-enough-part-ii/). ("Where is part I?", you may ask. Read the post to discover).
 
- 
-
 Unfortunately, I don't publish academic papers. But if I do, I will definitely want prof. Patcher read it, and let the world know what he thinks about it. For good and for bad.
 
 Speaking of calling bullshit. Believe it or not, University of Washington has a course with this exact title. The course is available online[<http://callingbullshit.org/>](http://callingbullshit.org/) and is worth watching. I watched all the course's videos during my last flight from Canada to Israel. The featured image of this post is a screenshot of this course's homepage.
-
- 
-
- 
 
  

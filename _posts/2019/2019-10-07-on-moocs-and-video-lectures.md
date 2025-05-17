@@ -22,7 +22,7 @@ When Massive Online Open Courses (a.k.a MOOCs) emerged some X years ago, I was e
 
 * On MOOCs and video lectures. Prof. Loren Barbara from George Washington University explains [why her MOOCs are not built for video](https://www.classcentral.com/report/why-my-mooc-is-not-built-on-video/). If you consider creating an online class, you should read this.  
 * [The economic consequences of MOOCs](https://simplystatistics.org/2018/10/08/the-economic-consequences-of-moocs/). A concise summary of a [2018 study](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3260695) that suggest that MOOC's economic impact is high despite the high churn rates.  
-* [Thinkful.com](https://iblnews.org/chegg-will-acquire-coding-bootcamp-thinkful-for-80-million/), an online platform that provides personalized training to aspiring data professionals, got in the news three weeks ago [after being purchased for $80 million](https://iblnews.org/chegg-will-acquire-coding-bootcamp-thinkful-for-80-million/). Thinkful isn't a MOOC per-se but I have a special relationship with it: a couple of years ago I was accepted as a mentor at Thinkful but couldn't find time to actually mentor anyone. 
+* [Thinkful.com](https://iblnews.org/chegg-will-acquire-coding-bootcamp-thinkful-for-80-million/), an online platform that provides personalized training to aspiring data professionals, got in the news three weeks ago [after being purchased for $80 million](https://iblnews.org/chegg-will-acquire-coding-bootcamp-thinkful-for-80-million/). Thinkful isn't a MOOC per-se but I have a special relationship with it: a couple of years ago I was accepted as a mentor at Thinkful but couldn't find time to actually mentor anyone.
 
 ###  The bottom line
 

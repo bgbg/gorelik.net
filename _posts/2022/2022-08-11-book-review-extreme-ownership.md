@@ -24,7 +24,7 @@ The best leaders don't just take responsibility for their job. They take Extreme
 
 * It's not what you preach; it's what you tolerate
 
-* "Relax, look around, make a call." 
+* "Relax, look around, make a call."
 
 This point takes me back to my days as the chief combat medic in an IDF infantry battalion (here we come, more war stories!). One day, an instructor, a very experienced paramedic, told me that the first thing a medic should do when they arrive at a scene is to take a pulse, not the pulse of the victims, but your own pulse, to make sure you're calm and take the right decisions. 
 

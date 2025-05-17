@@ -25,8 +25,6 @@ However, I feel that I missed doing real ML complicated stuff. Most of the work 
 
 Well, this IS the real ML job for 91.4%* of data scientists. You were lucky to work in a company with access to data and has teams dedicated to keeping data flowing, neat, and organized. You worked in a company with good work ethics, surrounded by smart people, and, I guess, the computational power was never a big issue. Most of the data scientists that I know don't have all these perks. Some have to work alone; others need to solve "dull" engineering problems, find ways to process data on suboptimal computers or fight with a completely unstandardized data collection process. In fact, I know a young data scientist who quit their first post-Uni job after less than six months because she couldn't handle most of these problems.
 
- 
-
 However I don’t have any real research experience. I never published any paper, and feel like I always did easy stuff. Therefore, I lack confidence in the ML domain. I feel like what I’ve been doing is not complicated and I could be easily replaced.
 
 This is a super valid concern. I am surprised how few people in our field think about it. On the one hand, most ML practitioners don't publish papers because they are busy doing the job they are paid for. I am a big proponent of teaching as a means of professional growth. So, you can decide to teach a course in a local meetup, local college, in your workplace, or at a conference. Teaching is an excellent way to improve your communication skills, which are the best means for job security (see this [post](https://gorelik.net/2020/06/22/book-review-five-stars-by-carmine-gallo/)).
@@ -35,9 +33,7 @@ Since you work at XXXXX , I suggest talking to your manager and/or HR representa
 
 I feel like having a research experience/doing a PhD may be an essential part to stay relevant in the long term in the domain. Also, having an expertise in one of NLP/Computer Vision may be very valuable.
 
-I agree. Being a Ph.D. and an Israeli (we have one of the largest Ph.D. percentages globally) makes me biased. 
-
- 
+I agree. Being a Ph.D. and an Israeli (we have one of the largest Ph.D. percentages globally) makes me biased.
 
 I got 2 offers:
 

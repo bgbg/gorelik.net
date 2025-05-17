@@ -44,8 +44,6 @@ What do you do now? Is it possible that somewhere in your code there is a bug? I
 
 I hope that the theoretical data science research will narrow this gap. Meanwhile, the project managers will have to live with this great degree of uncertainty.
 
- 
-
 PS. As in any opinion post, I may be mistaken. If you think I am, please let me know in the comments section below.
 
 <small>The xckd image: https://xkcd.com/303/ under CC-nc. The wandering man image: Illustration: a blindfolded man wandering around. By <a href="https://www.flickr.com/photos/moominmolly/387313596/in/photolist-Ae5QC-dSNMiE-5M2J6B-FUxM3-AjunK-AjunQ-FTekM-7ZHpSg-8kSzar-8ixvSk-FS21G-d3S2m-9HwsZ-FUCHX-dqiKX9-4RRqpp-4vDDzP-67uoV3-2sxeW-46iQs-6p73Ux-SCkuC2-FS4VP-4crvCj-FS6pr-63FdXT-3Mv5CA-5hfAQi-9VV3mh-7G252-nm2Vob-cRyGwd-6Pf8zW-bmS8su-dBtXLu-SL5fu1-9z6YG9-4cg9xS-Vziu3x-Bhet8q-nvTi9a-tV7Fv-6PawCA-6PdYW9-J8R4zo-G3YF6q-JDoTHY-gwmAC2-k9iixX-fqHdVc">Flickr user Molly</a> under CC-by-nc-nd  

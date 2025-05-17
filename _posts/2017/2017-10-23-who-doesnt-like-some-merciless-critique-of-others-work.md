@@ -19,8 +19,6 @@ Reading merciless critique by knowledgeable experts is an excellent way to devel
 
 [<http://www.perceptualedge.com/blog/?p=2718>](http://www.perceptualedge.com/blog/?p=2718)
 
- 
-
 Disclaimer: Stephen Few was very generous to allow me using the illustrations from his [book](http://amzn.to/2vOXdiL) in my teaching.
 
 <small>Featured image is Public domain image by Alan Levine from <a href="https://www.flickr.com/photos/cogdog/30819427850/in/photolist-NXpCaG-dg8LL-bDmUMe-i6Kq1-iFMWWg-b2TVat-augnfa-8DBUYJ-d2xDsE-iGo5Ya-nRokgt-9Y6NCo-5emtL-eHWoc3-9mtAak-bv8hdE-4Jq6Vu-YHD5ab-4ptXuH-83XsgG-E6B8c-qbU2T1-3eEaWT-EbLC4-8rHsn5-Mxorp-v5uJf-sd5LK-4VvejS-frT4Bg-GnNdJF-Mxevh-sbehrn-6zcvfi-9mKvaa-roVNep-9S6kEm-8JtoJU-fPxGqz-6tu1HX-fFqtZD-GsicQC-iNpH9k-ej53ZN-5kb7iM-a4vCJU-gVhJyo-rxKNph-34Ydj3-a4vAYJ" target="_blank" rel="noopener">here</a></small>

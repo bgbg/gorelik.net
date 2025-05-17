@@ -24,7 +24,7 @@ So, what is Personal Kanban anyhow? Kanban is a productivity approach that puts 
 * Having all the critical tasks in front of your eyes helps to get the global picture. It also helps to group the tasks according to their contexts. 
 * The act of moving notes from one place to another gives valuable tangible feedback. This feedback has many psychological benefits.  
 * One should limit the number of work-in-progress tasks.  
-* There are three different types of "productivity." You are Productive when you work hard. You are Efficient when your work is actually getting done. Finally, you are Effective when you do the right job at the right time, and can repeat this process if needed. 
+* There are three different types of "productivity." You are Productive when you work hard. You are Efficient when your work is actually getting done. Finally, you are Effective when you do the right job at the right time, and can repeat this process if needed.
 
 I'm a long user of a productivity method that I adopted from [Mark Forster](http://markforster.squarespace.com/). You may read about my process [here](https://gorelik.net/2018/02/20/the-best-productivity-system-i-know/). Having read Personal Kanban, I decided to combine it with my approach. According to the plan, I have more significant tasks on my Kanban board, which I use to make daily, weekly, and long-term plans. For the day-to-day (and hour-to-hour) taks, I still use my notebooks. 
 

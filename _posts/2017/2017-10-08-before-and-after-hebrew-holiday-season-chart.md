@@ -24,8 +24,6 @@ There are quite a few points worth fixing in that plot. Let's review those probl
     * One interesting piece of information that one might expect to read from a graph is how many working days are there in year X. One can obtain this information either by counting the dots or by looking at a separate graph. It would be a good idea to make this information readily available to the observer.
     * The frame around the plot is useless.
 
- 
-
 OK, now that we have identified the problems, let's fix them
 
     * **Emphasize the right things.** I will use bigger points for the non-working days and small ones for the working days. I will also use squares instead of circles. Placing several squares one next to the other creates solid areas with less white space in-between. This lack of whitespace will help further emphasizing non-working chunks. I will make to leave *some* whitespace between the points, to enable counting.

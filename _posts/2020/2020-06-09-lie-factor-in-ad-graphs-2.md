@@ -33,7 +33,3 @@ If the orange bar represents 61 seconds, then the dark blue one stands for 123 s
 I can't figure out what guided the Meuhedet creative team in selecting the bar heights. What I do know that they lied. And this lie can be quantified.
 
  
-
- 
-
- 

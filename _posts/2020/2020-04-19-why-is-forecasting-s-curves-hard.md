@@ -19,7 +19,7 @@ Constance Crozier ([@clcrozier](https://twitter.com/clcrozier/status/12511488905
 
 The matter of fact is that this phenomenon is not new at all. My first post-University job involved fitting numerous pharmacodynamics models. We always had to keep in mind that if the available data does not account for at least 95% of the maximum effect, the model will be very much suboptimal. It took me a while, but I managed to find the reference for this phenomenon [[here](https://www.sciencedirect.com/science/article/abs/pii/S0022354915499873)]. Maybe, when I have some time, I will repeat Constance Crozier's analysis, and add confidence intervals to emphasize the point.
 
-**EDIT:** I came the conclusion that the most important takaway message of this demonstration is the necessity of reporting uncertainty with any forecast, and how small the value of a forecast is without uncertainty estimations. 
+**EDIT:** I came the conclusion that the most important takaway message of this demonstration is the necessity of reporting uncertainty with any forecast, and how small the value of a forecast is without uncertainty estimations.
 
 <https://player.vimeo.com/video/408599958?dnt=1&app_id=122963>
 
