@@ -3,8 +3,10 @@ email: boris@gorelik.net
 description: >- # this means to ignore newlines until "baseurl:"
   Data Science &amp; Communication Consultant and Advisor
   | AI, Machine Learning, Data Visualization
-baseurl: "/gorelik.net" # the subpath of your site, e.g. /blog
-url: "https://bgbg.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Change these two entries if configuring a custom domain.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: /:year/:month/:day/:title
 
@@ -13,6 +15,7 @@ blog_theme: light
 paginate: 25
 paginate_path: "/blog/page:num/"
 
+# See _includes/navigation.html for the logic for how these social links are processed.
 social:
   github: bgbg
   linkedin: boris-gorelik-phd
@@ -53,17 +56,6 @@ defaults:
       type: my_categories
     values:
       layout: articles_by_category
-
-assets:
-  plugins:
-    css: { autoprefixer: {}}
-    img: { optim: {}}
-  source_maps: false
-  sources:
-    - _assets/icons
-    - _assets/javascripts
-    - _assets/stylesheets
-    - _assets/yarn
 
 plugins:
   - jekyll-feed
