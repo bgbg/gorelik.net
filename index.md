@@ -5,6 +5,8 @@ layout: "page"
 
 ![]({{ site.baseurl }}/assets/img/2020/02/boris_gorelik_black.jpeg){:class="alignright" style="width:224px;height:482px"}
 
+Hello!
+
 I am a Data Science & Communication Expert who has been building data-based models since 2001. My focus is on helping teams and individuals maximize their impact by leveraging data-driven decision-making and effective collaboration to achieve success in various fields.
 
 I'm the co-editor and the producer of "[This Week in the Middle East](http://anchor.fm/hashavua/)", the oldest active Hebrew-language podcast devoted to this area.
@@ -26,7 +28,7 @@ I'm the co-editor and the producer of "[This Week in the Middle East](http://anc
 
 ![Boris Gorelik makes a presentation]({{ site.baseurl }}/assets/img/2019/06/61750049_352902355413812_6239805006766145536_o.jpg){:class="alignright" style="width:224px;height:149px"}
 
-**I am a communicator.** As the creator of [the newsletter Direction Matters](https://directionmatters.substack.com/), I share insights and experiences on teamwork, communication, and data-driven decision-making. Subscribe now for valuable tips and perspectives! In addition, I am a passionate communicator who loves public speaking, conducting workshops, and presenting at conferences in English, Hebrew, and Russian. Some of my talks and workshops have been recorded and [published on Youtube](https://www.youtube.com/playlist?list=PL3lB7Xz-wtgFEJdN9dcu5cdCEbbAooBy0). 
+**I am a communicator.** As the creator of [the newsletter Direction Matters](https://directionmatters.substack.com/), I share insights and experiences on teamwork, communication, and data-driven decision-making. Subscribe now for valuable tips and perspectives! In addition, I am a passionate communicator who loves public speaking, conducting workshops, and presenting at conferences in English, Hebrew, and Russian. Some of my talks and workshops have been recorded and [published on Youtube](https://www.youtube.com/playlist?list=PL3lB7Xz-wtgFEJdN9dcu5cdCEbbAooBy0).
 
 <br>
 
