@@ -5,8 +5,6 @@ layout: "page"
 
 ![]({{ site.baseurl }}/assets/img/2020/02/boris_gorelik_black.jpeg){:class="alignright" style="width:224px;height:482px"}
 
-Hello!
-
 I am a Data Science & Communication Expert who has been building data-based models since 2001. My focus is on helping teams and individuals maximize their impact by leveraging data-driven decision-making and effective collaboration to achieve success in various fields.
 
 I'm the co-editor and the producer of "[This Week in the Middle East](http://anchor.fm/hashavua/)", the oldest active Hebrew-language podcast devoted to this area.
